@@ -1,0 +1,43 @@
+# 毎時収集 → コミット(F-07 の収集部)。クラスタ計算・レンダリングは後続ループで追加する。
+name: collect
+
+on:
+  schedule:
+    - cron: "23 * * * *"   # 毎時 23 分(SPEC §5: 1 時間より密にしない。hodo と時間帯をずらす)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          dependencies: '"hard"'
+
+      - name: Collect snapshot
+        run: Rscript build/01_collect.R
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no changes"; exit 0
+          fi
+          git commit -m "data: snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
