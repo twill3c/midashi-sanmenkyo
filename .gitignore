@@ -1,0 +1,11 @@
+# out/ と data/ は Actions がコミットする(git 管理対象)
+build/*.log
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Vercel
+.vercel/
+.env*

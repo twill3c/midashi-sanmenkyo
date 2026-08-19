@@ -1,0 +1,6 @@
+{
+  "buildCommand": null,
+  "framework": null,
+  "outputDirectory": "out",
+  "git": { "deploymentEnabled": { "main": true } }
+}

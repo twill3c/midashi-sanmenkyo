@@ -1,0 +1,20 @@
+Package: midashisanmenkyo
+Title: Same Event, Different Headlines (midashi-sanmenkyo)
+Version: 0.0.1
+Description: Snapshots multiple news RSS feeds hourly, clusters headlines
+    about the same event across outlets via character-bigram cosine
+    similarity, and publishes side-by-side comparisons with per-outlet
+    lexical statistics as a static site. Built with build/, not R CMD build.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    xml2,
+    dplyr,
+    readr,
+    ggplot2,
+    glue,
+    svglite,
+    digest,
+    tibble
+Suggests:
+    testthat

@@ -1,0 +1,10 @@
+# スナップショットと台帳は SHA256 完全性検証(G-03)の対象 — EOL 変換を一切禁止する。
+# (autocrlf 環境のチェックアウトで CRLF 化されると台帳と食い違う — loop_006 で実証)
+data/snapshots/*.csv -text
+data/ledger.csv -text
+data/processed/*.csv -text
+
+# 生成 SVG もバイト一致(G-04)の対象
+out/**/*.svg -text
+tests/testthat/fixtures/*.svg -text
+tests/testthat/fixtures/*.xml -text
