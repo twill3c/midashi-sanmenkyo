@@ -4,3 +4,8 @@
 {"v": "1.2", "ts": "2026-08-20T00:07:03+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 105, "failed": 0, "errors": 1, "note": "lexstats 未実装の赤"}}
 {"v": "1.2", "ts": "2026-08-20T00:07:04+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T00:07:40+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 134, "failed": 0, "errors": 0}}
+{"v": "1.2", "ts": "2026-08-20T00:07:56+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "commit", "data": {"sha": "15bd1bb382c5d1cc2060f3c5c18457a1a54b6ebd", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-20T00:07:56+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:07:56+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:07:57+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:07:57+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_005", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "語彙指標 5 種を決定的定義で実装、辞書 419 語を固定コピー。134 テスト green・失敗 0"}}
