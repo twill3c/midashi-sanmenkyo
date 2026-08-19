@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+<channel rdf:about="https://mainichi.jp/rss/etc/mainichi-flash.rss">
+	<title>ニュース速報（総合）</title>
+	<link>https://mainichi.jp/rss/etc/mainichi-flash.rss</link>
+	<description></description>
+	<dc:language>ja</dc:language>
+	<dc:rights>The copyright of the materials belongs to the Mainichi Newspapers Co. unless stated otherwise.</dc:rights>
+	<dc:date>2026-08-19T23:47:13+09:00</dc:date>
+	<dc:publisher>毎日新聞社</dc:publisher>
+	<dc:creator>毎日新聞社</dc:creator>
+	<items>
+		<rdf:Seq>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/050/332000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/030/327000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/326000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/010/319000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/313000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/314000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/306000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/308000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/020/307000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/020/304000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260818/k00/00m/200/047000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/010/300000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/030/303000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/010/289000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/286000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/010/287000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/030/285000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/284000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/030/282000c"/>
+<rdf:li rdf:resource="https://mainichi.jp/articles/20260819/k00/00m/040/270000c"/>
+ 
+		</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/050/332000c">
+	<title>西武・源田壮亮がサヨナラ打　「初球狙う」を有言実行</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/050/332000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T23:10:26+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/030/327000c">
+	<title>米政権のICC所長制裁　EU委員長らが赤根氏との連帯示す</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/030/327000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T21:31:21+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/326000c">
+	<title>想定以上の豪雨　ハザードマップの浸水想定区域外で死者　千葉</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/326000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T21:34:45+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/010/319000c">
+	<title>中道・川内氏らが政治団体「ゴリラ」設立へ　リベラル結集狙い</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/010/319000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:39:58+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/313000c">
+	<title>千葉豪雨で作業場浸水　本納絵馬の画家「復旧祈り仕上げたい」</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/313000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T22:13:18+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/314000c">
+	<title>千葉豪雨1週間　複数マンションで続く停電　JR外房線一部運休</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/314000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T21:34:26+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/306000c">
+	<title>熊本地震で井戸被災　水道未普及地区、生活に支障　移住悩む人も</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/306000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:37:30+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/308000c">
+	<title>逮捕の容疑者はJAF職員　踏切で後続車の道ふさぎ殺人未遂容疑</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/308000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:15:26+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/020/307000c">
+	<title>大飯原発3号機の自動停止トラブル　発電設備の関連機器に損傷</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/020/307000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:13:44+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/020/304000c">
+	<title>熊本地震による被害「前回上回る可能性」　JR九州社長が示唆</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/020/304000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:36:09+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260818/k00/00m/200/047000c">
+	<title>映画の推し事:被爆を語り継ぐとは　「八月の声を運ぶ男」　虚構に刻まれる歴史</title>
+	<link>https://mainichi.jp/articles/20260818/k00/00m/200/047000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:00:17+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/010/300000c">
+	<title>水中発射型ミサイルを開発へ　防衛省の概算要求、全容が判明</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/010/300000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T19:54:01+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/030/303000c">
+	<title>「国際法による秩序危機に」　ICCが声明、米の赤根所長制裁で</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/030/303000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T19:53:32+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/010/289000c">
+	<title>読む政治:無視された日本政府の懸念　米に狙われた「最後のとりで」ICC</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/010/289000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T21:11:30+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/286000c">
+	<title>「万博レガシーに活用を」　大阪市の男女2人、4億円を寄付</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/286000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T19:34:32+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/010/287000c">
+	<title>超党派議員団、24日から訪中へ　台湾有事発言後で初の受け入れ</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/010/287000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:39:16+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/030/285000c">
+	<title>韓国、中国に北朝鮮問題の協力要請か　王毅氏が訪韓、外相会談</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/030/285000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T22:58:20+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/284000c">
+	<title>真相・ニュースの現場から,大阪・関西万博:背任容疑のスーパーゼネコン現場トップ　社内で出ていたうわさ</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/284000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T19:21:37+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/030/282000c">
+	<title>トランプ政権:国際刑事裁判所を「犯罪者扱い」　その実害とトランプ氏の狙いは</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/030/282000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T20:38:51+09:00</dc:date>
+</item>
+<item rdf:about="https://mainichi.jp/articles/20260819/k00/00m/040/270000c">
+	<title>遅延させた時間を競った疑い　少年撮り鉄グループを書類送致</title>
+	<link>https://mainichi.jp/articles/20260819/k00/00m/040/270000c</link>
+	<dc:subject>ニュース</dc:subject>
+	<dc:date>2026-08-19T21:28:50+09:00</dc:date>
+</item>
+ 
+</rdf:RDF>
