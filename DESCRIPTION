@@ -15,6 +15,7 @@ Imports:
     glue,
     svglite,
     digest,
-    tibble
+    tibble,
+    stringi
 Suggests:
     testthat
