@@ -80,10 +80,15 @@ test_that("三面鏡クラスタの抽出: 2 社以上のみ・単独社は除�
   expect_true(all(per$k >= 2))
 })
 
-test_that("フッタ定義: 公開済みリンクのみ・全 https(F-08)", {
+test_that("フッタ定義: フリート標準 5 リンク・全 https(F-08)", {
   links <- footer_links()
-  expect_equal(vapply(links, function(l) l$label, ""), c("MIT License", "GitHub", "App Menu"))
-  for (l in links) expect_match(l$href, "^https://")
+  expect_equal(vapply(links, function(l) l$label, ""),
+               c("MIT License", "GitHub", "三面鏡の見方", "三面鏡の設計図", "App Menu"))
+  hrefs <- vapply(links, function(l) l$href, "")
+  for (h in hrefs) expect_match(h, "^https://")
+  expect_false(hrefs[3] == hrefs[4])
+  expect_match(hrefs[3], "^https://claude\\.ai/code/artifact/")
+  expect_match(hrefs[4], "^https://claude\\.ai/code/artifact/")
   expect_match(footer_html(links), "© 2026 坂田哲朗", fixed = TRUE)
 })
 

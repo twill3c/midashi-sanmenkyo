@@ -29,47 +29,47 @@
 <rect x='0.00' y='0.00' width='576.00' height='360.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpNDUuNTB8NTcwLjUyfDYwLjkxfDM0MS43MQ=='>
-    <rect x='45.50' y='60.91' width='525.02' height='280.80' />
+  <clipPath id='cpNDUuODV8NTcwLjUyfDYxLjI3fDM0MS40NA=='>
+    <rect x='45.85' y='61.27' width='524.67' height='280.17' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpNDUuNTB8NTcwLjUyfDYwLjkxfDM0MS43MQ==)'>
-<polyline points='45.50,328.94 570.52,328.94 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='45.50,265.12 570.52,265.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='45.50,201.31 570.52,201.31 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='45.50,137.49 570.52,137.49 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='45.50,73.67 570.52,73.67 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='75.08' y='190.57' width='28.33' height='138.37' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='200.09' y='219.20' width='28.33' height='109.74' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.09' y='302.70' width='28.33' height='26.24' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='450.10' y='281.23' width='28.33' height='47.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='106.34' y='170.64' width='28.33' height='158.30' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
-<rect x='231.34' y='217.71' width='28.33' height='111.24' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
-<rect x='356.35' y='209.15' width='28.33' height='119.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
-<rect x='481.35' y='283.31' width='28.33' height='45.64' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
-<rect x='137.59' y='154.76' width='28.33' height='174.19' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
-<rect x='262.59' y='229.84' width='28.33' height='99.11' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
-<rect x='387.60' y='207.81' width='28.33' height='121.13' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
-<rect x='512.60' y='281.89' width='28.33' height='47.05' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
+<g clip-path='url(#cpNDUuODV8NTcwLjUyfDYxLjI3fDM0MS40NA==)'>
+<polyline points='45.85,328.70 570.52,328.70 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='45.85,265.03 570.52,265.03 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='45.85,201.36 570.52,201.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='45.85,137.68 570.52,137.68 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='45.85,74.01 570.52,74.01 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='75.41' y='190.64' width='28.32' height='138.06' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='200.33' y='219.21' width='28.32' height='109.50' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='325.26' y='302.52' width='28.32' height='26.18' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='450.18' y='281.10' width='28.32' height='47.61' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='106.64' y='170.76' width='28.32' height='157.94' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
+<rect x='231.56' y='217.72' width='28.32' height='110.98' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
+<rect x='356.49' y='209.18' width='28.32' height='119.52' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
+<rect x='481.41' y='283.17' width='28.32' height='45.53' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
+<rect x='137.87' y='154.91' width='28.32' height='173.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
+<rect x='262.79' y='229.82' width='28.32' height='98.88' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
+<rect x='387.72' y='207.85' width='28.32' height='120.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
+<rect x='512.64' y='281.76' width='28.32' height='46.94' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwzNjAuMDA=)'>
-<text x='40.57' y='331.97' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.72px' lengthAdjust='spacingAndGlyphs'>0%</text>
-<text x='40.57' y='268.15' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.61px' lengthAdjust='spacingAndGlyphs'>25%</text>
-<text x='40.57' y='204.33' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.61px' lengthAdjust='spacingAndGlyphs'>50%</text>
-<text x='40.57' y='140.52' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.61px' lengthAdjust='spacingAndGlyphs'>75%</text>
-<text x='40.57' y='76.70' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.50px' lengthAdjust='spacingAndGlyphs'>100%</text>
-<text x='120.50' y='352.69' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='35.19px' lengthAdjust='spacingAndGlyphs'>体言止め</text>
-<text x='245.51' y='352.69' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='43.98px' lengthAdjust='spacingAndGlyphs'>数字を含む</text>
-<text x='370.51' y='352.69' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='35.19px' lengthAdjust='spacingAndGlyphs'>かぎ括弧</text>
-<text x='495.52' y='352.69' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='52.78px' lengthAdjust='spacingAndGlyphs'>感情語を含む</text>
-<text transform='translate(13.05,201.31) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='143.00px' lengthAdjust='spacingAndGlyphs'>その特徴を持つ見出しの割合</text>
-<rect x='224.62' y='27.90' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='271.45' y='27.90' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
-<rect x='334.88' y='27.90' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
-<text x='246.67' y='38.86' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='18.59px' lengthAdjust='spacingAndGlyphs'>NHK</text>
-<text x='293.50' y='38.86' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='35.19px' lengthAdjust='spacingAndGlyphs'>朝日新聞</text>
-<text x='356.93' y='38.86' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='35.19px' lengthAdjust='spacingAndGlyphs'>毎日新聞</text>
-<text x='45.50' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='126.66px' lengthAdjust='spacingAndGlyphs'>見出しの癖 — 社別比較</text>
+<text x='40.91' y='331.85' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.72px' lengthAdjust='spacingAndGlyphs'>0%</text>
+<text x='40.91' y='268.18' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.61px' lengthAdjust='spacingAndGlyphs'>25%</text>
+<text x='40.91' y='204.51' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.61px' lengthAdjust='spacingAndGlyphs'>50%</text>
+<text x='40.91' y='140.83' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.61px' lengthAdjust='spacingAndGlyphs'>75%</text>
+<text x='40.91' y='77.16' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.50px' lengthAdjust='spacingAndGlyphs'>100%</text>
+<text x='120.80' y='352.67' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='33.58px' lengthAdjust='spacingAndGlyphs'>体言止め</text>
+<text x='245.72' y='352.67' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='40.20px' lengthAdjust='spacingAndGlyphs'>数字を含む</text>
+<text x='370.64' y='352.67' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='31.83px' lengthAdjust='spacingAndGlyphs'>かぎ括弧</text>
+<text x='495.57' y='352.67' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='49.00px' lengthAdjust='spacingAndGlyphs'>感情語を含む</text>
+<text transform='translate(13.36,201.36) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='128.06px' lengthAdjust='spacingAndGlyphs'>その特徴を持つ見出しの割合</text>
+<rect x='224.79' y='28.26' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='271.62' y='28.26' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E07A3F;' />
+<rect x='335.05' y='28.26' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #4A9D6B;' />
+<text x='246.84' y='39.35' style='font-size: 8.80px; font-family: "Arial";' textLength='18.59px' lengthAdjust='spacingAndGlyphs'>NHK</text>
+<text x='293.67' y='39.35' style='font-size: 8.80px; font-family: "Arial";' textLength='35.19px' lengthAdjust='spacingAndGlyphs'>朝日新聞</text>
+<text x='357.10' y='39.35' style='font-size: 8.80px; font-family: "Arial";' textLength='35.19px' lengthAdjust='spacingAndGlyphs'>毎日新聞</text>
+<text x='45.85' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='122.61px' lengthAdjust='spacingAndGlyphs'>見出しの癖 — 社別比較</text>
 </g>
 </g>
 </svg>
