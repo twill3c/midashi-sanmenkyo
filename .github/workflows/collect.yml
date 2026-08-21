@@ -1,4 +1,5 @@
-# 毎時収集 → コミット(F-07 の収集部)。クラスタ計算・レンダリングは後続ループで追加する。
+# 毎時 収集 → クラスタ計算 → レンダリング → コミット(F-07)。
+# Vercel は Git 連携で main の out/ を配信する(Vercel 上ではビルドしない)。
 name: collect
 
 on:
@@ -31,11 +32,17 @@ jobs:
       - name: Collect snapshot
         run: Rscript build/01_collect.R
 
+      - name: Recompute clusters and stats
+        run: Rscript build/02_cluster.R
+
+      - name: Render site
+        run: Rscript build/03_render.R
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data out
           if git diff --cached --quiet; then
             echo "no changes"; exit 0
           fi
