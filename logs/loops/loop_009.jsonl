@@ -4,3 +4,4 @@
 {"v": "1.2", "ts": "2026-08-22T06:52:14+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 533, "failed": 4, "errors": 0, "note": "フッタ 5 リンク化前の赤"}}
 {"v": "1.2", "ts": "2026-08-22T06:52:14+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T06:52:44+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 539, "failed": 0, "errors": 0}}
+{"v": "1.2", "ts": "2026-08-22T06:52:53+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "commit", "data": {"sha": "7ef05147f4d0bfc2ea72693e415e006513af59e8", "kind": "feat"}}
