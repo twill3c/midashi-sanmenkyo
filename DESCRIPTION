@@ -16,6 +16,8 @@ Imports:
     svglite,
     digest,
     tibble,
-    stringi
+    stringi,
+    tidyr
 Suggests:
-    testthat
+    testthat,
+    jsonlite

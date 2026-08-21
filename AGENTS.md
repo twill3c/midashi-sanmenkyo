@@ -42,7 +42,10 @@ Conventional Commits(feat/fix/test/docs/refactor/chore)。スキャフォール�
 ## 1. 技術構成
 
 - R 4.6.1(`%LOCALAPPDATA%\Programs\R\R-4.6.1`、PATH 未登録 — Rscript.exe をフルパスで呼ぶ)
-- xml2 / dplyr / readr / ggplot2 / glue / svglite / digest / tibble / testthat
+- xml2 / dplyr / readr / ggplot2 / glue / svglite / digest / tibble / stringi / tidyr(+ testthat は Suggests)
+- **`R/` や `build/` で新しいパッケージを使ったら DESCRIPTION の Imports に必ず足す**。
+  CI は `dependencies: hard`(Imports のみ)で環境を作るため、ローカルに入っている
+  パッケージを宣言し忘れると CI だけが落ちる。test-deps.R が乖離を検出する
 - 形態素解析エンジンは使わない(文字バイグラム+決定的規則)。サイトは glue テンプレート直生成
 - 自動更新: GitHub Actions cron → out/ コミット → Vercel Git 連携(hodo-hangenki 方式)
 
