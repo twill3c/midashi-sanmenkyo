@@ -53,6 +53,9 @@ Conventional Commits(feat/fix/test/docs/refactor/chore)。スキャフォール�
 
 - テスト実行と `test_run` 記録は **`python harness/testrun.py --loop <loop_id>` 経由を必須**とする
 - loop_end の failure_count は `grep -c '"event": "failure"'` で数える(記憶で書かない)
+- 抽出・待機の条件を書く前に、**対象の実際の値を 1 回出力して境界を確認**する(HC-001)
+- デプロイ反映の待機はマジックナンバーを使わず、**ローカル生成物と本番の一致**を条件にする
+  (例: `diff <(curl -s $URL) out/index.html`)。`until` ループには必ず上限時間を設ける(HC-001)
 - enum の許容値は `schema/taxonomy.json` と looplog.py の ENUMS が正
 
 ## 3. 品質ゲート(完了条件)
