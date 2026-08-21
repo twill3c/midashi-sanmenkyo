@@ -1,0 +1,117 @@
+/* midashi-sanmenkyo — 見出しの三面鏡。社ごとの色は「識別」用であり優劣を含意しない */
+:root {
+  --bg: #f7f8fa;
+  --card: #ffffff;
+  --ink: #1c2128;
+  --muted: #5a6472;
+  --border: #dfe4ea;
+  --accent: #2563eb;
+  --nhk: #2563eb;
+  --asahi: #c2622f;
+  --mainichi: #3f8a63;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #10141a;
+    --card: #181e27;
+    --ink: #e6e9ee;
+    --muted: #98a2b0;
+    --border: #2b333f;
+    --accent: #7aa2ff;
+    --nhk: #7aa2ff;
+    --asahi: #e09a63;
+    --mainichi: #6fc294;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #10141a;
+  --card: #181e27;
+  --ink: #e6e9ee;
+  --muted: #98a2b0;
+  --border: #2b333f;
+  --accent: #7aa2ff;
+  --nhk: #7aa2ff;
+  --asahi: #e09a63;
+  --mainichi: #6fc294;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Hiragino Sans", "Yu Gothic UI", "Meiryo", system-ui, sans-serif;
+  line-height: 1.75;
+  font-size: 15.5px;
+}
+.container { max-width: 860px; margin: 0 auto; padding: 0 20px 40px; }
+.page-header { padding: 40px 0 8px; }
+.breadcrumb { font-size: 0.85rem; }
+.breadcrumb a, .nav a { color: var(--muted); text-decoration: none; }
+.breadcrumb a:hover, .nav a:hover { color: var(--accent); }
+h1 { font-size: 1.75rem; letter-spacing: 0.01em; }
+h2 {
+  font-size: 1.05rem;
+  color: var(--muted);
+  font-weight: 600;
+  margin: 32px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+.definition { color: var(--muted); margin-top: 8px; font-size: 0.95rem; }
+.nav { margin-top: 12px; font-size: 0.9rem; }
+
+/* 三面鏡カード: 同じ出来事の見出しを社ごとに並置する */
+.mirror-grid { display: flex; flex-direction: column; gap: 14px; margin-top: 16px; }
+.mirror-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 18px;
+}
+.mirror-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.mirror-row { display: grid; grid-template-columns: 6.5em 1fr; gap: 12px; align-items: baseline; }
+.outlet {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 1px 8px;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  text-align: center;
+  white-space: nowrap;
+}
+.outlet.o-nhk { color: var(--nhk); }
+.outlet.o-asahi { color: var(--asahi); }
+.outlet.o-mainichi { color: var(--mainichi); }
+.headline { color: var(--ink); text-decoration: none; }
+.headline:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+
+/* 統計ページ */
+figure { background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+         padding: 12px; overflow-x: auto; margin-top: 12px; }
+figure img { max-width: 100%; height: auto; display: block; }
+.table-scroll { overflow-x: auto; border: 1px solid var(--border); border-radius: 14px; margin-top: 14px; }
+.stats-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; background: var(--card);
+               font-variant-numeric: tabular-nums; }
+.stats-table th, .stats-table td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); }
+.stats-table th { font-size: 0.78rem; letter-spacing: 0.05em; color: var(--muted); font-weight: 600; white-space: nowrap; }
+.stats-table tr:last-child td { border-bottom: none; }
+.notes { color: var(--muted); font-size: 0.85rem; margin-top: 16px; }
+.notes dt { font-weight: 600; margin-top: 8px; }
+
+@media (max-width: 640px) {
+  .mirror-row { grid-template-columns: 1fr; gap: 2px; }
+  .outlet { justify-self: start; }
+}
+
+/* fleet: fixed footer */
+.site-footer {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 9000;
+  margin: 0; padding: 8px 16px; text-align: center;
+  background: var(--card); border-top: 1px solid var(--border);
+  backdrop-filter: blur(6px);
+  max-height: 30vh; overflow-y: auto;
+  color: var(--muted); font-size: 0.82rem;
+}
+.site-footer a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+.site-footer a:hover { color: var(--accent); }
+body { padding-bottom: 72px; }
+@media (max-width: 640px) { body { padding-bottom: 96px; } }

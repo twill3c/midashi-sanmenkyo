@@ -1,10 +1,43 @@
-# data/processed/ から index(三面鏡クラスタの多社並置カード)+ 社別統計ページを
-# out/ に生成する。
-#
-# 契約(loop_004 で実装、テスト T-015〜T-017 が先行):
-#  - 見出しは必ず配信元記事への <a href> 付き HTML(SVG に埋めない — SPEC §5 リンク義務)
-#  - 並置カード: クラスタ内の見出しを社名ラベル付きで縦に並べる。評価語は使わない
-#  - 統計ページ: 指標の社別比較チャート(SVG)+ 定義の注記
-#  - svglite 決定論・フッタは R/footer.R・時刻は build が注入
+# data/processed/ から index(三面鏡カード)+ toukei(社別統計)を out/ に生成(F-06)。
+suppressPackageStartupMessages({
+  library(readr)
+  library(dplyr)
+})
+source("R/plot_stats.R")
+source("R/render_page.R")
+source("R/footer.R")
 
-stop("loop_004 で実装する(テスト先行)。SPEC §3 F-06 参照")
+MAX_CARDS <- 40  # index に載せるクラスタ数の上限(新着順)
+
+cl <- read_csv("data/processed/clusters.csv", col_types = cols())
+stats <- read_csv("data/processed/stats.csv", col_types = cols())
+meta <- read_csv("data/processed/meta.csv", col_types = cols())
+
+tpl_index <- paste(readLines("site/template_index.html", encoding = "UTF-8"), collapse = "\n")
+tpl_stats <- paste(readLines("site/template_stats.html", encoding = "UTF-8"), collapse = "\n")
+footer <- footer_html()
+
+dir.create("out", showWarnings = FALSE)
+dir.create("out/toukei", showWarnings = FALSE, recursive = TRUE)
+file.copy("site/style.css", "out/style.css", overwrite = TRUE)
+
+ids <- head(sort(unique(cl$cluster_id)), MAX_CARDS)
+cards <- vapply(ids, function(id) render_cluster_card(cl[cl$cluster_id == id, ]),
+                character(1))
+if (length(cards) == 0) cards <- '<p class="definition">まだ三面鏡クラスタがありません(データ蓄積中)。</p>'
+
+writeLines(render_index_html(tpl_index, paste(cards, collapse = "\n      "),
+                             n_clusters = length(ids), n_stories = meta$n_stories,
+                             n_snapshots = meta$n_snapshots,
+                             first_utc = meta$first_utc, latest_utc = meta$latest_utc,
+                             footer = footer),
+           "out/index.html", useBytes = TRUE)
+
+stats <- stats |> arrange(match(outlet, OUTLET_ORDER))
+save_svg(plot_outlet_stats(stats), "out/toukei/stats.svg", width = 8, height = 5)
+writeLines(render_stats_html(tpl_stats, render_stats_table(stats),
+                             n_stories = meta$n_stories,
+                             first_utc = meta$first_utc, latest_utc = meta$latest_utc,
+                             footer = footer),
+           "out/toukei/index.html", useBytes = TRUE)
+message("RENDER DONE")

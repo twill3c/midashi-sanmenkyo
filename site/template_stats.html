@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>社別の見出しの癖 — 見出しの三面鏡</title>
+<meta name="description" content="体言止め率・数字使用率・かぎ括弧率・感情語率で見る、報道各社の見出しの文体。">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-header">
+    <nav class="breadcrumb"><a href="../">🪞 見出しの三面鏡</a> / 社別の見出しの癖</nav>
+    <h1>社別の見出しの癖</h1>
+    <p class="definition">観測した {{n_stories}} 件の見出しを、決定的に計算できる 4 つの特徴で比較します。</p>
+  </header>
+
+  <main>
+    <figure><img src="stats.svg" alt="社別の見出し特徴の比較グラフ"></figure>
+
+    <h2>数値</h2>
+    <div class="table-scroll">
+      {{stats_table}}
+    </div>
+
+    <dl class="notes">
+      <dt>体言止め</dt>
+      <dd>末尾の記号・空白を除いた最後の文字がひらがな以外(漢字・カタカナ・英数字)である見出しの割合。</dd>
+      <dt>数字</dt>
+      <dd>半角に正規化したあとアラビア数字を含む見出しの割合(漢数字は数えません)。</dd>
+      <dt>かぎ括弧</dt>
+      <dd>「」または『』を含む見出しの割合。発言の引用や語の強調に使われます。</dd>
+      <dt>感情語</dt>
+      <dd>感情辞書(419 語)の語を含む見出しの割合。辞書は姉妹プロジェクト kokoro-graph の自前辞書 v1.1.0 を固定コピーしたものです。</dd>
+      <dt>注意</dt>
+      <dd>各社でフィードの性格(速報中心か、解説を含むか)や収録件数が異なるため、この数値は文体の傾向を示すもので、優劣を示すものではありません。</dd>
+      <dt>出典・観測期間</dt>
+      <dd>NHK ニュース・朝日新聞・毎日新聞の各 RSS。{{first_utc}} 〜 {{latest_utc}}(UTC)。</dd>
+    </dl>
+  </main>
+
+  {{footer}}
+</div>
+</body>
+</html>

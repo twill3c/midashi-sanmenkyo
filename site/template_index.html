@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>見出しの三面鏡</title>
+<meta name="description" content="同じ出来事を、NHK・朝日新聞・毎日新聞がどう見出しにしたか。毎時観測して並べる観測所。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-header">
+    <h1>🪞 見出しの三面鏡</h1>
+    <p class="definition">同じ出来事を、各社はどう見出しにしたか。NHK・朝日新聞・毎日新聞の RSS を毎時観測し、同一事象と判定された見出しを並べています。</p>
+    <p class="nav"><a href="toukei/">→ 社別の見出しの癖(統計)</a></p>
+  </header>
+
+  <main>
+    <h2>直近の三面鏡 — {{n_clusters}} 件</h2>
+    <div class="mirror-grid">
+      {{cards}}
+    </div>
+
+    <dl class="notes">
+      <dt>出典</dt>
+      <dd>NHK ニュース・朝日新聞・毎日新聞の各 RSS。見出しとリンクのみを扱い、本文は取得していません。各見出しの著作権は各社に帰属します。見出しをクリックすると配信元の記事が開きます。</dd>
+      <dt>同一事象の判定</dt>
+      <dd>見出しの文字バイグラムのコサイン類似度が 0.40 以上の見出し同士を同一事象として束ねています(手ラベル 115 ペアによる較正で、この閾値の推定精度は 0.96)。語彙が大きく異なる同一事象は原理的に捕まえられません。</dd>
+      <dt>並べ方について</dt>
+      <dd>掲載順は新着順で、社の並びは観測順です。本サイトは見出しの表現を対照するもので、報道内容の優劣・正誤を評価するものではありません。</dd>
+      <dt>観測期間</dt>
+      <dd>{{first_utc}} 〜 {{latest_utc}}(UTC)・スナップショット {{n_snapshots}} 回・観測見出し {{n_stories}} 件。最終取得 {{latest_utc}}。</dd>
+    </dl>
+  </main>
+
+  {{footer}}
+</div>
+</body>
+</html>
