@@ -5,3 +5,8 @@
 {"v": "1.2", "ts": "2026-08-22T05:49:24+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 416, "failed": 0, "errors": 1, "note": "params 未作成の赤"}}
 {"v": "1.2", "ts": "2026-08-22T05:49:24+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T05:49:46+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 473, "failed": 0, "errors": 0}}
+{"v": "1.2", "ts": "2026-08-22T05:50:53+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "commit", "data": {"sha": "f7b473b1038f7b39dcf32cb3d93c344264b60328", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T05:50:53+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T05:50:53+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T05:50:54+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T05:50:54+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_006", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "G-04 較正確定: 層化ラベル 115 件(陽性40/陰性75)で閾値 0.40 を固定(推定精度0.963/条件付き再現0.496)。473 テスト green"}}
