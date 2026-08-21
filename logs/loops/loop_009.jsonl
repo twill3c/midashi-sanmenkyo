@@ -5,3 +5,7 @@
 {"v": "1.2", "ts": "2026-08-22T06:52:14+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T06:52:44+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 539, "failed": 0, "errors": 0}}
 {"v": "1.2", "ts": "2026-08-22T06:52:53+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "commit", "data": {"sha": "7ef05147f4d0bfc2ea72693e415e006513af59e8", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T06:53:51+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T06:53:52+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass", "note": "本番=ローカル生成物の一致を diff で確認(HC-001 の方法)。フッタ 5 リンクが両ページに反映"}}
+{"v": "1.2", "ts": "2026-08-22T06:53:52+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T06:53:52+09:00", "project": "midashi-sanmenkyo", "loop_id": "loop_009", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "歩き方・設計図アーティファクト公開+フッタ 5 リンク化を本番反映。539 テスト green・失敗 0。midashi-sanmenkyo 完成"}}
