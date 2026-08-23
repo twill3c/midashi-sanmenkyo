@@ -1,40 +1,42 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45914,【地震情報】北海道函館市などで震度4 津波の心配なし,https://news.web.nhk/newsweb/na/nd-20260823de45914,2026-08-23T14:45:00Z,1
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/188000c,北海道で震度4　震源は浦河沖、津波の心配なし　M6.0,https://mainichi.jp/articles/20260823/k00/00m/040/188000c,2026-08-23T14:45:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45877,東武鉄道4人死亡事故 事故当日3本の列車は問題なく通過か,https://news.web.nhk/newsweb/na/nd-20260823de45877,2026-08-23T10:45:00Z,2
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/157000c,事故までに列車3本が問題なく通過　東武日光線の4人死亡事故,https://mainichi.jp/articles/20260823/k00/00m/040/157000c,2026-08-23T10:45:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASV8R268RV8RUQIP004M.html?ref=rss,報道写真家の石川文洋さん死去、88歳　ベトナム戦争や沖縄を取材,http://www.asahi.com/articles/ASV8R268RV8RUQIP004M.html?ref=rss,2026-08-23T07:51:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45876,報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材,https://news.web.nhk/newsweb/na/nd-20260823de45876,2026-08-23T09:48:00Z,3
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/151000c,報道写真家の石川文洋さん死去　88歳　ベトナム戦争など取材,https://mainichi.jp/articles/20260823/k00/00m/040/151000c,2026-08-23T09:48:00Z,3
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/153000c,「沖縄と戦争」を生涯のテーマに　報道写真家・石川文洋さん死去,https://mainichi.jp/articles/20260823/k00/00m/040/153000c,2026-08-23T09:48:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45829,JR山手線で人身事故 全線で運転見合わせ,https://news.web.nhk/newsweb/na/nd-20260823de45829,2026-08-23T02:03:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASV8R0CZDV8ROXIE004M.html?ref=rss,JR山手線が全線運転見合わせ　池袋-大塚間で人身事故,http://www.asahi.com/articles/ASV8R0CZDV8ROXIE004M.html?ref=rss,2026-08-23T02:03:00Z,4
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/078000c,JR山手線全線で運転見合わせ　午前11時ごろに再開見込み,https://mainichi.jp/articles/20260823/k00/00m/040/078000c,2026-08-23T02:03:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASV8Q3HJTV8QUTIL00HM.html?ref=rss,「東武建設」を業過致死容疑で家宅捜索　特急4人死亡事故で栃木県警,http://www.asahi.com/articles/ASV8Q3HJTV8QUTIL00HM.html?ref=rss,2026-08-23T02:03:00Z,5
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/061000c,東武日光線4人死亡事故　元請け会社を家宅捜索　栃木県警,https://mainichi.jp/articles/20260823/k00/00m/040/061000c,2026-08-23T02:03:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASV8Q7SF9V8QUTQP001M.html?ref=rss,りくりゅう婚約　木原龍一さん三浦璃来さん「なくてはならない存在」,http://www.asahi.com/articles/ASV8Q7SF9V8QUTQP001M.html?ref=rss,2026-08-22T23:40:00Z,6
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/050/052000c,りくりゅう婚約「なくてはならない存在となった」　コメント全文,https://mainichi.jp/articles/20260823/k00/00m/050/052000c,2026-08-22T23:40:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASV8R03NNV8ROXIE001M.html?ref=rss,りくりゅう「婚約しました」投稿全文　三浦璃来さん木原龍一さん報告,http://www.asahi.com/articles/ASV8R03NNV8ROXIE001M.html?ref=rss,2026-08-23T02:03:00Z,6
-毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/040/201000c,沖縄・八重山地方に線状降水帯発生の恐れ　気象庁が注意呼びかけ,https://mainichi.jp/articles/20260822/k00/00m/040/201000c,2026-08-22T13:48:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45798,台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ,https://news.web.nhk/newsweb/na/nd-20260823de45798,2026-08-22T21:41:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45738,【地震速報】茨城 埼玉 千葉 東京 震度5弱 津波の心配なし,https://news.web.nhk/newsweb/na/nd-20260823de45738,2026-08-22T17:41:00Z,8
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/013000c,東京、千葉、埼玉、茨城で震度5弱の地震　津波は心配なし,https://mainichi.jp/articles/20260823/k00/00m/040/013000c,2026-08-22T17:41:00Z,8
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/039000c,東京、千葉、埼玉、茨城の17市区町で震度5弱　各地でけが人も,https://mainichi.jp/articles/20260823/k00/00m/040/039000c,2026-08-22T20:44:00Z,8
-NHK,https://news.web.nhk/newsweb/na/nd-20260823de45743,東京消防庁 江東区で水道管破裂の通報,https://news.web.nhk/newsweb/na/nd-20260823de45743,2026-08-22T17:41:00Z,9
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/015000c,東京・江東区で水道管が破裂か　関東で震度5弱,https://mainichi.jp/articles/20260823/k00/00m/040/015000c,2026-08-22T18:53:00Z,9
-毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/037000c,東京・江東区の水道管破裂、現場に水あふれる　関東で震度5弱,https://mainichi.jp/articles/20260823/k00/00m/040/037000c,2026-08-22T19:41:00Z,9
-NHK,https://news.web.nhk/newsweb/na/nd-20260822de45669,東京23区 レベル4大雨危険警報 中央区・荒川区・台東区にも,https://news.web.nhk/newsweb/na/nd-20260822de45669,2026-08-22T08:52:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20260822de45690,東京 善福寺川にレベル4氾濫危険警報,https://news.web.nhk/newsweb/na/nd-20260822de45690,2026-08-22T08:52:00Z,10
-毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/040/135000c,東京、埼玉に「レベル4大雨危険警報」発表　危険な場所から避難を,https://mainichi.jp/articles/20260822/k00/00m/040/135000c,2026-08-22T08:52:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20260822de45694,東京 神田川にレベル4氾濫危険警報,https://news.web.nhk/newsweb/na/nd-20260822de45694,2026-08-22T09:47:00Z,10
-毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/040/141000c,善福寺川、神田川に「レベル4氾濫危険警報」　東京で局地的豪雨,https://mainichi.jp/articles/20260822/k00/00m/040/141000c,2026-08-22T09:47:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20260822de45639,アジア大会 トーチ掲げリレースタート 名古屋,https://news.web.nhk/newsweb/na/nd-20260822de45639,2026-08-22T04:01:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASV8Q24HTV8QUQIP03KM.html?ref=rss,名古屋城からアジア大会へ　聖火リレーは吉田沙保里さんからスタート,http://www.asahi.com/articles/ASV8Q24HTV8QUQIP03KM.html?ref=rss,2026-08-22T07:50:00Z,11
-毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/050/101000c,アジア大会の聖火リレー始まる　吉田沙保里さんが第1走者,https://mainichi.jp/articles/20260822/k00/00m/050/101000c,2026-08-22T08:52:00Z,11
-毎日新聞,https://mainichi.jp/articles/20260821/k00/00m/050/076000c,U18高校日本代表に織田、末吉ら18人選出　横浜から最多5人,https://mainichi.jp/articles/20260821/k00/00m/050/076000c,2026-08-22T04:54:00Z,12
-朝日新聞,http://www.asahi.com/articles/ASV8P3HS8V8PUTQP011M.html?ref=rss,山田凜虎や織田翔希ら18人がU18高校日本代表　横浜からは5人,http://www.asahi.com/articles/ASV8P3HS8V8PUTQP011M.html?ref=rss,2026-08-22T05:48:00Z,12
-毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/050/018000c,健大高崎はエース石垣、智弁和歌山は長井が先発　夏の甲子園,https://mainichi.jp/articles/20260822/k00/00m/050/018000c,2026-08-22T01:54:00Z,13
-毎日新聞,https://mainichi.jp/articles/20260821/k00/00m/050/043000c,智弁和歌山が5年ぶり4回目の優勝　健大高崎を破る　夏の甲子園,https://mainichi.jp/articles/20260821/k00/00m/050/043000c,2026-08-22T03:11:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASV8Q119FV8QPTQP00KM.html?ref=rss,智弁和歌山が5年ぶり4度目の優勝　健大高崎を4―3で破る,http://www.asahi.com/articles/ASV8Q119FV8QPTQP00KM.html?ref=rss,2026-08-22T04:01:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20260821de45603,秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に,https://news.web.nhk/newsweb/na/nd-20260821de45603,2026-08-21T21:18:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASV8P7RF5V8PUTIL006M.html?ref=rss,秋篠宮ご夫妻、日本人移住90年式典に　「困難を克服、心から敬意」,http://www.asahi.com/articles/ASV8P7RF5V8PUTIL006M.html?ref=rss,2026-08-22T01:54:00Z,14
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/010/186000c,福岡市の高島市長、市長選不出馬表明　「次なる発展のため」,https://mainichi.jp/articles/20260823/k00/00m/010/186000c,2026-08-23T14:45:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASV8R4V91V8RTIPE00XM.html?ref=rss,福岡市の高島市長、11月の市長選に不出馬表明「次世代にたすきを」,http://www.asahi.com/articles/ASV8R4V91V8RTIPE00XM.html?ref=rss,2026-08-23T15:42:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45914,【地震情報】北海道函館市などで震度4 津波の心配なし,https://news.web.nhk/newsweb/na/nd-20260823de45914,2026-08-23T14:45:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/188000c,北海道で震度4　震源は浦河沖、津波の心配なし　M6.0,https://mainichi.jp/articles/20260823/k00/00m/040/188000c,2026-08-23T14:45:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45877,東武鉄道4人死亡事故 事故当日3本の列車は問題なく通過か,https://news.web.nhk/newsweb/na/nd-20260823de45877,2026-08-23T10:45:00Z,3
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/157000c,事故までに列車3本が問題なく通過　東武日光線の4人死亡事故,https://mainichi.jp/articles/20260823/k00/00m/040/157000c,2026-08-23T10:45:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASV8R268RV8RUQIP004M.html?ref=rss,報道写真家の石川文洋さん死去、88歳　ベトナム戦争や沖縄を取材,http://www.asahi.com/articles/ASV8R268RV8RUQIP004M.html?ref=rss,2026-08-23T07:51:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45876,報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材,https://news.web.nhk/newsweb/na/nd-20260823de45876,2026-08-23T09:48:00Z,4
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/151000c,報道写真家の石川文洋さん死去　88歳　ベトナム戦争など取材,https://mainichi.jp/articles/20260823/k00/00m/040/151000c,2026-08-23T09:48:00Z,4
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/153000c,「沖縄と戦争」を生涯のテーマに　報道写真家・石川文洋さん死去,https://mainichi.jp/articles/20260823/k00/00m/040/153000c,2026-08-23T09:48:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45829,JR山手線で人身事故 全線で運転見合わせ,https://news.web.nhk/newsweb/na/nd-20260823de45829,2026-08-23T02:03:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASV8R0CZDV8ROXIE004M.html?ref=rss,JR山手線が全線運転見合わせ　池袋-大塚間で人身事故,http://www.asahi.com/articles/ASV8R0CZDV8ROXIE004M.html?ref=rss,2026-08-23T02:03:00Z,5
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/078000c,JR山手線全線で運転見合わせ　午前11時ごろに再開見込み,https://mainichi.jp/articles/20260823/k00/00m/040/078000c,2026-08-23T02:03:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASV8Q3HJTV8QUTIL00HM.html?ref=rss,「東武建設」を業過致死容疑で家宅捜索　特急4人死亡事故で栃木県警,http://www.asahi.com/articles/ASV8Q3HJTV8QUTIL00HM.html?ref=rss,2026-08-23T02:03:00Z,6
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/061000c,東武日光線4人死亡事故　元請け会社を家宅捜索　栃木県警,https://mainichi.jp/articles/20260823/k00/00m/040/061000c,2026-08-23T02:03:00Z,6
+朝日新聞,http://www.asahi.com/articles/ASV8Q7SF9V8QUTQP001M.html?ref=rss,りくりゅう婚約　木原龍一さん三浦璃来さん「なくてはならない存在」,http://www.asahi.com/articles/ASV8Q7SF9V8QUTQP001M.html?ref=rss,2026-08-22T23:40:00Z,7
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/050/052000c,りくりゅう婚約「なくてはならない存在となった」　コメント全文,https://mainichi.jp/articles/20260823/k00/00m/050/052000c,2026-08-22T23:40:00Z,7
+朝日新聞,http://www.asahi.com/articles/ASV8R03NNV8ROXIE001M.html?ref=rss,りくりゅう「婚約しました」投稿全文　三浦璃来さん木原龍一さん報告,http://www.asahi.com/articles/ASV8R03NNV8ROXIE001M.html?ref=rss,2026-08-23T02:03:00Z,7
+毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/040/201000c,沖縄・八重山地方に線状降水帯発生の恐れ　気象庁が注意呼びかけ,https://mainichi.jp/articles/20260822/k00/00m/040/201000c,2026-08-22T13:48:00Z,8
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45798,台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ,https://news.web.nhk/newsweb/na/nd-20260823de45798,2026-08-22T21:41:00Z,8
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45738,【地震速報】茨城 埼玉 千葉 東京 震度5弱 津波の心配なし,https://news.web.nhk/newsweb/na/nd-20260823de45738,2026-08-22T17:41:00Z,9
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/013000c,東京、千葉、埼玉、茨城で震度5弱の地震　津波は心配なし,https://mainichi.jp/articles/20260823/k00/00m/040/013000c,2026-08-22T17:41:00Z,9
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/039000c,東京、千葉、埼玉、茨城の17市区町で震度5弱　各地でけが人も,https://mainichi.jp/articles/20260823/k00/00m/040/039000c,2026-08-22T20:44:00Z,9
+NHK,https://news.web.nhk/newsweb/na/nd-20260823de45743,東京消防庁 江東区で水道管破裂の通報,https://news.web.nhk/newsweb/na/nd-20260823de45743,2026-08-22T17:41:00Z,10
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/015000c,東京・江東区で水道管が破裂か　関東で震度5弱,https://mainichi.jp/articles/20260823/k00/00m/040/015000c,2026-08-22T18:53:00Z,10
+毎日新聞,https://mainichi.jp/articles/20260823/k00/00m/040/037000c,東京・江東区の水道管破裂、現場に水あふれる　関東で震度5弱,https://mainichi.jp/articles/20260823/k00/00m/040/037000c,2026-08-22T19:41:00Z,10
+NHK,https://news.web.nhk/newsweb/na/nd-20260822de45669,東京23区 レベル4大雨危険警報 中央区・荒川区・台東区にも,https://news.web.nhk/newsweb/na/nd-20260822de45669,2026-08-22T08:52:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20260822de45690,東京 善福寺川にレベル4氾濫危険警報,https://news.web.nhk/newsweb/na/nd-20260822de45690,2026-08-22T08:52:00Z,11
+毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/040/135000c,東京、埼玉に「レベル4大雨危険警報」発表　危険な場所から避難を,https://mainichi.jp/articles/20260822/k00/00m/040/135000c,2026-08-22T08:52:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20260822de45694,東京 神田川にレベル4氾濫危険警報,https://news.web.nhk/newsweb/na/nd-20260822de45694,2026-08-22T09:47:00Z,11
+毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/040/141000c,善福寺川、神田川に「レベル4氾濫危険警報」　東京で局地的豪雨,https://mainichi.jp/articles/20260822/k00/00m/040/141000c,2026-08-22T09:47:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20260822de45639,アジア大会 トーチ掲げリレースタート 名古屋,https://news.web.nhk/newsweb/na/nd-20260822de45639,2026-08-22T04:01:00Z,12
+朝日新聞,http://www.asahi.com/articles/ASV8Q24HTV8QUQIP03KM.html?ref=rss,名古屋城からアジア大会へ　聖火リレーは吉田沙保里さんからスタート,http://www.asahi.com/articles/ASV8Q24HTV8QUQIP03KM.html?ref=rss,2026-08-22T07:50:00Z,12
+毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/050/101000c,アジア大会の聖火リレー始まる　吉田沙保里さんが第1走者,https://mainichi.jp/articles/20260822/k00/00m/050/101000c,2026-08-22T08:52:00Z,12
+毎日新聞,https://mainichi.jp/articles/20260821/k00/00m/050/076000c,U18高校日本代表に織田、末吉ら18人選出　横浜から最多5人,https://mainichi.jp/articles/20260821/k00/00m/050/076000c,2026-08-22T04:54:00Z,13
+朝日新聞,http://www.asahi.com/articles/ASV8P3HS8V8PUTQP011M.html?ref=rss,山田凜虎や織田翔希ら18人がU18高校日本代表　横浜からは5人,http://www.asahi.com/articles/ASV8P3HS8V8PUTQP011M.html?ref=rss,2026-08-22T05:48:00Z,13
+毎日新聞,https://mainichi.jp/articles/20260822/k00/00m/050/018000c,健大高崎はエース石垣、智弁和歌山は長井が先発　夏の甲子園,https://mainichi.jp/articles/20260822/k00/00m/050/018000c,2026-08-22T01:54:00Z,14
+毎日新聞,https://mainichi.jp/articles/20260821/k00/00m/050/043000c,智弁和歌山が5年ぶり4回目の優勝　健大高崎を破る　夏の甲子園,https://mainichi.jp/articles/20260821/k00/00m/050/043000c,2026-08-22T03:11:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASV8Q119FV8QPTQP00KM.html?ref=rss,智弁和歌山が5年ぶり4度目の優勝　健大高崎を4―3で破る,http://www.asahi.com/articles/ASV8Q119FV8QPTQP00KM.html?ref=rss,2026-08-22T04:01:00Z,14
+NHK,https://news.web.nhk/newsweb/na/nd-20260821de45603,秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に,https://news.web.nhk/newsweb/na/nd-20260821de45603,2026-08-21T21:18:00Z,15
+朝日新聞,http://www.asahi.com/articles/ASV8P7RF5V8PUTIL006M.html?ref=rss,秋篠宮ご夫妻、日本人移住90年式典に　「困難を克服、心から敬意」,http://www.asahi.com/articles/ASV8P7RF5V8PUTIL006M.html?ref=rss,2026-08-22T01:54:00Z,15
