@@ -1,16 +1,19 @@
 outlet,guid,title,link,first_seen,cluster_id
 NHK,https://news.web.nhk/newsweb/na/nd-20260916de50456,福岡県議会 金銭授受問題調査の第三者委員会 17日に設置へ,https://news.web.nhk/newsweb/na/nd-20260916de50456,2026-09-15T21:29:00Z,1
 朝日新聞,http://www.asahi.com/articles/ASV9K1C2QV9KTIPE009M.html?ref=rss,福岡県政問題　金銭授受疑惑や海外視察問題の第三者委を相次ぎ設置,http://www.asahi.com/articles/ASV9K1C2QV9KTIPE009M.html?ref=rss,2026-09-17T07:50:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20260917de50752,東京五輪スケートボード日本代表選手が大麻所持か 書類送検,https://news.web.nhk/newsweb/na/nd-20260917de50752,2026-09-17T07:50:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASV9K10H0V9KUTIL00JM.html?ref=rss,スケートボード東京五輪代表を大麻所持容疑で書類送検　容疑認める,http://www.asahi.com/articles/ASV9K10H0V9KUTIL00JM.html?ref=rss,2026-09-17T07:50:00Z,2
-毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/030/151000c,プーチン氏関係者、トランプ氏長男の結婚式宴会で費用負担,https://mainichi.jp/articles/20260915/k00/00m/030/151000c,2026-09-15T07:52:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASV9J36T0V9JUHBI01BM.html?ref=rss,トランプ氏長男の豪華結婚式　プーチン氏に近いロシア富豪が資金提供,http://www.asahi.com/articles/ASV9J36T0V9JUHBI01BM.html?ref=rss,2026-09-16T23:02:00Z,3
-毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/253000c,よど号ハイジャック　国際手配の赤木志郎容疑者、平壌で死亡か,https://mainichi.jp/articles/20260916/k00/00m/040/253000c,2026-09-16T11:48:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20260917de50704,「よど号」グループの赤木志郎容疑者が北朝鮮で死亡か,https://news.web.nhk/newsweb/na/nd-20260917de50704,2026-09-16T20:14:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20260916de50525,大阪 堺 高校で催涙スプレーまかれたか 生徒にせきなどの症状,https://news.web.nhk/newsweb/na/nd-20260916de50525,2026-09-16T06:09:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASV9J0RC6V9JPTIL004M.html?ref=rss,高校で催涙スプレー噴射か、生徒24人が体調不良訴える　大阪・堺,http://www.asahi.com/articles/ASV9J0RC6V9JPTIL004M.html?ref=rss,2026-09-16T06:09:00Z,5
-毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/064000c,高校生が催涙スプレー噴射か　教室内の24人にのどの痛み　大阪,https://mainichi.jp/articles/20260916/k00/00m/040/064000c,2026-09-16T06:09:00Z,5
-毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/193000c,大阪・貝塚の中学校でスプレー噴射か　生徒ら24人を救急搬送,https://mainichi.jp/articles/20260916/k00/00m/040/193000c,2026-09-16T11:48:00Z,5
+毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/010/345000c,福岡県議会の金銭授受疑惑、第三者委が三つ乱立　異例の調査体制,https://mainichi.jp/articles/20260917/k00/00m/010/345000c,2026-09-17T13:35:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20260916de50525,大阪 堺 高校で催涙スプレーまかれたか 生徒にせきなどの症状,https://news.web.nhk/newsweb/na/nd-20260916de50525,2026-09-16T06:09:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASV9J0RC6V9JPTIL004M.html?ref=rss,高校で催涙スプレー噴射か、生徒24人が体調不良訴える　大阪・堺,http://www.asahi.com/articles/ASV9J0RC6V9JPTIL004M.html?ref=rss,2026-09-16T06:09:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/064000c,高校生が催涙スプレー噴射か　教室内の24人にのどの痛み　大阪,https://mainichi.jp/articles/20260916/k00/00m/040/064000c,2026-09-16T06:09:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/193000c,大阪・貝塚の中学校でスプレー噴射か　生徒ら24人を救急搬送,https://mainichi.jp/articles/20260916/k00/00m/040/193000c,2026-09-16T11:48:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/040/207000c,校庭で熊スプレー噴射か、中学生逮捕　生徒11人搬送　岩手・北上,https://mainichi.jp/articles/20260917/k00/00m/040/207000c,2026-09-17T07:50:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20260917de50887,中学校でクマよけスプレー噴射か 生徒逮捕 11人搬送 岩手 北上,https://news.web.nhk/newsweb/na/nd-20260917de50887,2026-09-17T13:35:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASV9K1DXYV9KUTQP00SM.html?ref=rss,ソフトバンクが9連勝で一気にリーグ優勝　福岡移転後初の3連覇達成,http://www.asahi.com/articles/ASV9K1DXYV9KUTQP00SM.html?ref=rss,2026-09-17T13:35:00Z,3
+毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/050/309000c,ソフトバンクがリーグ3連覇、福岡移転後初　交流戦で打線に活気,https://mainichi.jp/articles/20260917/k00/00m/050/309000c,2026-09-17T13:35:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20260917de50752,東京五輪スケートボード日本代表選手が大麻所持か 書類送検,https://news.web.nhk/newsweb/na/nd-20260917de50752,2026-09-17T07:50:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASV9K10H0V9KUTIL00JM.html?ref=rss,スケートボード東京五輪代表を大麻所持容疑で書類送検　容疑認める,http://www.asahi.com/articles/ASV9K10H0V9KUTIL00JM.html?ref=rss,2026-09-17T07:50:00Z,4
+毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/253000c,よど号ハイジャック　国際手配の赤木志郎容疑者、平壌で死亡か,https://mainichi.jp/articles/20260916/k00/00m/040/253000c,2026-09-16T11:48:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20260917de50704,「よど号」グループの赤木志郎容疑者が北朝鮮で死亡か,https://news.web.nhk/newsweb/na/nd-20260917de50704,2026-09-16T20:14:00Z,5
 NHK,https://news.web.nhk/newsweb/na/nd-20260916de50639,香港政府が初の5か年計画を発表 中国経済を後押しへ,https://news.web.nhk/newsweb/na/nd-20260916de50639,2026-09-16T11:48:00Z,6
 毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/030/230000c,香港が初の5カ年計画を発表　「自由放任」から転換、中国と歩調,https://mainichi.jp/articles/20260916/k00/00m/030/230000c,2026-09-16T11:48:00Z,6
 NHK,https://news.web.nhk/newsweb/na/nd-20260916de50660,全東信経営破綻受け経産省調査 決済代行の取扱高は年間30兆円,https://news.web.nhk/newsweb/na/nd-20260916de50660,2026-09-16T11:48:00Z,7
@@ -35,15 +38,12 @@ NHK,https://news.web.nhk/newsweb/na/nd-20260916de50483,「ヤマトリノ」名�
 NHK,https://news.web.nhk/newsweb/na/nd-20260915de50391,自民党役員人事固まる 副総裁 幹事長ら留任 総務会長に梶山氏,https://news.web.nhk/newsweb/na/nd-20260915de50391,2026-09-15T13:40:00Z,16
 朝日新聞,http://www.asahi.com/articles/ASV9H41NGV9HUTFK00SM.html?ref=rss,石井参院幹事長交代へ、総務会長には梶山氏　自民党人事の全容固まる,http://www.asahi.com/articles/ASV9H41NGV9HUTFK00SM.html?ref=rss,2026-09-15T13:40:00Z,16
 NHK,https://news.web.nhk/newsweb/na/nd-20260916de50478,自民党役員人事決定へ 執行部ほぼ留任 総務梶山氏 国対村井氏,https://news.web.nhk/newsweb/na/nd-20260916de50478,2026-09-16T00:29:00Z,16
-毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/040/155000c,空自無人偵察機・グローバルホークが行方不明　鳥取沖の公海上で,https://mainichi.jp/articles/20260915/k00/00m/040/155000c,2026-09-15T07:52:00Z,17
 朝日新聞,http://www.asahi.com/articles/ASV9H2P85V9HUTIL01ZM.html?ref=rss,空自の無人偵察機「グローバルホーク」墜落　鳥取県沖に機体の一部,http://www.asahi.com/articles/ASV9H2P85V9HUTIL01ZM.html?ref=rss,2026-09-15T13:40:00Z,17
 毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/040/215000c,不明グローバルホークの一部か　洋上で発見　空自、墜落と推定,https://mainichi.jp/articles/20260915/k00/00m/040/215000c,2026-09-15T13:40:00Z,17
 毎日新聞,https://mainichi.jp/articles/20260916/k00/00m/040/005000c,グローバルホークは「墜落と断定」　空自、16日も海域を捜索,https://mainichi.jp/articles/20260916/k00/00m/040/005000c,2026-09-16T00:29:00Z,17
 NHK,https://news.web.nhk/newsweb/na/nd-20260915de50371,“ジャッキー吉川とブルー・コメッツ”三原綱木さん死去,https://news.web.nhk/newsweb/na/nd-20260915de50371,2026-09-15T13:40:00Z,18
 朝日新聞,http://www.asahi.com/articles/ASV9H1DJXV9HUCVL00MM.html?ref=rss,ブルー・コメッツの三原綱木さん死去　80歳　NHK紅白で指揮も,http://www.asahi.com/articles/ASV9H1DJXV9HUCVL00MM.html?ref=rss,2026-09-15T13:40:00Z,18
-朝日新聞,http://www.asahi.com/articles/ASV9H0T2YV9HUTIL01LM.html?ref=rss,12歳タイ人少女に性的サービスをさせた事件　経営者の男に実刑判決,http://www.asahi.com/articles/ASV9H0T2YV9HUTIL01LM.html?ref=rss,2026-09-15T07:52:00Z,19
-毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/040/232000c,12歳タイ人少女の性的サービス、元経営者に拘禁刑5年の実刑判決,https://mainichi.jp/articles/20260915/k00/00m/040/232000c,2026-09-15T13:40:00Z,19
-朝日新聞,http://www.asahi.com/articles/ASV9H2Q9TV9HUEFT00LM.html?ref=rss,5歳男児がマンション11階ベランダから転落、死亡　東京都北区,http://www.asahi.com/articles/ASV9H2Q9TV9HUEFT00LM.html?ref=rss,2026-09-15T13:40:00Z,20
-毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/310/213000c,東京・赤羽のマンション11階から5歳児転落か　搬送先で死亡,https://mainichi.jp/articles/20260915/k00/00m/310/213000c,2026-09-15T13:40:00Z,20
-朝日新聞,http://www.asahi.com/articles/ASV9H3DR5V9HUTIL02PM.html?ref=rss,8年前の強盗未遂事件、韓国から引き渡された男2人逮捕　警視庁,http://www.asahi.com/articles/ASV9H3DR5V9HUTIL02PM.html?ref=rss,2026-09-15T13:40:00Z,21
-毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/310/243000c,8年前の強盗未遂、容疑で国際手配の韓国籍2人逮捕　当日に出国,https://mainichi.jp/articles/20260915/k00/00m/310/243000c,2026-09-15T13:40:00Z,21
+朝日新聞,http://www.asahi.com/articles/ASV9H2Q9TV9HUEFT00LM.html?ref=rss,5歳男児がマンション11階ベランダから転落、死亡　東京都北区,http://www.asahi.com/articles/ASV9H2Q9TV9HUEFT00LM.html?ref=rss,2026-09-15T13:40:00Z,19
+毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/310/213000c,東京・赤羽のマンション11階から5歳児転落か　搬送先で死亡,https://mainichi.jp/articles/20260915/k00/00m/310/213000c,2026-09-15T13:40:00Z,19
+朝日新聞,http://www.asahi.com/articles/ASV9H3DR5V9HUTIL02PM.html?ref=rss,8年前の強盗未遂事件、韓国から引き渡された男2人逮捕　警視庁,http://www.asahi.com/articles/ASV9H3DR5V9HUTIL02PM.html?ref=rss,2026-09-15T13:40:00Z,20
+毎日新聞,https://mainichi.jp/articles/20260915/k00/00m/310/243000c,8年前の強盗未遂、容疑で国際手配の韓国籍2人逮捕　当日に出国,https://mainichi.jp/articles/20260915/k00/00m/310/243000c,2026-09-15T13:40:00Z,20
