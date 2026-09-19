@@ -1,44 +1,47 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20260919de51169,日銀が「レートチェック」を実施 円安けん制か,https://news.web.nhk/newsweb/na/nd-20260919de51169,2026-09-18T19:44:00Z,1
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/020/004000c,NY円、一時156円台後半　日銀がレートチェック実施との見方,https://mainichi.jp/articles/20260919/k00/00m/020/004000c,2026-09-18T19:44:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASV9L7FT6V9LUHBI005M.html?ref=rss,円が一時1円超急騰、1ドル156円台に　レートチェックとの見方も,http://www.asahi.com/articles/ASV9L7FT6V9LUHBI005M.html?ref=rss,2026-09-19T01:17:00Z,1
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/020/170000c,日銀がレートチェック実施、円買い介入準備　一時156円台,https://mainichi.jp/articles/20260919/k00/00m/020/170000c,2026-09-19T11:10:00Z,1
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/020/203000c,日銀、再び円買い介入に踏み切るか　レートチェックで市場動揺,https://mainichi.jp/articles/20260919/k00/00m/020/203000c,2026-09-19T14:31:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASV9M1HZKV9MUTIL013M.html?ref=rss,「タイムレス」猪俣周杜メンバーを傷害容疑で逮捕　知人女性に暴行か,http://www.asahi.com/articles/ASV9M1HZKV9MUTIL013M.html?ref=rss,2026-09-19T06:00:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20260919de51225,timeleszの猪俣周杜容疑者を傷害疑いで逮捕 知人女性に暴行か,https://news.web.nhk/newsweb/na/nd-20260919de51225,2026-09-19T11:10:00Z,2
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/116000c,「timelesz」猪俣周杜容疑者を逮捕　知人女性殴った疑い,https://mainichi.jp/articles/20260919/k00/00m/040/116000c,2026-09-19T11:10:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss,timeleszの猪俣周杜メンバーが活動休止　STARTO社発表,http://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss,2026-09-19T14:31:00Z,2
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/234000c,「timelesz」猪俣周杜容疑者が活動休止　STARTO社が発表,https://mainichi.jp/articles/20260919/k00/00m/040/234000c,2026-09-19T14:31:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASV9M2J8VV9MOIPE00HM.html?ref=rss,愛知・名古屋アジア大会が開幕　45の国・地域が参加、過去最大級,http://www.asahi.com/articles/ASV9M2J8VV9MOIPE00HM.html?ref=rss,2026-09-19T11:10:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20260919de51267,愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言,https://news.web.nhk/newsweb/na/nd-20260919de51267,2026-09-19T14:31:00Z,3
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/050/149000c,愛知・名古屋アジア大会が開幕　開会式は堤幸彦監督が演出,https://mainichi.jp/articles/20260919/k00/00m/050/149000c,2026-09-19T14:31:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20260919de51281,八王子の交番で10代の警察官が拳銃で自殺を図ったか 意識不明,https://news.web.nhk/newsweb/na/nd-20260919de51281,2026-09-19T14:31:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASV9M4GQ8V9MUTIL018M.html?ref=rss,交番で血を流す男性巡査見つかる、意識不明　拳銃で自殺図ったか,http://www.asahi.com/articles/ASV9M4GQ8V9MUTIL018M.html?ref=rss,2026-09-19T14:31:00Z,4
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/215000c,交番で拳銃自殺図ったか　10代の巡査が意識不明　東京・八王子,https://mainichi.jp/articles/20260919/k00/00m/040/215000c,2026-09-19T14:31:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASV9M2S6FV9MUQIP03RM.html?ref=rss,撮影中のドローンが庁舎に衝突　アジア大会機にライトアップ　名古屋,http://www.asahi.com/articles/ASV9M2S6FV9MUQIP03RM.html?ref=rss,2026-09-19T11:10:00Z,5
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/151000c,撮影ドローンが名古屋市庁舎衝突　アジア大会関連、航空法違反か,https://mainichi.jp/articles/20260919/k00/00m/040/151000c,2026-09-19T11:10:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASV9M00B1V9MUHBI007M.html?ref=rss,日米首脳、22日に会談へ　米側発表　「米中会談前なおさら重要」,http://www.asahi.com/articles/ASV9M00B1V9MUHBI007M.html?ref=rss,2026-09-19T01:17:00Z,6
-毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/030/044000c,22日に日米首脳会談へ　米政府高官「日本は重要な同盟国」,https://mainichi.jp/articles/20260919/k00/00m/030/044000c,2026-09-19T06:00:00Z,6
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/010/319000c,福岡県議会の金銭授受疑惑　第三者委が会見「調査は相当困難」,https://mainichi.jp/articles/20260918/k00/00m/010/319000c,2026-09-18T11:27:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASV9L419SV9LTIPE00RM.html?ref=rss,調査拒否への対応も検討　金銭授受疑惑の第三者委が会見　福岡県議会,http://www.asahi.com/articles/ASV9L419SV9LTIPE00RM.html?ref=rss,2026-09-19T01:17:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASV9L424TV9LULOB009M.html?ref=rss,横浜市長選、共産党の浅賀由香氏が立候補表明　「市民に豊かさを」,http://www.asahi.com/articles/ASV9L424TV9LULOB009M.html?ref=rss,2026-09-18T16:33:00Z,8
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/310/353000c,横浜市長選に浅賀由香氏が出馬表明　共産党神奈川県副委員長,https://mainichi.jp/articles/20260918/k00/00m/310/353000c,2026-09-18T16:33:00Z,8
-NHK,https://news.web.nhk/newsweb/na/nd-20260918de50986,政府 臨時国会来月5日召集方針 消費税減税法案など審議見通し,https://news.web.nhk/newsweb/na/nd-20260918de50986,2026-09-18T06:01:00Z,9
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/010/087000c,秋の臨時国会は10月5日召集方針　政府が与党に伝達,https://mainichi.jp/articles/20260918/k00/00m/010/087000c,2026-09-18T06:01:00Z,9
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/010/309000c,臨時国会10月5日に召集方針　消費減税法案など成立目指す,https://mainichi.jp/articles/20260918/k00/00m/010/309000c,2026-09-18T11:27:00Z,9
-NHK,https://news.web.nhk/newsweb/na/nd-20260918de51077,介護保険制度見直しへ議論 自己負担2割拡大など 専門家部会,https://news.web.nhk/newsweb/na/nd-20260918de51077,2026-09-18T11:27:00Z,10
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/100/308000c,介護保険制度改正へ負担増議論　保険料見直しや2割負担拡大検討,https://mainichi.jp/articles/20260918/k00/00m/100/308000c,2026-09-18T11:27:00Z,10
-朝日新聞,http://www.asahi.com/articles/ASV9L3GJVV9LOXIE03FM.html?ref=rss,貴金属買い取り店での詐欺事件で司法取引　広島地検支部　匿流関与か,http://www.asahi.com/articles/ASV9L3GJVV9LOXIE03FM.html?ref=rss,2026-09-18T11:27:00Z,11
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/040/302000c,匿流疑い事件で司法取引　適用表面化は初　広島地検福山支部,https://mainichi.jp/articles/20260918/k00/00m/040/302000c,2026-09-18T11:27:00Z,11
-NHK,https://news.web.nhk/newsweb/na/nd-20260918de50935,日銀 金融政策決定会合 政策金利1.25％程度へ引き上げの見通し,https://news.web.nhk/newsweb/na/nd-20260918de50935,2026-09-17T21:31:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20260918de50968,【ライブ予定】日銀3か月ぶり利上げ決定 政策金利1.25％程度へ,https://news.web.nhk/newsweb/na/nd-20260918de50968,2026-09-18T06:01:00Z,12
-毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/020/331000c,日銀が追加利上げ、政策金利1.25％に　6月会合以来3カ月ぶり,https://mainichi.jp/articles/20260917/k00/00m/020/331000c,2026-09-18T06:01:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20260918de51046,新潟 十日町市 無人の車が園児の列に突っ込み5人けが,https://news.web.nhk/newsweb/na/nd-20260918de51046,2026-09-18T06:01:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASV9L1PBPV9LUOHB00BM.html?ref=rss,幼稚園児の列に無人の軽乗用車が衝突、園児5人けが　新潟県十日町市,http://www.asahi.com/articles/ASV9L1PBPV9LUOHB00BM.html?ref=rss,2026-09-18T06:01:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASV9L03NVV9LUTIL012M.html?ref=rss,八重洲2人死亡事故　計算ミスで鉄骨落下か、大林組社員2人書類送検,http://www.asahi.com/articles/ASV9L03NVV9LUTIL012M.html?ref=rss,2026-09-18T06:01:00Z,14
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/040/109000c,強度計算誤り八重洲ビルの鉄骨崩落か　大林組社員2人を書類送検,https://mainichi.jp/articles/20260918/k00/00m/040/109000c,2026-09-18T06:01:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASV9K22BXV9KUTQP01BM.html?ref=rss,ドジャースが中盤までに大量リード、ナ・リーグ西地区5年連続優勝へ,http://www.asahi.com/articles/ASV9K22BXV9KUTQP01BM.html?ref=rss,2026-09-17T18:21:00Z,15
-NHK,https://news.web.nhk/newsweb/na/nd-20260918de50949,ドジャースが5年連続の地区優勝,https://news.web.nhk/newsweb/na/nd-20260918de50949,2026-09-18T00:27:00Z,15
-毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/050/014000c,ドジャース、ナ・リーグ西地区5連覇　米大リーグ,https://mainichi.jp/articles/20260918/k00/00m/050/014000c,2026-09-18T00:27:00Z,15
-NHK,https://news.web.nhk/newsweb/na/nd-20260917de50928,関電の美浜原発3号配管から水滴落下 原子炉を手動停止へ 福井,https://news.web.nhk/newsweb/na/nd-20260917de50928,2026-09-17T18:21:00Z,16
-毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/040/400000c,美浜原発3号機、水漏れで原子炉を手動停止　5月にもトラブル,https://mainichi.jp/articles/20260917/k00/00m/040/400000c,2026-09-17T18:21:00Z,16
+朝日新聞,http://www.asahi.com/articles/ASV9M34RGV9MUCVL015M.html?ref=rss,「中田カウス・ボタン」中田ボタンさん死去　正統派のしゃべくり漫才,http://www.asahi.com/articles/ASV9M34RGV9MUCVL015M.html?ref=rss,2026-09-19T11:10:00Z,1
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/200/171000c,中田ボタンさん死去　78歳　「アイドル漫才師」の先駆け,https://mainichi.jp/articles/20260919/k00/00m/200/171000c,2026-09-19T11:10:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20260919de51285,上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳,https://news.web.nhk/newsweb/na/nd-20260919de51285,2026-09-19T18:07:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20260919de51169,日銀が「レートチェック」を実施 円安けん制か,https://news.web.nhk/newsweb/na/nd-20260919de51169,2026-09-18T19:44:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/020/004000c,NY円、一時156円台後半　日銀がレートチェック実施との見方,https://mainichi.jp/articles/20260919/k00/00m/020/004000c,2026-09-18T19:44:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASV9L7FT6V9LUHBI005M.html?ref=rss,円が一時1円超急騰、1ドル156円台に　レートチェックとの見方も,http://www.asahi.com/articles/ASV9L7FT6V9LUHBI005M.html?ref=rss,2026-09-19T01:17:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/020/170000c,日銀がレートチェック実施、円買い介入準備　一時156円台,https://mainichi.jp/articles/20260919/k00/00m/020/170000c,2026-09-19T11:10:00Z,2
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/020/203000c,日銀、再び円買い介入に踏み切るか　レートチェックで市場動揺,https://mainichi.jp/articles/20260919/k00/00m/020/203000c,2026-09-19T14:31:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASV9M1HZKV9MUTIL013M.html?ref=rss,「タイムレス」猪俣周杜メンバーを傷害容疑で逮捕　知人女性に暴行か,http://www.asahi.com/articles/ASV9M1HZKV9MUTIL013M.html?ref=rss,2026-09-19T06:00:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20260919de51225,timeleszの猪俣周杜容疑者を傷害疑いで逮捕 知人女性に暴行か,https://news.web.nhk/newsweb/na/nd-20260919de51225,2026-09-19T11:10:00Z,3
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/116000c,「timelesz」猪俣周杜容疑者を逮捕　知人女性殴った疑い,https://mainichi.jp/articles/20260919/k00/00m/040/116000c,2026-09-19T11:10:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss,timeleszの猪俣周杜メンバーが活動休止　STARTO社発表,http://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss,2026-09-19T14:31:00Z,3
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/234000c,「timelesz」猪俣周杜容疑者が活動休止　STARTO社が発表,https://mainichi.jp/articles/20260919/k00/00m/040/234000c,2026-09-19T14:31:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASV9M2J8VV9MOIPE00HM.html?ref=rss,愛知・名古屋アジア大会が開幕　45の国・地域が参加、過去最大級,http://www.asahi.com/articles/ASV9M2J8VV9MOIPE00HM.html?ref=rss,2026-09-19T11:10:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20260919de51267,愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言,https://news.web.nhk/newsweb/na/nd-20260919de51267,2026-09-19T14:31:00Z,4
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/050/149000c,愛知・名古屋アジア大会が開幕　開会式は堤幸彦監督が演出,https://mainichi.jp/articles/20260919/k00/00m/050/149000c,2026-09-19T14:31:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20260919de51281,八王子の交番で10代の警察官が拳銃で自殺を図ったか 意識不明,https://news.web.nhk/newsweb/na/nd-20260919de51281,2026-09-19T14:31:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASV9M4GQ8V9MUTIL018M.html?ref=rss,交番で血を流す男性巡査見つかる、意識不明　拳銃で自殺図ったか,http://www.asahi.com/articles/ASV9M4GQ8V9MUTIL018M.html?ref=rss,2026-09-19T14:31:00Z,5
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/215000c,交番で拳銃自殺図ったか　10代の巡査が意識不明　東京・八王子,https://mainichi.jp/articles/20260919/k00/00m/040/215000c,2026-09-19T14:31:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASV9M2S6FV9MUQIP03RM.html?ref=rss,撮影中のドローンが庁舎に衝突　アジア大会機にライトアップ　名古屋,http://www.asahi.com/articles/ASV9M2S6FV9MUQIP03RM.html?ref=rss,2026-09-19T11:10:00Z,6
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/040/151000c,撮影ドローンが名古屋市庁舎衝突　アジア大会関連、航空法違反か,https://mainichi.jp/articles/20260919/k00/00m/040/151000c,2026-09-19T11:10:00Z,6
+朝日新聞,http://www.asahi.com/articles/ASV9M00B1V9MUHBI007M.html?ref=rss,日米首脳、22日に会談へ　米側発表　「米中会談前なおさら重要」,http://www.asahi.com/articles/ASV9M00B1V9MUHBI007M.html?ref=rss,2026-09-19T01:17:00Z,7
+毎日新聞,https://mainichi.jp/articles/20260919/k00/00m/030/044000c,22日に日米首脳会談へ　米政府高官「日本は重要な同盟国」,https://mainichi.jp/articles/20260919/k00/00m/030/044000c,2026-09-19T06:00:00Z,7
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/010/319000c,福岡県議会の金銭授受疑惑　第三者委が会見「調査は相当困難」,https://mainichi.jp/articles/20260918/k00/00m/010/319000c,2026-09-18T11:27:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASV9L419SV9LTIPE00RM.html?ref=rss,調査拒否への対応も検討　金銭授受疑惑の第三者委が会見　福岡県議会,http://www.asahi.com/articles/ASV9L419SV9LTIPE00RM.html?ref=rss,2026-09-19T01:17:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASV9L424TV9LULOB009M.html?ref=rss,横浜市長選、共産党の浅賀由香氏が立候補表明　「市民に豊かさを」,http://www.asahi.com/articles/ASV9L424TV9LULOB009M.html?ref=rss,2026-09-18T16:33:00Z,9
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/310/353000c,横浜市長選に浅賀由香氏が出馬表明　共産党神奈川県副委員長,https://mainichi.jp/articles/20260918/k00/00m/310/353000c,2026-09-18T16:33:00Z,9
+NHK,https://news.web.nhk/newsweb/na/nd-20260918de50986,政府 臨時国会来月5日召集方針 消費税減税法案など審議見通し,https://news.web.nhk/newsweb/na/nd-20260918de50986,2026-09-18T06:01:00Z,10
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/010/087000c,秋の臨時国会は10月5日召集方針　政府が与党に伝達,https://mainichi.jp/articles/20260918/k00/00m/010/087000c,2026-09-18T06:01:00Z,10
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/010/309000c,臨時国会10月5日に召集方針　消費減税法案など成立目指す,https://mainichi.jp/articles/20260918/k00/00m/010/309000c,2026-09-18T11:27:00Z,10
+NHK,https://news.web.nhk/newsweb/na/nd-20260918de51077,介護保険制度見直しへ議論 自己負担2割拡大など 専門家部会,https://news.web.nhk/newsweb/na/nd-20260918de51077,2026-09-18T11:27:00Z,11
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/100/308000c,介護保険制度改正へ負担増議論　保険料見直しや2割負担拡大検討,https://mainichi.jp/articles/20260918/k00/00m/100/308000c,2026-09-18T11:27:00Z,11
+朝日新聞,http://www.asahi.com/articles/ASV9L3GJVV9LOXIE03FM.html?ref=rss,貴金属買い取り店での詐欺事件で司法取引　広島地検支部　匿流関与か,http://www.asahi.com/articles/ASV9L3GJVV9LOXIE03FM.html?ref=rss,2026-09-18T11:27:00Z,12
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/040/302000c,匿流疑い事件で司法取引　適用表面化は初　広島地検福山支部,https://mainichi.jp/articles/20260918/k00/00m/040/302000c,2026-09-18T11:27:00Z,12
+NHK,https://news.web.nhk/newsweb/na/nd-20260918de50935,日銀 金融政策決定会合 政策金利1.25％程度へ引き上げの見通し,https://news.web.nhk/newsweb/na/nd-20260918de50935,2026-09-17T21:31:00Z,13
+NHK,https://news.web.nhk/newsweb/na/nd-20260918de50968,【ライブ予定】日銀3か月ぶり利上げ決定 政策金利1.25％程度へ,https://news.web.nhk/newsweb/na/nd-20260918de50968,2026-09-18T06:01:00Z,13
+毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/020/331000c,日銀が追加利上げ、政策金利1.25％に　6月会合以来3カ月ぶり,https://mainichi.jp/articles/20260917/k00/00m/020/331000c,2026-09-18T06:01:00Z,13
+NHK,https://news.web.nhk/newsweb/na/nd-20260918de51046,新潟 十日町市 無人の車が園児の列に突っ込み5人けが,https://news.web.nhk/newsweb/na/nd-20260918de51046,2026-09-18T06:01:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASV9L1PBPV9LUOHB00BM.html?ref=rss,幼稚園児の列に無人の軽乗用車が衝突、園児5人けが　新潟県十日町市,http://www.asahi.com/articles/ASV9L1PBPV9LUOHB00BM.html?ref=rss,2026-09-18T06:01:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASV9L03NVV9LUTIL012M.html?ref=rss,八重洲2人死亡事故　計算ミスで鉄骨落下か、大林組社員2人書類送検,http://www.asahi.com/articles/ASV9L03NVV9LUTIL012M.html?ref=rss,2026-09-18T06:01:00Z,15
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/040/109000c,強度計算誤り八重洲ビルの鉄骨崩落か　大林組社員2人を書類送検,https://mainichi.jp/articles/20260918/k00/00m/040/109000c,2026-09-18T06:01:00Z,15
+朝日新聞,http://www.asahi.com/articles/ASV9K22BXV9KUTQP01BM.html?ref=rss,ドジャースが中盤までに大量リード、ナ・リーグ西地区5年連続優勝へ,http://www.asahi.com/articles/ASV9K22BXV9KUTQP01BM.html?ref=rss,2026-09-17T18:21:00Z,16
+NHK,https://news.web.nhk/newsweb/na/nd-20260918de50949,ドジャースが5年連続の地区優勝,https://news.web.nhk/newsweb/na/nd-20260918de50949,2026-09-18T00:27:00Z,16
+毎日新聞,https://mainichi.jp/articles/20260918/k00/00m/050/014000c,ドジャース、ナ・リーグ西地区5連覇　米大リーグ,https://mainichi.jp/articles/20260918/k00/00m/050/014000c,2026-09-18T00:27:00Z,16
+NHK,https://news.web.nhk/newsweb/na/nd-20260917de50928,関電の美浜原発3号配管から水滴落下 原子炉を手動停止へ 福井,https://news.web.nhk/newsweb/na/nd-20260917de50928,2026-09-17T18:21:00Z,17
+毎日新聞,https://mainichi.jp/articles/20260917/k00/00m/040/400000c,美浜原発3号機、水漏れで原子炉を手動停止　5月にもトラブル,https://mainichi.jp/articles/20260917/k00/00m/040/400000c,2026-09-17T18:21:00Z,17
