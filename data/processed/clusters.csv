@@ -1,16 +1,18 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261003de54044,那覇市のホテルで女性遺体 強盗殺人事件として捜査,https://news.web.nhk/newsweb/na/nd-20261003de54044,2026-10-03T13:30:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20261004de54164,那覇ホテル強盗殺人 アメリカ海兵隊普天間基地の上等兵を逮捕,https://news.web.nhk/newsweb/na/nd-20261004de54164,2026-10-04T00:45:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVB37QNYVB3TPOB001M.html?ref=rss,強盗殺人容疑で普天間基地の米兵を緊急逮捕　ホテルで女性殺害疑い,http://www.asahi.com/articles/ASVB37QNYVB3TPOB001M.html?ref=rss,2026-10-04T00:45:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261004/k00/00m/040/036000c,那覇のホテルで女性遺体　強盗殺人容疑で米兵を緊急逮捕,https://mainichi.jp/articles/20261004/k00/00m/040/036000c,2026-10-04T00:45:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261005/k00/00m/040/114000c,強盗殺人容疑で逮捕の米兵を送検　那覇のホテルに女性遺体,https://mainichi.jp/articles/20261005/k00/00m/040/114000c,2026-10-05T07:11:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20261004de54142,ブラジル大統領選挙 投票へ 現職と前大統領の息子が接戦,https://news.web.nhk/newsweb/na/nd-20261004de54142,2026-10-03T21:27:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261005de54416,ブラジル大統領選挙 10月25日に決選投票へ,https://news.web.nhk/newsweb/na/nd-20261005de54416,2026-10-05T01:02:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVB50HM7VB5BQBQ2NQM.html?ref=rss,ブラジル大統領選、ボルソナーロ氏長男が首位　25日に決選投票へ,http://www.asahi.com/articles/ASVB50HM7VB5BQBQ2NQM.html?ref=rss,2026-10-05T07:11:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261005de54622,交際相手25歳女性の遺体を宮城の山中に遺棄か 36歳容疑者逮捕,https://news.web.nhk/newsweb/na/nd-20261005de54622,2026-10-05T07:11:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261005/k00/00m/040/124000c,交際相手の遺体を宮城の山中に遺棄か　警視庁、バー経営者を逮捕,https://mainichi.jp/articles/20261005/k00/00m/040/124000c,2026-10-05T07:11:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVB20RRKVB2TIPE00PM.html?ref=rss,北九州6人死亡アパート火災、争点は「犯人性と事件性」5日に初公判,http://www.asahi.com/articles/ASVB20RRKVB2TIPE00PM.html?ref=rss,2026-10-03T13:30:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261002/k00/00m/040/355000c,事件性と犯人性が争点　被告側無罪主張へ　北九州6人死亡火災,https://mainichi.jp/articles/20261002/k00/00m/040/355000c,2026-10-04T21:38:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20261004de54142,ブラジル大統領選挙 投票へ 現職と前大統領の息子が接戦,https://news.web.nhk/newsweb/na/nd-20261004de54142,2026-10-03T21:27:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261005de54416,ブラジル大統領選挙 10月25日に決選投票へ,https://news.web.nhk/newsweb/na/nd-20261005de54416,2026-10-05T01:02:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVB50HM7VB5BQBQ2NQM.html?ref=rss,ブラジル大統領選、ボルソナーロ氏長男が首位　25日に決選投票へ,http://www.asahi.com/articles/ASVB50HM7VB5BQBQ2NQM.html?ref=rss,2026-10-05T07:11:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVB53F5XVB5UHBI00RM.html?ref=rss,ブラジル大統領選、ボルソナーロ氏が首位通過　25日の決選も優勢？,http://www.asahi.com/articles/ASVB53F5XVB5UHBI00RM.html?ref=rss,2026-10-05T16:10:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261005de54622,交際相手25歳女性の遺体を宮城の山中に遺棄か 36歳容疑者逮捕,https://news.web.nhk/newsweb/na/nd-20261005de54622,2026-10-05T07:11:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261005/k00/00m/040/124000c,交際相手の遺体を宮城の山中に遺棄か　警視庁、バー経営者を逮捕,https://mainichi.jp/articles/20261005/k00/00m/040/124000c,2026-10-05T07:11:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVB535K3VB5UTIL01VM.html?ref=rss,交際相手の遺体を山中に遺棄か、バー経営者逮捕　警視庁で指導も,http://www.asahi.com/articles/ASVB535K3VB5UTIL01VM.html?ref=rss,2026-10-05T16:10:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261005/k00/00m/040/316000c,逮捕のバー経営者、死亡女性と度々交際トラブル　宮城の遺体遺棄,https://mainichi.jp/articles/20261005/k00/00m/040/316000c,2026-10-05T16:10:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVB51TF7VB5DIFI01HM.html?ref=rss,ノーベル生理学・医学賞に米独3氏　光で神経を操る「光遺伝学」研究,http://www.asahi.com/articles/ASVB51TF7VB5DIFI01HM.html?ref=rss,2026-10-05T16:10:00Z,3
+毎日新聞,https://mainichi.jp/articles/20261005/k00/00m/040/334000c,光遺伝学は「脳の地図描くこと可能に」　ノーベル生理学・医学賞,https://mainichi.jp/articles/20261005/k00/00m/040/334000c,2026-10-05T16:10:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261004de54164,那覇ホテル強盗殺人 アメリカ海兵隊普天間基地の上等兵を逮捕,https://news.web.nhk/newsweb/na/nd-20261004de54164,2026-10-04T00:45:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVB37QNYVB3TPOB001M.html?ref=rss,強盗殺人容疑で普天間基地の米兵を緊急逮捕　ホテルで女性殺害疑い,http://www.asahi.com/articles/ASVB37QNYVB3TPOB001M.html?ref=rss,2026-10-04T00:45:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261004/k00/00m/040/036000c,那覇のホテルで女性遺体　強盗殺人容疑で米兵を緊急逮捕,https://mainichi.jp/articles/20261004/k00/00m/040/036000c,2026-10-04T00:45:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261005/k00/00m/040/114000c,強盗殺人容疑で逮捕の米兵を送検　那覇のホテルに女性遺体,https://mainichi.jp/articles/20261005/k00/00m/040/114000c,2026-10-05T07:11:00Z,4
 毎日新聞,https://mainichi.jp/articles/20261004/k00/00m/310/131000c,前福岡県議長の辞職に伴う県議補選　新人の牛島慶二郎氏が初当選,https://mainichi.jp/articles/20261004/k00/00m/310/131000c,2026-10-04T13:18:00Z,5
 朝日新聞,http://www.asahi.com/articles/ASV9Z15NJV9ZTIPE011M.html?ref=rss,福岡県議会の「ドン」辞職に伴う補選、牛島慶二郎氏初当選　筑後市区,http://www.asahi.com/articles/ASV9Z15NJV9ZTIPE011M.html?ref=rss,2026-10-04T17:40:00Z,5
 朝日新聞,http://www.asahi.com/articles/ASVB43H5CVB4TZNB00KM.html?ref=rss,使用済み核燃料の中間貯蔵施設　誘致訴えた山口・上関町長が再選,http://www.asahi.com/articles/ASVB43H5CVB4TZNB00KM.html?ref=rss,2026-10-04T13:18:00Z,6
@@ -24,14 +26,3 @@ NHK,https://news.web.nhk/newsweb/na/nd-20261004de54174,淡路島で釣りの9歳
 毎日新聞,https://mainichi.jp/articles/20261004/k00/00m/310/059000c,淡路島で釣りの小3が海に転落、意識不明　男性が救助に飛び込む,https://mainichi.jp/articles/20261004/k00/00m/310/059000c,2026-10-04T07:01:00Z,9
 NHK,https://news.web.nhk/newsweb/na/nd-20261003de54104,サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ,https://news.web.nhk/newsweb/na/nd-20261003de54104,2026-10-03T21:27:00Z,10
 朝日新聞,http://www.asahi.com/articles/ASVB33SLCVB3UTIL01NM.html?ref=rss,サザン関口氏の会社、5億円超の申告漏れ　損金計上めぐり国税局指摘,http://www.asahi.com/articles/ASVB33SLCVB3UTIL01NM.html?ref=rss,2026-10-03T21:27:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261003/k00/00m/040/206000c,だんじり横転、7人負傷し救急搬送　大阪・堺,https://mainichi.jp/articles/20261003/k00/00m/040/206000c,2026-10-03T13:30:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVB34KB7VB3PTIL009M.html?ref=rss,だんじり横転、11人負傷し搬送　交差点曲がり切れなかったか　堺,http://www.asahi.com/articles/ASVB34KB7VB3PTIL009M.html?ref=rss,2026-10-03T18:01:00Z,11
-NHK,https://news.web.nhk/newsweb/na/nd-20261003de54054,阪神が2年連続8回目のセ・リーグ優勝 球団史上初のリーグ連覇,https://news.web.nhk/newsweb/na/nd-20261003de54054,2026-10-03T13:30:00Z,12
-朝日新聞,http://www.asahi.com/articles/ASVB33W79VB3PTQP00FM.html?ref=rss,阪神が球団史上初のセ・リーグ連覇　広島に敗れるも、2位巨人も敗戦,http://www.asahi.com/articles/ASVB33W79VB3PTQP00FM.html?ref=rss,2026-10-03T13:30:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261003/k00/00m/050/096000c,阪神がセ・リーグ8回目の優勝　連覇は球団史上初、主力が力発揮,https://mainichi.jp/articles/20261003/k00/00m/050/096000c,2026-10-03T13:30:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20261003de54066,東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり,https://news.web.nhk/newsweb/na/nd-20261003de54066,2026-10-03T13:30:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVB330T4VB3UCVL00KM.html?ref=rss,八丈島でダイビングの8人が一時行方不明　全員救助、命に別条なし,http://www.asahi.com/articles/ASVB330T4VB3UCVL00KM.html?ref=rss,2026-10-03T13:30:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20261003de54049,レスリング女子 藤波朱理 公式戦の連勝が「155」で止まる,https://news.web.nhk/newsweb/na/nd-20261003de54049,2026-10-03T08:16:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASVB31F1QVB3UTQP01KM.html?ref=rss,レスリング藤波朱理、連勝155で止まる　アジア大会準決勝で敗れる,http://www.asahi.com/articles/ASVB31F1QVB3UTQP01KM.html?ref=rss,2026-10-03T08:16:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASVB31V4KVB3UEFT00LM.html?ref=rss,タワマン23階のベランダから転落か、9歳男児が死亡　東京・晴海,http://www.asahi.com/articles/ASVB31V4KVB3UEFT00LM.html?ref=rss,2026-10-03T08:16:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261003/k00/00m/040/099000c,東京・晴海のタワマン23階から9歳男児が転落　意識不明で搬送,https://mainichi.jp/articles/20261003/k00/00m/040/099000c,2026-10-03T08:16:00Z,15
