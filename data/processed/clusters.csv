@@ -1,6 +1,7 @@
 outlet,guid,title,link,first_seen,cluster_id
 毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/010/061000c,簗農相、事実関係確認後に説明予定　「支持者を無料送迎」報道,https://mainichi.jp/articles/20261009/k00/00m/010/061000c,2026-10-09T02:17:00Z,1
 NHK,https://news.web.nhk/newsweb/na/nd-20261009de56980,簗農相 バス無料送迎報道「事実関係を整理でき次第説明」,https://news.web.nhk/newsweb/na/nd-20261009de56980,2026-10-09T16:20:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261009de57496,簗農相 バス無料送迎報道で出納責任者「違法という認識ない」,https://news.web.nhk/newsweb/na/nd-20261009de57496,2026-10-09T21:01:00Z,1
 朝日新聞,http://www.asahi.com/articles/ASVB7218NVB7UHBI023M.html?ref=rss,ノーベル平和賞、ICCの受賞は？　トランプ制裁は追い風か逆風か,http://www.asahi.com/articles/ASVB7218NVB7UHBI023M.html?ref=rss,2026-10-07T22:05:00Z,2
 NHK,https://news.web.nhk/newsweb/na/nd-20261009de57527,米トランプ政権 ICC＝国際刑事裁判所を制裁対象に,https://news.web.nhk/newsweb/na/nd-20261009de57527,2026-10-09T16:20:00Z,2
 朝日新聞,http://www.asahi.com/articles/ASV9Q0S90V9QSFVU0NMM.html?ref=rss,トランプ米政権がICC組織に制裁、元裁判官への平和賞授賞発表直後,http://www.asahi.com/articles/ASV9Q0S90V9QSFVU0NMM.html?ref=rss,2026-10-09T16:20:00Z,2
@@ -10,62 +11,42 @@ NHK,https://news.web.nhk/newsweb/na/nd-20261009de57527,米トランプ政権 ICC
 朝日新聞,http://www.asahi.com/articles/ASVB554NCVB5UHBI00RM.html?ref=rss,ノーベル平和賞に元国連人権高等弁務官のナビ・ピレイ氏,http://www.asahi.com/articles/ASVB554NCVB5UHBI00RM.html?ref=rss,2026-10-09T09:15:00Z,4
 朝日新聞,http://www.asahi.com/articles/ASVB93V8BVB9UHBI01PM.html?ref=rss,【まとめてわかる】ノーベル平和賞のナビ・ピレイ氏、何をした人？,http://www.asahi.com/articles/ASVB93V8BVB9UHBI01PM.html?ref=rss,2026-10-09T16:20:00Z,4
 毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/030/330000c,「力による支配」の横暴を戒めた授賞　ノーベル平和賞にピレイ氏,https://mainichi.jp/articles/20261009/k00/00m/030/330000c,2026-10-09T16:20:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASVB73GDCVB7ULFA024M.html?ref=rss,個人情報保護委員会、企業に緊急注意喚起　相次ぐ大規模な情報流出で,http://www.asahi.com/articles/ASVB73GDCVB7ULFA024M.html?ref=rss,2026-10-07T16:39:00Z,5
-毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/020/269000c,JR東、ブックオフ…相次ぐ個人情報流出　政府、企業に緊急要請,https://mainichi.jp/articles/20261009/k00/00m/020/269000c,2026-10-09T16:20:00Z,5
-毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/200/185000c,らくごカフェ主宰の青木伸広さん死去　56歳　若手落語家を育成,https://mainichi.jp/articles/20261009/k00/00m/200/185000c,2026-10-09T09:15:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVB933XJVB9UCVL024M.html?ref=rss,らくごカフェ主宰の青木伸広さん死去　若手修行の場、武道館で公演も,http://www.asahi.com/articles/ASVB933XJVB9UCVL024M.html?ref=rss,2026-10-09T16:20:00Z,6
-NHK,https://news.web.nhk/newsweb/na/nd-20261009de56955,ブックオフ 不正アクセスで最大643万件の会員情報漏えいか,https://news.web.nhk/newsweb/na/nd-20261009de56955,2026-10-09T02:17:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASVB90572VB9UTIL002M.html?ref=rss,ブックオフのシステムに不正アクセス　643万件の情報漏洩の可能性,http://www.asahi.com/articles/ASVB90572VB9UTIL002M.html?ref=rss,2026-10-09T02:17:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20261009de57177,JR東日本とビューカード 最大600万件余の会員情報漏えいか,https://news.web.nhk/newsweb/na/nd-20261009de57177,2026-10-09T09:15:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20261009de56958,政府 食料品の消費税減税関連法案を閣議決定,https://news.web.nhk/newsweb/na/nd-20261009de56958,2026-10-09T02:17:00Z,8
-毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/010/184000c,消費税減税法案を閣議決定　会期末までの成立目指す,https://mainichi.jp/articles/20261009/k00/00m/010/184000c,2026-10-09T09:15:00Z,8
-NHK,https://news.web.nhk/newsweb/na/nd-20261009de57195,金融庁がプルデンシャル生命に一部業務停止命令,https://news.web.nhk/newsweb/na/nd-20261009de57195,2026-10-09T09:15:00Z,9
-朝日新聞,http://www.asahi.com/articles/ASVB91R7SVB9ULFA00VM.html?ref=rss,金融庁、プルデンシャル・ジブラルタ生命に約3カ月間の業務停止命令,http://www.asahi.com/articles/ASVB91R7SVB9ULFA00VM.html?ref=rss,2026-10-09T09:15:00Z,9
-朝日新聞,http://www.asahi.com/articles/ASVB913P3VB9TIPE003M.html?ref=rss,3歳男児死亡の飲酒運転、68歳の運転手を起訴　危険運転致死傷の罪,http://www.asahi.com/articles/ASVB913P3VB9TIPE003M.html?ref=rss,2026-10-09T09:15:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/040/229000c,3歳男児死亡飲酒事故　容疑者を危険運転致死傷罪で起訴　福岡,https://mainichi.jp/articles/20261009/k00/00m/040/229000c,2026-10-09T09:15:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20261008de56895,紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん,https://news.web.nhk/newsweb/na/nd-20261008de56895,2026-10-08T22:12:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss,NHK紅白歌合戦司会に芦田愛菜さん、堺雅人さん、二宮和也さん,http://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss,2026-10-09T02:17:00Z,11
-毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/200/063000c,紅白司会に芦田愛菜さん、堺雅人さんを初起用　二宮和也さんも,https://mainichi.jp/articles/20261009/k00/00m/200/063000c,2026-10-09T02:17:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVB83J3KVB8UHBI01YM.html?ref=rss,ロシア、ICC赤根所長らの身柄引き渡し要求　オランダなど複数国に,http://www.asahi.com/articles/ASVB83J3KVB8UHBI01YM.html?ref=rss,2026-10-08T16:37:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20261009de56946,ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請,https://news.web.nhk/newsweb/na/nd-20261009de56946,2026-10-09T02:17:00Z,12
-朝日新聞,http://www.asahi.com/articles/ASVB810NVVB8OIPE002M.html?ref=rss,愛知県副議長の成田氏辞任へ　アジア大会に「強行入場」と週刊誌報道,http://www.asahi.com/articles/ASVB810NVVB8OIPE002M.html?ref=rss,2026-10-08T09:09:00Z,13
-毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/310/032000c,愛知県議会・成田副議長が辞任へ　アジア大会の会場で無許可駐車,https://mainichi.jp/articles/20261009/k00/00m/310/032000c,2026-10-09T02:17:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20261007de55972,ノーベル文学賞にアン・カーソン氏 カナダの詩人,https://news.web.nhk/newsweb/na/nd-20261007de55972,2026-10-08T16:37:00Z,14
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/200/292000c,アン・カーソン氏にノーベル文学賞　「現代文学に新たな形式」,https://mainichi.jp/articles/20261008/k00/00m/200/292000c,2026-10-08T16:37:00Z,14
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/200/315000c,「大胆で独創的な作品」評価　アン・カーソン氏にノーベル文学賞,https://mainichi.jp/articles/20261008/k00/00m/200/315000c,2026-10-08T16:37:00Z,14
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/200/322000c,アン・カーソン作品　「言語芸術の可能性開く」　ノーベル文学賞,https://mainichi.jp/articles/20261008/k00/00m/200/322000c,2026-10-08T16:37:00Z,14
-NHK,https://news.web.nhk/newsweb/na/nd-20261008de56508,阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来,https://news.web.nhk/newsweb/na/nd-20261008de56508,2026-10-08T16:37:00Z,15
-朝日新聞,http://www.asahi.com/articles/ASVB8363DVB8PTQP00QM.html?ref=rss,阪神・佐藤輝明が三冠王　史上9人目、阪神では86年のバース以来,http://www.asahi.com/articles/ASVB8363DVB8PTQP00QM.html?ref=rss,2026-10-08T16:37:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/050/318000c,阪神・佐藤輝明がセ3冠王　球団ではバース以来40年ぶりの快挙,https://mainichi.jp/articles/20261008/k00/00m/050/318000c,2026-10-08T16:37:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/050/352000c,「バースの再来」は西宮出身だった　阪神・佐藤輝明が3冠王,https://mainichi.jp/articles/20261008/k00/00m/050/352000c,2026-10-08T16:37:00Z,15
-朝日新聞,http://www.asahi.com/articles/ASVB71J2LVB7UTFL00QM.html?ref=rss,ノーベル化学賞に硤合憲三さん　不斉自己触媒反応を発見,http://www.asahi.com/articles/ASVB71J2LVB7UTFL00QM.html?ref=rss,2026-10-07T16:39:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVB73HW0VB7UTFL00XM.html?ref=rss,ノーベル化学賞の硤合さん、喜び語る　受賞の知らせは「買い物中に」,http://www.asahi.com/articles/ASVB73HW0VB7UTFL00XM.html?ref=rss,2026-10-07T16:39:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/359000c,硤合憲三さん「研究分野広く知っていただける」　ノーベル化学賞,https://mainichi.jp/articles/20261007/k00/00m/040/359000c,2026-10-07T16:39:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/365000c,ノーベル化学賞に硤合憲三さん　「不斉自己触媒反応」を発見,https://mainichi.jp/articles/20261007/k00/00m/040/365000c,2026-10-07T16:39:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/378000c,生命の起源の謎に迫った業績評価　ノーベル化学賞の硤合憲三さん,https://mainichi.jp/articles/20261007/k00/00m/040/378000c,2026-10-07T16:39:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/403000c,「文句は言われないだろう」　硤合憲三さん、ノーベル賞受賞に,https://mainichi.jp/articles/20261007/k00/00m/040/403000c,2026-10-07T16:39:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/412000c,ノーベル賞の硤合憲三さん、研究で大切にしていることは「実験」,https://mainichi.jp/articles/20261007/k00/00m/040/412000c,2026-10-07T16:39:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/414000c,ノーベル賞受賞の知らせはスーパーで買い物中　硤合さん記者会見,https://mainichi.jp/articles/20261007/k00/00m/040/414000c,2026-10-07T16:39:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVB74GVMVB7UTIL02VM.html?ref=rss,LINEを埋め尽くす「おめでとう」　硤合さんノーベル賞受賞に歓喜,http://www.asahi.com/articles/ASVB74GVMVB7UTIL02VM.html?ref=rss,2026-10-07T22:05:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVB751FTVB7UTFL011M.html?ref=rss,硤合さん「様々な研究分野を誘発」　識者が語るノーベル化学賞の意義,http://www.asahi.com/articles/ASVB751FTVB7UTFL011M.html?ref=rss,2026-10-07T22:05:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/310/188000c,小池都知事「大変誇らしい」　硤合憲三さんのノーベル化学賞受賞,https://mainichi.jp/articles/20261008/k00/00m/310/188000c,2026-10-08T09:09:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVB83H0QVB8UTFL01PM.html?ref=rss,「前人未到、調べる価値ある」ノーベル化学賞の硤合さんインタビュー,http://www.asahi.com/articles/ASVB83H0QVB8UTFL01PM.html?ref=rss,2026-10-08T16:37:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVB83JPYVB8ULFA02CM.html?ref=rss,中小農家らに売上高5%程度の給付金　政府調整、消費減税めぐり支援,http://www.asahi.com/articles/ASVB83JPYVB8ULFA02CM.html?ref=rss,2026-10-08T16:37:00Z,17
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/020/346000c,消費減税で収入減の農家に給付金検討　政府、売上高の5％程度,https://mainichi.jp/articles/20261008/k00/00m/020/346000c,2026-10-08T16:37:00Z,17
-朝日新聞,http://www.asahi.com/articles/ASVB802JLVB8UTQP004M.html?ref=rss,工藤公康氏が中日の新監督に　ソフトバンクを5度日本一に導いた名将,http://www.asahi.com/articles/ASVB802JLVB8UTQP004M.html?ref=rss,2026-10-08T02:04:00Z,18
-NHK,https://news.web.nhk/newsweb/na/nd-20261008de56275,プロ野球 中日の新監督に工藤公康氏 就任へ,https://news.web.nhk/newsweb/na/nd-20261008de56275,2026-10-08T09:09:00Z,18
-NHK,https://news.web.nhk/newsweb/na/nd-20261008de56547,神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し,https://news.web.nhk/newsweb/na/nd-20261008de56547,2026-10-08T09:09:00Z,19
-朝日新聞,http://www.asahi.com/articles/ASVB825C6VB8ULOB00BM.html?ref=rss,神奈川県警の警察官が失効免許証を無断で持ち出し　捜査に不正利用か,http://www.asahi.com/articles/ASVB825C6VB8ULOB00BM.html?ref=rss,2026-10-08T09:09:00Z,19
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/040/151000c,神奈川県警巡査長、免許証を不正持ち出し　数十枚を飲酒後に紛失,https://mainichi.jp/articles/20261008/k00/00m/040/151000c,2026-10-08T09:09:00Z,19
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/020/041000c,阪神連覇も「財布のひも」は固め?　経済効果1051億円試算,https://mainichi.jp/articles/20261008/k00/00m/020/041000c,2026-10-08T02:04:00Z,20
-朝日新聞,http://www.asahi.com/articles/ASVB73Q17VB7PLFA001M.html?ref=rss,阪神リーグ優勝、経済効果1051億円　「次は3連覇」早くも期待,http://www.asahi.com/articles/ASVB73Q17VB7PLFA001M.html?ref=rss,2026-10-08T09:09:00Z,20
-朝日新聞,http://www.asahi.com/articles/ASVB82D0WVB8UTIL006M.html?ref=rss,首都圏闇バイト強盗の「指示役」　北海道の事件にも関与疑いで再逮捕,http://www.asahi.com/articles/ASVB82D0WVB8UTIL006M.html?ref=rss,2026-10-08T09:09:00Z,21
-毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/310/163000c,首都圏連続強盗の指示役2人を再逮捕　札幌の事件にも関与疑い,https://mainichi.jp/articles/20261008/k00/00m/310/163000c,2026-10-08T09:09:00Z,21
-NHK,https://news.web.nhk/newsweb/na/nd-20261008de56277,ドジャース 3年連続でリーグ優勝決定シリーズ進出,https://news.web.nhk/newsweb/na/nd-20261008de56277,2026-10-08T02:04:00Z,22
-朝日新聞,http://www.asahi.com/articles/ASVB776VLVB7UTQP002M.html?ref=rss,ドジャースがリーグ優勝決定Sへ　大谷は足で貢献「祝杯は何回でも」,http://www.asahi.com/articles/ASVB776VLVB7UTQP002M.html?ref=rss,2026-10-08T02:04:00Z,22
-朝日新聞,http://www.asahi.com/articles/ASVB7547NVB7UHBI01WM.html?ref=rss,ロシア軍、ウクライナにあるJTのたばこ工場を攻撃,http://www.asahi.com/articles/ASVB7547NVB7UHBI01WM.html?ref=rss,2026-10-07T16:39:00Z,23
-NHK,https://news.web.nhk/newsweb/na/nd-20261008de56215,ロシアがウクライナにあるJT子会社の工場を攻撃,https://news.web.nhk/newsweb/na/nd-20261008de56215,2026-10-07T22:05:00Z,23
-NHK,https://news.web.nhk/newsweb/na/nd-20261007de56187,沖縄 女性殺害事件 元交際相手を逮捕 女性はストーカー被害,https://news.web.nhk/newsweb/na/nd-20261007de56187,2026-10-07T16:39:00Z,24
-朝日新聞,http://www.asahi.com/articles/ASVB7440XVB7TPOB001M.html?ref=rss,女性を殺害した疑い、元交際相手を逮捕　過去にストーカーで禁止命令,http://www.asahi.com/articles/ASVB7440XVB7TPOB001M.html?ref=rss,2026-10-07T16:39:00Z,24
-朝日新聞,http://www.asahi.com/articles/ASVB746N9VB7UTFK019M.html?ref=rss,高市首相、ノーベル化学賞の硤合氏に電話で祝意「日本人として誇り」,http://www.asahi.com/articles/ASVB746N9VB7UTFK019M.html?ref=rss,2026-10-07T16:39:00Z,25
-毎日新聞,https://mainichi.jp/articles/20261007/k00/00m/040/377000c,「日本人として誇り」高市首相、ノーベル賞の硤合氏に電話で祝意,https://mainichi.jp/articles/20261007/k00/00m/040/377000c,2026-10-07T16:39:00Z,25
+毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/200/185000c,らくごカフェ主宰の青木伸広さん死去　56歳　若手落語家を育成,https://mainichi.jp/articles/20261009/k00/00m/200/185000c,2026-10-09T09:15:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASVB933XJVB9UCVL024M.html?ref=rss,らくごカフェ主宰の青木伸広さん死去　若手修行の場、武道館で公演も,http://www.asahi.com/articles/ASVB933XJVB9UCVL024M.html?ref=rss,2026-10-09T16:20:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20261009de56955,ブックオフ 不正アクセスで最大643万件の会員情報漏えいか,https://news.web.nhk/newsweb/na/nd-20261009de56955,2026-10-09T02:17:00Z,6
+朝日新聞,http://www.asahi.com/articles/ASVB90572VB9UTIL002M.html?ref=rss,ブックオフのシステムに不正アクセス　643万件の情報漏洩の可能性,http://www.asahi.com/articles/ASVB90572VB9UTIL002M.html?ref=rss,2026-10-09T02:17:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261009de57177,JR東日本とビューカード 最大600万件余の会員情報漏えいか,https://news.web.nhk/newsweb/na/nd-20261009de57177,2026-10-09T09:15:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261009de56958,政府 食料品の消費税減税関連法案を閣議決定,https://news.web.nhk/newsweb/na/nd-20261009de56958,2026-10-09T02:17:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/010/184000c,消費税減税法案を閣議決定　会期末までの成立目指す,https://mainichi.jp/articles/20261009/k00/00m/010/184000c,2026-10-09T09:15:00Z,7
+NHK,https://news.web.nhk/newsweb/na/nd-20261009de57195,金融庁がプルデンシャル生命に一部業務停止命令,https://news.web.nhk/newsweb/na/nd-20261009de57195,2026-10-09T09:15:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVB91R7SVB9ULFA00VM.html?ref=rss,金融庁、プルデンシャル・ジブラルタ生命に約3カ月間の業務停止命令,http://www.asahi.com/articles/ASVB91R7SVB9ULFA00VM.html?ref=rss,2026-10-09T09:15:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVB913P3VB9TIPE003M.html?ref=rss,3歳男児死亡の飲酒運転、68歳の運転手を起訴　危険運転致死傷の罪,http://www.asahi.com/articles/ASVB913P3VB9TIPE003M.html?ref=rss,2026-10-09T09:15:00Z,9
+毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/040/229000c,3歳男児死亡飲酒事故　容疑者を危険運転致死傷罪で起訴　福岡,https://mainichi.jp/articles/20261009/k00/00m/040/229000c,2026-10-09T09:15:00Z,9
+NHK,https://news.web.nhk/newsweb/na/nd-20261008de56895,紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん,https://news.web.nhk/newsweb/na/nd-20261008de56895,2026-10-08T22:12:00Z,10
+朝日新聞,http://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss,NHK紅白歌合戦司会に芦田愛菜さん、堺雅人さん、二宮和也さん,http://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss,2026-10-09T02:17:00Z,10
+毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/200/063000c,紅白司会に芦田愛菜さん、堺雅人さんを初起用　二宮和也さんも,https://mainichi.jp/articles/20261009/k00/00m/200/063000c,2026-10-09T02:17:00Z,10
+朝日新聞,http://www.asahi.com/articles/ASVB83J3KVB8UHBI01YM.html?ref=rss,ロシア、ICC赤根所長らの身柄引き渡し要求　オランダなど複数国に,http://www.asahi.com/articles/ASVB83J3KVB8UHBI01YM.html?ref=rss,2026-10-08T16:37:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20261009de56946,ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請,https://news.web.nhk/newsweb/na/nd-20261009de56946,2026-10-09T02:17:00Z,11
+朝日新聞,http://www.asahi.com/articles/ASVB810NVVB8OIPE002M.html?ref=rss,愛知県副議長の成田氏辞任へ　アジア大会に「強行入場」と週刊誌報道,http://www.asahi.com/articles/ASVB810NVVB8OIPE002M.html?ref=rss,2026-10-08T09:09:00Z,12
+毎日新聞,https://mainichi.jp/articles/20261009/k00/00m/310/032000c,愛知県議会・成田副議長が辞任へ　アジア大会の会場で無許可駐車,https://mainichi.jp/articles/20261009/k00/00m/310/032000c,2026-10-09T02:17:00Z,12
+NHK,https://news.web.nhk/newsweb/na/nd-20261007de55972,ノーベル文学賞にアン・カーソン氏 カナダの詩人,https://news.web.nhk/newsweb/na/nd-20261007de55972,2026-10-08T16:37:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/200/292000c,アン・カーソン氏にノーベル文学賞　「現代文学に新たな形式」,https://mainichi.jp/articles/20261008/k00/00m/200/292000c,2026-10-08T16:37:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/200/315000c,「大胆で独創的な作品」評価　アン・カーソン氏にノーベル文学賞,https://mainichi.jp/articles/20261008/k00/00m/200/315000c,2026-10-08T16:37:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/200/322000c,アン・カーソン作品　「言語芸術の可能性開く」　ノーベル文学賞,https://mainichi.jp/articles/20261008/k00/00m/200/322000c,2026-10-08T16:37:00Z,13
+NHK,https://news.web.nhk/newsweb/na/nd-20261008de56508,阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来,https://news.web.nhk/newsweb/na/nd-20261008de56508,2026-10-08T16:37:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASVB8363DVB8PTQP00QM.html?ref=rss,阪神・佐藤輝明が三冠王　史上9人目、阪神では86年のバース以来,http://www.asahi.com/articles/ASVB8363DVB8PTQP00QM.html?ref=rss,2026-10-08T16:37:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/050/318000c,阪神・佐藤輝明がセ3冠王　球団ではバース以来40年ぶりの快挙,https://mainichi.jp/articles/20261008/k00/00m/050/318000c,2026-10-08T16:37:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/050/352000c,「バースの再来」は西宮出身だった　阪神・佐藤輝明が3冠王,https://mainichi.jp/articles/20261008/k00/00m/050/352000c,2026-10-08T16:37:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASVB83JPYVB8ULFA02CM.html?ref=rss,中小農家らに売上高5%程度の給付金　政府調整、消費減税めぐり支援,http://www.asahi.com/articles/ASVB83JPYVB8ULFA02CM.html?ref=rss,2026-10-08T16:37:00Z,15
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/020/346000c,消費減税で収入減の農家に給付金検討　政府、売上高の5％程度,https://mainichi.jp/articles/20261008/k00/00m/020/346000c,2026-10-08T16:37:00Z,15
+朝日新聞,http://www.asahi.com/articles/ASVB802JLVB8UTQP004M.html?ref=rss,工藤公康氏が中日の新監督に　ソフトバンクを5度日本一に導いた名将,http://www.asahi.com/articles/ASVB802JLVB8UTQP004M.html?ref=rss,2026-10-08T02:04:00Z,16
+NHK,https://news.web.nhk/newsweb/na/nd-20261008de56275,プロ野球 中日の新監督に工藤公康氏 就任へ,https://news.web.nhk/newsweb/na/nd-20261008de56275,2026-10-08T09:09:00Z,16
+NHK,https://news.web.nhk/newsweb/na/nd-20261008de56547,神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し,https://news.web.nhk/newsweb/na/nd-20261008de56547,2026-10-08T09:09:00Z,17
+朝日新聞,http://www.asahi.com/articles/ASVB825C6VB8ULOB00BM.html?ref=rss,神奈川県警の警察官が失効免許証を無断で持ち出し　捜査に不正利用か,http://www.asahi.com/articles/ASVB825C6VB8ULOB00BM.html?ref=rss,2026-10-08T09:09:00Z,17
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/040/151000c,神奈川県警巡査長、免許証を不正持ち出し　数十枚を飲酒後に紛失,https://mainichi.jp/articles/20261008/k00/00m/040/151000c,2026-10-08T09:09:00Z,17
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/020/041000c,阪神連覇も「財布のひも」は固め?　経済効果1051億円試算,https://mainichi.jp/articles/20261008/k00/00m/020/041000c,2026-10-08T02:04:00Z,18
+朝日新聞,http://www.asahi.com/articles/ASVB73Q17VB7PLFA001M.html?ref=rss,阪神リーグ優勝、経済効果1051億円　「次は3連覇」早くも期待,http://www.asahi.com/articles/ASVB73Q17VB7PLFA001M.html?ref=rss,2026-10-08T09:09:00Z,18
+朝日新聞,http://www.asahi.com/articles/ASVB82D0WVB8UTIL006M.html?ref=rss,首都圏闇バイト強盗の「指示役」　北海道の事件にも関与疑いで再逮捕,http://www.asahi.com/articles/ASVB82D0WVB8UTIL006M.html?ref=rss,2026-10-08T09:09:00Z,19
+毎日新聞,https://mainichi.jp/articles/20261008/k00/00m/310/163000c,首都圏連続強盗の指示役2人を再逮捕　札幌の事件にも関与疑い,https://mainichi.jp/articles/20261008/k00/00m/310/163000c,2026-10-08T09:09:00Z,19
+NHK,https://news.web.nhk/newsweb/na/nd-20261008de56277,ドジャース 3年連続でリーグ優勝決定シリーズ進出,https://news.web.nhk/newsweb/na/nd-20261008de56277,2026-10-08T02:04:00Z,20
+朝日新聞,http://www.asahi.com/articles/ASVB776VLVB7UTQP002M.html?ref=rss,ドジャースがリーグ優勝決定Sへ　大谷は足で貢献「祝杯は何回でも」,http://www.asahi.com/articles/ASVB776VLVB7UTQP002M.html?ref=rss,2026-10-08T02:04:00Z,20
