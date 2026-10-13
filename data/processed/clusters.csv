@@ -1,33 +1,37 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261011de57828,トランプ大統領「ウクライナは新たな大統領を迎える時」と発言,https://news.web.nhk/newsweb/na/nd-20261011de57828,2026-10-11T01:59:00Z,1
 NHK,https://news.web.nhk/newsweb/na/nd-20261012de58065,トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿,https://news.web.nhk/newsweb/na/nd-20261012de58065,2026-10-11T23:46:00Z,1
 朝日新聞,http://www.asahi.com/articles/ASVBC7R95VBCUHBI004M.html?ref=rss,トランプ氏「ロ・ウがエネルギー停戦」主張　ゼレンスキー氏「初耳」,http://www.asahi.com/articles/ASVBC7R95VBCUHBI004M.html?ref=rss,2026-10-11T23:46:00Z,1
 毎日新聞,https://mainichi.jp/articles/20261012/k00/00m/030/010000c,トランプ氏、エネルギー停戦「合意」と主張　ウクライナ「初耳」,https://mainichi.jp/articles/20261012/k00/00m/030/010000c,2026-10-11T23:46:00Z,1
 NHK,https://news.web.nhk/newsweb/na/nd-20261013de58308,"ゼレンスキー氏""エネルギー停戦""発表後もロシアは攻撃と非難　",https://news.web.nhk/newsweb/na/nd-20261013de58308,2026-10-12T23:04:00Z,1
 毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/030/003000c,ロシア、トランプ氏主張の「エネルギー施設攻撃停止合意」を否定,https://mainichi.jp/articles/20261013/k00/00m/030/003000c,2026-10-12T23:04:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss,九州新幹線が全線運転見合わせ　パンタグラフの異常で安全確認,http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss,2026-10-12T15:43:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58310,九州新幹線 架線確認のため始発から全線で運転見合わせ,https://news.web.nhk/newsweb/na/nd-20261013de58310,2026-10-12T23:04:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,ノーベル平和賞のピレイ氏がICCを訪問　職員を激励「勇気が力に」,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,2026-10-12T23:04:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,ノーベル平和賞受賞決定のピレイ氏がICC訪問　赤根所長と面会,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,2026-10-12T23:04:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261011de57945,CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝,https://news.web.nhk/newsweb/na/nd-20261011de57945,2026-10-11T09:02:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261011/k00/00m/050/156000c,勝負どころ逃さぬ戸柱　DeNAが巨人に連勝、CSファイナルへ,https://mainichi.jp/articles/20261011/k00/00m/050/156000c,2026-10-11T15:49:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20261012de58196,プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出,https://news.web.nhk/newsweb/na/nd-20261012de58196,2026-10-12T15:43:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20261012de58125,出雲全日本大学選抜駅伝 早稲田大が16年ぶり優勝,https://news.web.nhk/newsweb/na/nd-20261012de58125,2026-10-12T06:10:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASVBD2SMJVBDUTQP001M.html?ref=rss,早稲田大が16年ぶり3度目の優勝　出雲駅伝、国学院大は3連覇逃す,http://www.asahi.com/articles/ASVBD2SMJVBDUTQP001M.html?ref=rss,2026-10-12T15:43:00Z,5
-NHK,https://news.web.nhk/newsweb/na/nd-20261011de57868,両陛下 青森で国民スポーツ大会 観戦 青森ねぶた祭 施設なども,https://news.web.nhk/newsweb/na/nd-20261011de57868,2026-10-11T09:02:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVB92Q0RVB9UTIL00VM.html?ref=rss,愛子さまが青森で国民スポーツ大会を観戦　12日からの皇室の予定,http://www.asahi.com/articles/ASVB92Q0RVB9UTIL00VM.html?ref=rss,2026-10-12T06:10:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVBC14QYVBCUTQP00GM.html?ref=rss,大谷翔平の状態は？　ドジャースが「怪物」対策、リーグ優勝決定S,http://www.asahi.com/articles/ASVBC14QYVBCUTQP00GM.html?ref=rss,2026-10-11T09:02:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASVBC6J9NVBCUTQP00WM.html?ref=rss,大谷翔平は4番、「世界一」狙うドジャースのリーグ優勝決定Sが開幕,http://www.asahi.com/articles/ASVBC6J9NVBCUTQP00WM.html?ref=rss,2026-10-11T23:46:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20261011de58022,ドジャースは黒星スタート リーグ優勝決定シリーズ第1戦,https://news.web.nhk/newsweb/na/nd-20261011de58022,2026-10-12T06:10:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20261012de58117,栃木 那珂川町 工場火災 消火活動続く けが人なし,https://news.web.nhk/newsweb/na/nd-20261012de58117,2026-10-12T06:10:00Z,8
-朝日新聞,http://www.asahi.com/articles/ASVBD1CHJVBDUTIL006M.html?ref=rss,栃木・那珂川町、プラスチック製品の倉庫付近から火災　けが人なし,http://www.asahi.com/articles/ASVBD1CHJVBDUTIL006M.html?ref=rss,2026-10-12T06:10:00Z,8
-朝日新聞,http://www.asahi.com/articles/ASVBD020LVBDIIPE007M.html?ref=rss,遺体で見つかった兄のカードで現金引き出したか　妹を逮捕　北海道警,http://www.asahi.com/articles/ASVBD020LVBDIIPE007M.html?ref=rss,2026-10-12T06:10:00Z,9
-毎日新聞,https://mainichi.jp/articles/20261012/k00/00m/310/033000c,遺体発見の兄の現金引き出した疑い　妹を窃盗容疑で逮捕　北海道,https://mainichi.jp/articles/20261012/k00/00m/310/033000c,2026-10-12T06:10:00Z,9
-朝日新聞,http://www.asahi.com/articles/ASVBD12XTVBDTIPE001M.html?ref=rss,「かけ子して稼げ」海外に向け女性連行した疑い　山口組系組員ら逮捕,http://www.asahi.com/articles/ASVBD12XTVBDTIPE001M.html?ref=rss,2026-10-12T06:10:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261012/k00/00m/040/051000c,海外での「かけ子」目的で女性連行疑い　山口組系組員ら5人逮捕,https://mainichi.jp/articles/20261012/k00/00m/040/051000c,2026-10-12T06:10:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261011/k00/00m/030/027000c,サウジ首都空港で米国人ら12人死亡　トランプ氏、攻撃参加検討へ,https://mainichi.jp/articles/20261011/k00/00m/030/027000c,2026-10-11T01:59:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVBC01PYVBCUHBI008M.html?ref=rss,サウジの空港に攻撃、12人死亡　トランプ氏、反撃参加「検討する」,http://www.asahi.com/articles/ASVBC01PYVBCUHBI008M.html?ref=rss,2026-10-11T09:02:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVBC22MDVBCUTIL025M.html?ref=rss,佳子さまがガールズメッセ出席　「何かをよくする行動、大きな力に」,http://www.asahi.com/articles/ASVBC22MDVBCUTIL025M.html?ref=rss,2026-10-11T09:02:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261011/k00/00m/040/097000c,「より良い社会の実現に」　佳子さまがガールズメッセ式典に出席,https://mainichi.jp/articles/20261011/k00/00m/040/097000c,2026-10-11T09:02:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261006/k00/00m/010/088000c,新潟市長選告示　現職と新人2氏が立候補　まちづくりなど争点,https://mainichi.jp/articles/20261006/k00/00m/010/088000c,2026-10-11T01:59:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVBC2Q31VBCOXIE02WM.html?ref=rss,新潟市長選が告示、現新3人が立候補　人口減少下のまちづくりで論戦,http://www.asahi.com/articles/ASVBC2Q31VBCOXIE02WM.html?ref=rss,2026-10-11T09:02:00Z,13
+朝日新聞,http://www.asahi.com/articles/ASVBF0QLLVBFBQBQ21FM.html?ref=rss,トランプ氏、再び「エネルギー停戦」主張　「私が言ったから」,http://www.asahi.com/articles/ASVBF0QLLVBFBQBQ21FM.html?ref=rss,2026-10-13T03:38:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261012de58117,栃木 那珂川町 工場火災 消火活動続く けが人なし,https://news.web.nhk/newsweb/na/nd-20261012de58117,2026-10-12T06:10:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVBD1CHJVBDUTIL006M.html?ref=rss,栃木・那珂川町、プラスチック製品の倉庫付近から火災　けが人なし,http://www.asahi.com/articles/ASVBD1CHJVBDUTIL006M.html?ref=rss,2026-10-12T06:10:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58321,栃木県那珂川町の工場火災 24時間以上経過も鎮火せず,https://news.web.nhk/newsweb/na/nd-20261013de58321,2026-10-12T23:04:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVBF0V50VBFUQIP009M.html?ref=rss,栃木県那珂川町の工場火災が鎮圧　約30時間燃え続ける、けが人なし,http://www.asahi.com/articles/ASVBF0V50VBFUQIP009M.html?ref=rss,2026-10-13T03:38:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58295,片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相,https://news.web.nhk/newsweb/na/nd-20261013de58295,2026-10-12T23:04:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASVBF0J5RVBFULFA006M.html?ref=rss,片山財務相、世銀・IMF合同開発委員会の議長に　日本から初めて,http://www.asahi.com/articles/ASVBF0J5RVBFULFA006M.html?ref=rss,2026-10-13T03:38:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss,九州新幹線が全線運転見合わせ　パンタグラフの異常で安全確認,http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss,2026-10-12T15:43:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58310,九州新幹線 架線確認のため始発から全線で運転見合わせ,https://news.web.nhk/newsweb/na/nd-20261013de58310,2026-10-12T23:04:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/013000c,九州新幹線、架線点検で全線運転見合わせ　午後から再開見込み,https://mainichi.jp/articles/20261013/k00/00m/040/013000c,2026-10-13T03:38:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58366,関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝,https://news.web.nhk/newsweb/na/nd-20261013de58366,2026-10-13T03:38:00Z,5
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/010/038000c,関文科相「二度とやらない」　議員会館で政治資金パーティー開催,https://mainichi.jp/articles/20261013/k00/00m/010/038000c,2026-10-13T03:38:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,ノーベル平和賞のピレイ氏がICCを訪問　職員を激励「勇気が力に」,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,2026-10-12T23:04:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,ノーベル平和賞受賞決定のピレイ氏がICC訪問　赤根所長と面会,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,2026-10-12T23:04:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58445,ノーベル平和賞のピレイ氏がICC訪問 赤根所長らと面会,https://news.web.nhk/newsweb/na/nd-20261013de58445,2026-10-13T03:38:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261011de57945,CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝,https://news.web.nhk/newsweb/na/nd-20261011de57945,2026-10-11T09:02:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261011/k00/00m/050/156000c,勝負どころ逃さぬ戸柱　DeNAが巨人に連勝、CSファイナルへ,https://mainichi.jp/articles/20261011/k00/00m/050/156000c,2026-10-11T15:49:00Z,7
+NHK,https://news.web.nhk/newsweb/na/nd-20261012de58196,プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出,https://news.web.nhk/newsweb/na/nd-20261012de58196,2026-10-12T15:43:00Z,7
+NHK,https://news.web.nhk/newsweb/na/nd-20261012de58125,出雲全日本大学選抜駅伝 早稲田大が16年ぶり優勝,https://news.web.nhk/newsweb/na/nd-20261012de58125,2026-10-12T06:10:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVBD2SMJVBDUTQP001M.html?ref=rss,早稲田大が16年ぶり3度目の優勝　出雲駅伝、国学院大は3連覇逃す,http://www.asahi.com/articles/ASVBD2SMJVBDUTQP001M.html?ref=rss,2026-10-12T15:43:00Z,8
+NHK,https://news.web.nhk/newsweb/na/nd-20261011de57868,両陛下 青森で国民スポーツ大会 観戦 青森ねぶた祭 施設なども,https://news.web.nhk/newsweb/na/nd-20261011de57868,2026-10-11T09:02:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVB92Q0RVB9UTIL00VM.html?ref=rss,愛子さまが青森で国民スポーツ大会を観戦　12日からの皇室の予定,http://www.asahi.com/articles/ASVB92Q0RVB9UTIL00VM.html?ref=rss,2026-10-12T06:10:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVBC14QYVBCUTQP00GM.html?ref=rss,大谷翔平の状態は？　ドジャースが「怪物」対策、リーグ優勝決定S,http://www.asahi.com/articles/ASVBC14QYVBCUTQP00GM.html?ref=rss,2026-10-11T09:02:00Z,10
+朝日新聞,http://www.asahi.com/articles/ASVBC6J9NVBCUTQP00WM.html?ref=rss,大谷翔平は4番、「世界一」狙うドジャースのリーグ優勝決定Sが開幕,http://www.asahi.com/articles/ASVBC6J9NVBCUTQP00WM.html?ref=rss,2026-10-11T23:46:00Z,10
+NHK,https://news.web.nhk/newsweb/na/nd-20261011de58022,ドジャースは黒星スタート リーグ優勝決定シリーズ第1戦,https://news.web.nhk/newsweb/na/nd-20261011de58022,2026-10-12T06:10:00Z,10
+朝日新聞,http://www.asahi.com/articles/ASVBD020LVBDIIPE007M.html?ref=rss,遺体で見つかった兄のカードで現金引き出したか　妹を逮捕　北海道警,http://www.asahi.com/articles/ASVBD020LVBDIIPE007M.html?ref=rss,2026-10-12T06:10:00Z,11
+毎日新聞,https://mainichi.jp/articles/20261012/k00/00m/310/033000c,遺体発見の兄の現金引き出した疑い　妹を窃盗容疑で逮捕　北海道,https://mainichi.jp/articles/20261012/k00/00m/310/033000c,2026-10-12T06:10:00Z,11
+朝日新聞,http://www.asahi.com/articles/ASVBD12XTVBDTIPE001M.html?ref=rss,「かけ子して稼げ」海外に向け女性連行した疑い　山口組系組員ら逮捕,http://www.asahi.com/articles/ASVBD12XTVBDTIPE001M.html?ref=rss,2026-10-12T06:10:00Z,12
+毎日新聞,https://mainichi.jp/articles/20261012/k00/00m/040/051000c,海外での「かけ子」目的で女性連行疑い　山口組系組員ら5人逮捕,https://mainichi.jp/articles/20261012/k00/00m/040/051000c,2026-10-12T06:10:00Z,12
+朝日新聞,http://www.asahi.com/articles/ASVBC22MDVBCUTIL025M.html?ref=rss,佳子さまがガールズメッセ出席　「何かをよくする行動、大きな力に」,http://www.asahi.com/articles/ASVBC22MDVBCUTIL025M.html?ref=rss,2026-10-11T09:02:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261011/k00/00m/040/097000c,「より良い社会の実現に」　佳子さまがガールズメッセ式典に出席,https://mainichi.jp/articles/20261011/k00/00m/040/097000c,2026-10-11T09:02:00Z,13
