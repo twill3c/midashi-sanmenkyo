@@ -1,54 +1,56 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58917,ロシアが北海道新聞記者をスパイ容疑で拘束 国営タス通信,https://news.web.nhk/newsweb/na/nd-20261013de58917,2026-10-13T19:22:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVBF55LRVBFUHBI031M.html?ref=rss,ロシア、邦人記者をスパイの疑いで拘束　北海道新聞の特派員,http://www.asahi.com/articles/ASVBF55LRVBFUHBI031M.html?ref=rss,2026-10-13T19:22:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/001000c,ロシア当局、北海道新聞サハリン特派員を「スパイ容疑」で拘束,https://mainichi.jp/articles/20261014/k00/00m/030/001000c,2026-10-13T19:22:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/004000c,ロシア「防衛能力情報を収集」と主張　北海道新聞の特派員拘束,https://mainichi.jp/articles/20261014/k00/00m/030/004000c,2026-10-14T02:00:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/291000c,露当局、北海道新聞特派員を「スパイ容疑」で拘束　対日圧力の姿勢,https://mainichi.jp/articles/20261014/k00/00m/030/291000c,2026-10-14T13:50:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/010000c,サウジ国営石油会社の本社付近で爆発音　フーシ派攻撃か,https://mainichi.jp/articles/20261014/k00/00m/030/010000c,2026-10-14T02:00:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261014de59083,サウジアラビア国営石油会社に攻撃 フーシ派は攻撃継続主張,https://news.web.nhk/newsweb/na/nd-20261014de59083,2026-10-14T13:50:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,ノーベル平和賞のピレイ氏がICCを訪問　職員を激励「勇気が力に」,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,2026-10-12T23:04:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,ノーベル平和賞受賞決定のピレイ氏がICC訪問　赤根所長と面会,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,2026-10-12T23:04:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58445,ノーベル平和賞のピレイ氏がICC訪問 赤根所長らと面会,https://news.web.nhk/newsweb/na/nd-20261013de58445,2026-10-13T03:38:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261014de58934,ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」,https://news.web.nhk/newsweb/na/nd-20261014de58934,2026-10-13T23:20:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/069000c,＜QAで解説＞米がICC制裁、ノーベル平和賞ピレイ氏の反応は,https://mainichi.jp/articles/20261014/k00/00m/030/069000c,2026-10-14T07:47:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVBF3CCHVBFOXIE036M.html?ref=rss,停止義務ないのに「信号無視」?　警視庁が取り締まりミス63件,http://www.asahi.com/articles/ASVBF3CCHVBFOXIE036M.html?ref=rss,2026-10-13T23:20:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20261014de59211,誤った信号無視の取り締まり 警視庁が60件余繰り返す,https://news.web.nhk/newsweb/na/nd-20261014de59211,2026-10-14T07:47:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASVBG03WYVBGTOLB001M.html?ref=rss,グループホームで男性死亡、殺人未遂容疑の67歳「長年の恨み」福岡,http://www.asahi.com/articles/ASVBG03WYVBGTOLB001M.html?ref=rss,2026-10-14T02:00:00Z,5
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/310/135000c,殺人未遂容疑で男性逮捕　グループホーム入居者同士でトラブルか,https://mainichi.jp/articles/20261014/k00/00m/310/135000c,2026-10-14T07:47:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASVBG1D69VBGUTIL00JM.html?ref=rss,お笑いトリオ「我が家」杉山さん書類送検　セルフレジ通さず万引きか,http://www.asahi.com/articles/ASVBG1D69VBGUTIL00JM.html?ref=rss,2026-10-14T07:47:00Z,6
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/040/132000c,「収入少なく」　我が家・杉山さん、ウインナー万引きで書類送検,https://mainichi.jp/articles/20261014/k00/00m/040/132000c,2026-10-14T07:47:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVBG1QJTVBGUCLV006M.html?ref=rss,作家の黒井千次さん死去、94歳　「内向の世代」を代表,http://www.asahi.com/articles/ASVBG1QJTVBGUCLV006M.html?ref=rss,2026-10-14T07:47:00Z,7
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/200/129000c,「内向の世代」黒井千次さん死去　描き続けた「生」、文化功労者に,https://mainichi.jp/articles/20261014/k00/00m/200/129000c,2026-10-14T07:47:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58308,"ゼレンスキー氏""エネルギー停戦""発表後もロシアは攻撃と非難　",https://news.web.nhk/newsweb/na/nd-20261013de58308,2026-10-12T23:04:00Z,8
-毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/009000c,ゼレンスキー氏「エネルギー施設2日間攻撃せず」　米の発表後,https://mainichi.jp/articles/20261014/k00/00m/030/009000c,2026-10-14T02:00:00Z,8
-朝日新聞,http://www.asahi.com/articles/ASVBF34VZVBFUTIL02CM.html?ref=rss,「ボイスフィッシング」被害金3千万円を洗浄容疑　ベトナム人を逮捕,http://www.asahi.com/articles/ASVBF34VZVBFUTIL02CM.html?ref=rss,2026-10-13T11:55:00Z,9
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58876,「ボイスフィッシング」被害金洗浄か グループを摘発,https://news.web.nhk/newsweb/na/nd-20261013de58876,2026-10-14T02:00:00Z,9
-朝日新聞,http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss,九州新幹線が全線運転見合わせ　パンタグラフの異常で安全確認,http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss,2026-10-12T15:43:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58310,九州新幹線 架線確認のため始発から全線で運転見合わせ,https://news.web.nhk/newsweb/na/nd-20261013de58310,2026-10-12T23:04:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/013000c,九州新幹線、架線点検で全線運転見合わせ　午後から再開見込み,https://mainichi.jp/articles/20261013/k00/00m/040/013000c,2026-10-13T03:38:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/319000c,九州新幹線、14日は始発から全線で運転予定　2万2000人に影響,https://mainichi.jp/articles/20261013/k00/00m/040/319000c,2026-10-13T19:22:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20261014de58945,九州新幹線 14日は始発から通常運行,https://news.web.nhk/newsweb/na/nd-20261014de58945,2026-10-13T23:20:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20261014de58937,ホワイトハウスの新しい報道官 初会見はわずか15分で終了,https://news.web.nhk/newsweb/na/nd-20261014de58937,2026-10-13T23:20:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVBF7G8CVBFBQBQ233M.html?ref=rss,ホワイトハウス新報道官、初会見は15分足らず　質問は3社だけ,http://www.asahi.com/articles/ASVBF7G8CVBFBQBQ233M.html?ref=rss,2026-10-13T23:20:00Z,11
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58526,ジャパンモビリティショー開幕 EVへのワイヤレス給電など展示,https://news.web.nhk/newsweb/na/nd-20261013de58526,2026-10-13T11:55:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/020/316000c,ジャパンモビリティショー開催　自動運転やAI関連の展示目立つ,https://mainichi.jp/articles/20261013/k00/00m/020/316000c,2026-10-13T19:22:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58873,中国の企業関係者らが北方領土の択捉島を訪問,https://news.web.nhk/newsweb/na/nd-20261013de58873,2026-10-13T19:22:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVBF3R87VBFUHBI02MM.html?ref=rss,中国の訪問団が北方領土の択捉島を視察　ロシア、強まる対日強硬姿勢,http://www.asahi.com/articles/ASVBF3R87VBFUHBI02MM.html?ref=rss,2026-10-13T19:22:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58907,ベトナム語の運転免許試験の問題 画像が漏えいか 千葉県警,https://news.web.nhk/newsweb/na/nd-20261013de58907,2026-10-13T19:22:00Z,14
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/310/327000c,ベトナム語の運転免許試験問題が流出、試験中止に　千葉県警,https://mainichi.jp/articles/20261013/k00/00m/310/327000c,2026-10-13T19:22:00Z,14
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58690,“少女漫画界のパイオニア”わたなべまさこさん死去,https://news.web.nhk/newsweb/na/nd-20261013de58690,2026-10-13T11:55:00Z,15
-朝日新聞,http://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html?ref=rss,漫画家のわたなべまさこさん死去、97歳　「ガラスの城」などで人気,http://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html?ref=rss,2026-10-13T11:55:00Z,15
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58789,自治体の防災メール配信 不正アクセスでアドレスなど漏えいか,https://news.web.nhk/newsweb/na/nd-20261013de58789,2026-10-13T11:55:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/310/299000c,長崎と佐世保の防災メール配信サービス、運営会社に不正アクセス,https://mainichi.jp/articles/20261013/k00/00m/310/299000c,2026-10-13T11:55:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVBF2JSJVBFUCVL02QM.html?ref=rss,NHK前会長・日銀元理事の稲葉延雄さん死去、75歳　肺がん公表,http://www.asahi.com/articles/ASVBF2JSJVBFUCVL02QM.html?ref=rss,2026-10-13T11:55:00Z,17
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/200/305000c,「筋を通す事にこだわった人」　NHK前会長・稲葉延雄さん死去,https://mainichi.jp/articles/20261013/k00/00m/200/305000c,2026-10-13T11:55:00Z,17
-朝日新聞,http://www.asahi.com/articles/ASVBF3JJ0VBFUTIL00SM.html?ref=rss,東大総長選考、学内投票の扱いなど「説明を」　教職員有志が要望書,http://www.asahi.com/articles/ASVBF3JJ0VBFUTIL00SM.html?ref=rss,2026-10-13T11:55:00Z,18
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/301000c,東大学長選「逆転選出の理由説明を」　教職員有志が要望書提出,https://mainichi.jp/articles/20261013/k00/00m/040/301000c,2026-10-13T11:55:00Z,18
-朝日新聞,http://www.asahi.com/articles/ASVBF3RD3VBFPIHB01MM.html?ref=rss,神戸市室内管弦楽団への補助金、条件付き継続へ　市が運営財団に通知,http://www.asahi.com/articles/ASVBF3RD3VBFPIHB01MM.html?ref=rss,2026-10-13T11:55:00Z,19
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/282000c,神戸市室内管弦楽団が存続へ　市が一転、条件付きで補助金継続,https://mainichi.jp/articles/20261013/k00/00m/040/282000c,2026-10-13T11:55:00Z,19
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58295,片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相,https://news.web.nhk/newsweb/na/nd-20261013de58295,2026-10-12T23:04:00Z,20
-朝日新聞,http://www.asahi.com/articles/ASVBF0J5RVBFULFA006M.html?ref=rss,片山財務相、世銀・IMF合同開発委員会の議長に　日本から初めて,http://www.asahi.com/articles/ASVBF0J5RVBFULFA006M.html?ref=rss,2026-10-13T03:38:00Z,20
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58321,栃木県那珂川町の工場火災 24時間以上経過も鎮火せず,https://news.web.nhk/newsweb/na/nd-20261013de58321,2026-10-12T23:04:00Z,21
-朝日新聞,http://www.asahi.com/articles/ASVBF0V50VBFUQIP009M.html?ref=rss,栃木県那珂川町の工場火災が鎮圧　約30時間燃え続ける、けが人なし,http://www.asahi.com/articles/ASVBF0V50VBFUQIP009M.html?ref=rss,2026-10-13T03:38:00Z,21
-NHK,https://news.web.nhk/newsweb/na/nd-20261013de58366,関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝,https://news.web.nhk/newsweb/na/nd-20261013de58366,2026-10-13T03:38:00Z,22
-毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/010/038000c,関文科相「二度とやらない」　議員会館で政治資金パーティー開催,https://mainichi.jp/articles/20261013/k00/00m/010/038000c,2026-10-13T03:38:00Z,22
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/310/297000c,工事の入札予定価格漏らした疑い　静岡県土木事務所職員を逮捕,https://mainichi.jp/articles/20261014/k00/00m/310/297000c,2026-10-14T13:50:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBG4RBSVBGUTPB015M.html?ref=rss,静岡県発注工事で予定価格を業者に漏らした疑い、県職員ら3人逮捕,http://www.asahi.com/articles/ASVBG4RBSVBGUTPB015M.html?ref=rss,2026-10-14T18:43:00Z,1
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/310/325000c,静岡県、土木事務所職員逮捕で謝罪　入札予定価格漏らした疑い,https://mainichi.jp/articles/20261014/k00/00m/310/325000c,2026-10-14T18:43:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58917,ロシアが北海道新聞記者をスパイ容疑で拘束 国営タス通信,https://news.web.nhk/newsweb/na/nd-20261013de58917,2026-10-13T19:22:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVBF55LRVBFUHBI031M.html?ref=rss,ロシア、邦人記者をスパイの疑いで拘束　北海道新聞の特派員,http://www.asahi.com/articles/ASVBF55LRVBFUHBI031M.html?ref=rss,2026-10-13T19:22:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/001000c,ロシア当局、北海道新聞サハリン特派員を「スパイ容疑」で拘束,https://mainichi.jp/articles/20261014/k00/00m/030/001000c,2026-10-13T19:22:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/004000c,ロシア「防衛能力情報を収集」と主張　北海道新聞の特派員拘束,https://mainichi.jp/articles/20261014/k00/00m/030/004000c,2026-10-14T02:00:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/291000c,露当局、北海道新聞特派員を「スパイ容疑」で拘束　対日圧力の姿勢,https://mainichi.jp/articles/20261014/k00/00m/030/291000c,2026-10-14T13:50:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/010000c,サウジ国営石油会社の本社付近で爆発音　フーシ派攻撃か,https://mainichi.jp/articles/20261014/k00/00m/030/010000c,2026-10-14T02:00:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261014de59083,サウジアラビア国営石油会社に攻撃 フーシ派は攻撃継続主張,https://news.web.nhk/newsweb/na/nd-20261014de59083,2026-10-14T13:50:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,ノーベル平和賞のピレイ氏がICCを訪問　職員を激励「勇気が力に」,http://www.asahi.com/articles/ASVBD628SVBDUHBI00YM.html?ref=rss,2026-10-12T23:04:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,ノーベル平和賞受賞決定のピレイ氏がICC訪問　赤根所長と面会,https://mainichi.jp/articles/20261013/k00/00m/030/005000c,2026-10-12T23:04:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58445,ノーベル平和賞のピレイ氏がICC訪問 赤根所長らと面会,https://news.web.nhk/newsweb/na/nd-20261013de58445,2026-10-13T03:38:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20261014de58934,ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」,https://news.web.nhk/newsweb/na/nd-20261014de58934,2026-10-13T23:20:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/069000c,＜QAで解説＞米がICC制裁、ノーベル平和賞ピレイ氏の反応は,https://mainichi.jp/articles/20261014/k00/00m/030/069000c,2026-10-14T07:47:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVBF3CCHVBFOXIE036M.html?ref=rss,停止義務ないのに「信号無視」?　警視庁が取り締まりミス63件,http://www.asahi.com/articles/ASVBF3CCHVBFOXIE036M.html?ref=rss,2026-10-13T23:20:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20261014de59211,誤った信号無視の取り締まり 警視庁が60件余繰り返す,https://news.web.nhk/newsweb/na/nd-20261014de59211,2026-10-14T07:47:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASVBG03WYVBGTOLB001M.html?ref=rss,グループホームで男性死亡、殺人未遂容疑の67歳「長年の恨み」福岡,http://www.asahi.com/articles/ASVBG03WYVBGTOLB001M.html?ref=rss,2026-10-14T02:00:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/310/135000c,殺人未遂容疑で男性逮捕　グループホーム入居者同士でトラブルか,https://mainichi.jp/articles/20261014/k00/00m/310/135000c,2026-10-14T07:47:00Z,6
+朝日新聞,http://www.asahi.com/articles/ASVBG1D69VBGUTIL00JM.html?ref=rss,お笑いトリオ「我が家」杉山さん書類送検　セルフレジ通さず万引きか,http://www.asahi.com/articles/ASVBG1D69VBGUTIL00JM.html?ref=rss,2026-10-14T07:47:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/040/132000c,「収入少なく」　我が家・杉山さん、ウインナー万引きで書類送検,https://mainichi.jp/articles/20261014/k00/00m/040/132000c,2026-10-14T07:47:00Z,7
+朝日新聞,http://www.asahi.com/articles/ASVBG1QJTVBGUCLV006M.html?ref=rss,作家の黒井千次さん死去、94歳　「内向の世代」を代表,http://www.asahi.com/articles/ASVBG1QJTVBGUCLV006M.html?ref=rss,2026-10-14T07:47:00Z,8
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/200/129000c,「内向の世代」黒井千次さん死去　描き続けた「生」、文化功労者に,https://mainichi.jp/articles/20261014/k00/00m/200/129000c,2026-10-14T07:47:00Z,8
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58308,"ゼレンスキー氏""エネルギー停戦""発表後もロシアは攻撃と非難　",https://news.web.nhk/newsweb/na/nd-20261013de58308,2026-10-12T23:04:00Z,9
+毎日新聞,https://mainichi.jp/articles/20261014/k00/00m/030/009000c,ゼレンスキー氏「エネルギー施設2日間攻撃せず」　米の発表後,https://mainichi.jp/articles/20261014/k00/00m/030/009000c,2026-10-14T02:00:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVBF34VZVBFUTIL02CM.html?ref=rss,「ボイスフィッシング」被害金3千万円を洗浄容疑　ベトナム人を逮捕,http://www.asahi.com/articles/ASVBF34VZVBFUTIL02CM.html?ref=rss,2026-10-13T11:55:00Z,10
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58876,「ボイスフィッシング」被害金洗浄か グループを摘発,https://news.web.nhk/newsweb/na/nd-20261013de58876,2026-10-14T02:00:00Z,10
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58310,九州新幹線 架線確認のため始発から全線で運転見合わせ,https://news.web.nhk/newsweb/na/nd-20261013de58310,2026-10-12T23:04:00Z,11
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/013000c,九州新幹線、架線点検で全線運転見合わせ　午後から再開見込み,https://mainichi.jp/articles/20261013/k00/00m/040/013000c,2026-10-13T03:38:00Z,11
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/319000c,九州新幹線、14日は始発から全線で運転予定　2万2000人に影響,https://mainichi.jp/articles/20261013/k00/00m/040/319000c,2026-10-13T19:22:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20261014de58945,九州新幹線 14日は始発から通常運行,https://news.web.nhk/newsweb/na/nd-20261014de58945,2026-10-13T23:20:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20261014de58937,ホワイトハウスの新しい報道官 初会見はわずか15分で終了,https://news.web.nhk/newsweb/na/nd-20261014de58937,2026-10-13T23:20:00Z,12
+朝日新聞,http://www.asahi.com/articles/ASVBF7G8CVBFBQBQ233M.html?ref=rss,ホワイトハウス新報道官、初会見は15分足らず　質問は3社だけ,http://www.asahi.com/articles/ASVBF7G8CVBFBQBQ233M.html?ref=rss,2026-10-13T23:20:00Z,12
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58526,ジャパンモビリティショー開幕 EVへのワイヤレス給電など展示,https://news.web.nhk/newsweb/na/nd-20261013de58526,2026-10-13T11:55:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/020/316000c,ジャパンモビリティショー開催　自動運転やAI関連の展示目立つ,https://mainichi.jp/articles/20261013/k00/00m/020/316000c,2026-10-13T19:22:00Z,13
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58873,中国の企業関係者らが北方領土の択捉島を訪問,https://news.web.nhk/newsweb/na/nd-20261013de58873,2026-10-13T19:22:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASVBF3R87VBFUHBI02MM.html?ref=rss,中国の訪問団が北方領土の択捉島を視察　ロシア、強まる対日強硬姿勢,http://www.asahi.com/articles/ASVBF3R87VBFUHBI02MM.html?ref=rss,2026-10-13T19:22:00Z,14
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58907,ベトナム語の運転免許試験の問題 画像が漏えいか 千葉県警,https://news.web.nhk/newsweb/na/nd-20261013de58907,2026-10-13T19:22:00Z,15
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/310/327000c,ベトナム語の運転免許試験問題が流出、試験中止に　千葉県警,https://mainichi.jp/articles/20261013/k00/00m/310/327000c,2026-10-13T19:22:00Z,15
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58690,“少女漫画界のパイオニア”わたなべまさこさん死去,https://news.web.nhk/newsweb/na/nd-20261013de58690,2026-10-13T11:55:00Z,16
+朝日新聞,http://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html?ref=rss,漫画家のわたなべまさこさん死去、97歳　「ガラスの城」などで人気,http://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html?ref=rss,2026-10-13T11:55:00Z,16
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58789,自治体の防災メール配信 不正アクセスでアドレスなど漏えいか,https://news.web.nhk/newsweb/na/nd-20261013de58789,2026-10-13T11:55:00Z,17
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/310/299000c,長崎と佐世保の防災メール配信サービス、運営会社に不正アクセス,https://mainichi.jp/articles/20261013/k00/00m/310/299000c,2026-10-13T11:55:00Z,17
+朝日新聞,http://www.asahi.com/articles/ASVBF2JSJVBFUCVL02QM.html?ref=rss,NHK前会長・日銀元理事の稲葉延雄さん死去、75歳　肺がん公表,http://www.asahi.com/articles/ASVBF2JSJVBFUCVL02QM.html?ref=rss,2026-10-13T11:55:00Z,18
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/200/305000c,「筋を通す事にこだわった人」　NHK前会長・稲葉延雄さん死去,https://mainichi.jp/articles/20261013/k00/00m/200/305000c,2026-10-13T11:55:00Z,18
+朝日新聞,http://www.asahi.com/articles/ASVBF3JJ0VBFUTIL00SM.html?ref=rss,東大総長選考、学内投票の扱いなど「説明を」　教職員有志が要望書,http://www.asahi.com/articles/ASVBF3JJ0VBFUTIL00SM.html?ref=rss,2026-10-13T11:55:00Z,19
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/301000c,東大学長選「逆転選出の理由説明を」　教職員有志が要望書提出,https://mainichi.jp/articles/20261013/k00/00m/040/301000c,2026-10-13T11:55:00Z,19
+朝日新聞,http://www.asahi.com/articles/ASVBF3RD3VBFPIHB01MM.html?ref=rss,神戸市室内管弦楽団への補助金、条件付き継続へ　市が運営財団に通知,http://www.asahi.com/articles/ASVBF3RD3VBFPIHB01MM.html?ref=rss,2026-10-13T11:55:00Z,20
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/040/282000c,神戸市室内管弦楽団が存続へ　市が一転、条件付きで補助金継続,https://mainichi.jp/articles/20261013/k00/00m/040/282000c,2026-10-13T11:55:00Z,20
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58295,片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相,https://news.web.nhk/newsweb/na/nd-20261013de58295,2026-10-12T23:04:00Z,21
+朝日新聞,http://www.asahi.com/articles/ASVBF0J5RVBFULFA006M.html?ref=rss,片山財務相、世銀・IMF合同開発委員会の議長に　日本から初めて,http://www.asahi.com/articles/ASVBF0J5RVBFULFA006M.html?ref=rss,2026-10-13T03:38:00Z,21
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58321,栃木県那珂川町の工場火災 24時間以上経過も鎮火せず,https://news.web.nhk/newsweb/na/nd-20261013de58321,2026-10-12T23:04:00Z,22
+朝日新聞,http://www.asahi.com/articles/ASVBF0V50VBFUQIP009M.html?ref=rss,栃木県那珂川町の工場火災が鎮圧　約30時間燃え続ける、けが人なし,http://www.asahi.com/articles/ASVBF0V50VBFUQIP009M.html?ref=rss,2026-10-13T03:38:00Z,22
+NHK,https://news.web.nhk/newsweb/na/nd-20261013de58366,関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝,https://news.web.nhk/newsweb/na/nd-20261013de58366,2026-10-13T03:38:00Z,23
+毎日新聞,https://mainichi.jp/articles/20261013/k00/00m/010/038000c,関文科相「二度とやらない」　議員会館で政治資金パーティー開催,https://mainichi.jp/articles/20261013/k00/00m/010/038000c,2026-10-13T03:38:00Z,23
