@@ -1,38 +1,35 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261021de62558,イーロン・マスク氏 スペースXとテスラの統合を特別委で議論,https://news.web.nhk/newsweb/na/nd-20261021de62558,2026-10-20T23:58:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/030/008000c,スペースXとテスラ経営統合を検討　マスク氏が委員会設置を表明,https://mainichi.jp/articles/20261021/k00/00m/030/008000c,2026-10-20T23:58:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVBN7XJBVBNUHBI009M.html?ref=rss,スペースXとテスラが統合協議、委員会設置　マスク氏「多くの利点」,http://www.asahi.com/articles/ASVBN7XJBVBNUHBI009M.html?ref=rss,2026-10-21T05:00:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVBN6QMTVBNUHBI03WM.html?ref=rss,日本とロシアの外務省局長が協議　北海道新聞記者の拘束も議論か,http://www.asahi.com/articles/ASVBN6QMTVBNUHBI03WM.html?ref=rss,2026-10-20T20:41:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261021de62531,外務省局長がロシア訪問 北海道新聞記者との面会実現申し入れ,https://news.web.nhk/newsweb/na/nd-20261021de62531,2026-10-20T23:58:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVBL2FZCVBLUTFL010M.html?ref=rss,火星衛星で世界初の試料採取へ　20日MMX打ち上げ、往復5年の旅,http://www.asahi.com/articles/ASVBL2FZCVBLUTFL010M.html?ref=rss,2026-10-19T15:43:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261019de61814,火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功,https://news.web.nhk/newsweb/na/nd-20261019de61814,2026-10-19T21:09:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/244000c,火星衛星探査機「MMX」打ち上げ成功　世界初の試料持ち帰りへ,https://mainichi.jp/articles/20261019/k00/00m/040/244000c,2026-10-19T21:09:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/040/302000c,「火星の月」の成り立ち、決着へ第一歩　探査機MMX打ち上げ成功,https://mainichi.jp/articles/20261020/k00/00m/040/302000c,2026-10-20T11:50:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261020de61968,新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁,https://news.web.nhk/newsweb/na/nd-20261020de61968,2026-10-20T06:07:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASVBM2S8QVBMONFB00CM.html?ref=rss,新名神6人死亡の事故、元トラック運転手に拘禁刑7年の判決　津地裁,http://www.asahi.com/articles/ASVBM2S8QVBMONFB00CM.html?ref=rss,2026-10-20T06:07:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/260000c,新名神6人死亡事故　元トラック運転手に拘禁刑7年の判決　津地裁,https://mainichi.jp/articles/20261019/k00/00m/040/260000c,2026-10-20T06:07:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/040/281000c,「最も重い部類」　新名神6人死亡事故、被告に拘禁刑7年の判決,https://mainichi.jp/articles/20261020/k00/00m/040/281000c,2026-10-20T11:50:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20261020de62437,ふるさとチョイス 445万件の個人情報流出を発表,https://news.web.nhk/newsweb/na/nd-20261020de62437,2026-10-20T11:50:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASVBN3HB5VBNULFA01XM.html?ref=rss,ふるさとチョイス、情報流出445万件　NECは委託先から漏洩,http://www.asahi.com/articles/ASVBN3HB5VBNULFA01XM.html?ref=rss,2026-10-20T11:50:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASVBM3FSLVBMULFA028M.html?ref=rss,ふるさとチョイス、サービス一時停止　Joshinにも不正アクセス,http://www.asahi.com/articles/ASVBM3FSLVBMULFA028M.html?ref=rss,2026-10-19T15:43:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html?ref=rss,阪急阪神、ニフティ、ふるさとチョイス【19日判明の不正アクセス】,http://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html?ref=rss,2026-10-19T15:43:00Z,6
-毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/310/249000c,斎場に不正アクセス　ふるさとチョイスも被害疑いでCF停止　足利,https://mainichi.jp/articles/20261020/k00/00m/310/249000c,2026-10-20T11:50:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVBN3HJNVBNUTFK019M.html?ref=rss,マレーシアに無人機に対処するシステムを供与へ　OSAで初適用,http://www.asahi.com/articles/ASVBN3HJNVBNUTFK019M.html?ref=rss,2026-10-20T11:50:00Z,7
-毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/010/284000c,マレーシア海軍にドローン対処システム供与　OSAでは初,https://mainichi.jp/articles/20261020/k00/00m/010/284000c,2026-10-20T11:50:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASVBN3STJVBNUTFK01FM.html?ref=rss,安保3文書改定、自民と維新が与党協議へ　11月中旬にも,http://www.asahi.com/articles/ASVBN3STJVBNUTFK01FM.html?ref=rss,2026-10-20T11:50:00Z,8
-毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/010/254000c,安保3文書改定の与党協議、11月開催へ　防衛費の増額など論点に,https://mainichi.jp/articles/20261020/k00/00m/010/254000c,2026-10-20T11:50:00Z,8
-朝日新聞,http://www.asahi.com/articles/ASVBM3G9XVBMULFA01HM.html?ref=rss,消費減税の財源「特例公債に頼らず」　予算委の発言めぐり首相が投稿,http://www.asahi.com/articles/ASVBM3G9XVBMULFA01HM.html?ref=rss,2026-10-19T15:43:00Z,9
-毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/010/268000c,高市首相、消費減税の財源は「赤字国債に頼らず」　従来方針強調,https://mainichi.jp/articles/20261019/k00/00m/010/268000c,2026-10-19T21:09:00Z,9
-NHK,https://news.web.nhk/newsweb/na/nd-20261019de61537,阪神 佐藤輝明 大リーグ挑戦へ 球団がポスティング移籍容認,https://news.web.nhk/newsweb/na/nd-20261019de61537,2026-10-19T07:55:00Z,10
-朝日新聞,http://www.asahi.com/articles/ASVBM0HMWVBMPTQP001M.html?ref=rss,阪神の佐藤輝明が大リーグ移籍へ　球団がポスティングを容認,http://www.asahi.com/articles/ASVBM0HMWVBMPTQP001M.html?ref=rss,2026-10-19T07:55:00Z,10
-朝日新聞,http://www.asahi.com/articles/ASVBM2TRQVBMPTQP00CM.html?ref=rss,佐藤輝明、メジャー移籍へ　球団がポスティングを容認した理由とは,http://www.asahi.com/articles/ASVBM2TRQVBMPTQP00CM.html?ref=rss,2026-10-19T15:43:00Z,10
-朝日新聞,http://www.asahi.com/articles/ASVBM0BKPVBMUQIP05QM.html?ref=rss,上皇后美智子さま、92歳に　上皇さまと散策、穏やかな日々過ごす,http://www.asahi.com/articles/ASVBM0BKPVBMUQIP05QM.html?ref=rss,2026-10-19T15:43:00Z,11
-毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/170000c,美智子さま92歳に　上皇さまと穏やかな暮らし、音楽家との交流も,https://mainichi.jp/articles/20261019/k00/00m/040/170000c,2026-10-19T15:43:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVBM34TVVBMONFB00KM.html?ref=rss,児童に花火あてやけど負わせた疑い、学童支援員の男逮捕　容疑を否認,http://www.asahi.com/articles/ASVBM34TVVBMONFB00KM.html?ref=rss,2026-10-19T15:43:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/310/220000c,小学生に花火でやけど負わせた疑い　学童職員を逮捕　三重・津,https://mainichi.jp/articles/20261019/k00/00m/310/220000c,2026-10-19T15:43:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20261019de61387,神奈川 藤沢 バスや乗用車などの事故で14人搬送 1人意識なし,https://news.web.nhk/newsweb/na/nd-20261019de61387,2026-10-19T07:55:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVBM0TRCVBMULOB00BM.html?ref=rss,バス絡む多重事故　14人搬送うち1人死亡　神奈川・藤沢の交差点,http://www.asahi.com/articles/ASVBM0TRCVBMULOB00BM.html?ref=rss,2026-10-19T07:55:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20261019de61556,関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意,https://news.web.nhk/newsweb/na/nd-20261019de61556,2026-10-19T07:55:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASVBM20NYVBMUTFK00RM.html?ref=rss,関文科相、議員会館パーティー問題で厳重注意「規定を読み直し猛省」,http://www.asahi.com/articles/ASVBM20NYVBMUTFK00RM.html?ref=rss,2026-10-19T07:55:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASVBM1HJSVBMUTIL02LM.html?ref=rss,天皇陛下、アジアパラ大会の卓球を観戦　「ラケットに様々な工夫」,http://www.asahi.com/articles/ASVBM1HJSVBMUTIL02LM.html?ref=rss,2026-10-19T07:55:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/086000c,天皇陛下がパラ卓球を観戦　選手たちに拍手　アジアパラ大会,https://mainichi.jp/articles/20261019/k00/00m/040/086000c,2026-10-19T07:55:00Z,15
+毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/050/102000c,アジアパラでも国歌取り違え　3件発生、名古屋市長が会見で陳謝,https://mainichi.jp/articles/20261021/k00/00m/050/102000c,2026-10-21T05:00:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBP21LCVBPOIPE006M.html?ref=rss,アジアパラでも国歌取り違え3件　テコンドーなど表彰式と試合前に,http://www.asahi.com/articles/ASVBP21LCVBPOIPE006M.html?ref=rss,2026-10-21T10:18:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBP2RYTVBPULFA00CM.html?ref=rss,障害者雇用率未達の納付金、80～100人の企業にも　厚労省案,http://www.asahi.com/articles/ASVBP2RYTVBPULFA00CM.html?ref=rss,2026-10-21T10:18:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/100/299000c,障害者雇用の納付金、従業員80～100人の企業に拡大検討　厚労省,https://mainichi.jp/articles/20261021/k00/00m/100/299000c,2026-10-21T10:18:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/030/032000c,クアッド首脳会合、11月マニラで開催へ　トランプ氏2期目で初,https://mainichi.jp/articles/20261021/k00/00m/030/032000c,2026-10-21T05:00:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASVBP2VXNVBPUHBI015M.html?ref=rss,クアッド首脳会合、11月に2年ぶり開催へ　米印の摩擦に改善の兆し,http://www.asahi.com/articles/ASVBP2VXNVBPUHBI015M.html?ref=rss,2026-10-21T10:18:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261021de62558,イーロン・マスク氏 スペースXとテスラの統合を特別委で議論,https://news.web.nhk/newsweb/na/nd-20261021de62558,2026-10-20T23:58:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/030/008000c,スペースXとテスラ経営統合を検討　マスク氏が委員会設置を表明,https://mainichi.jp/articles/20261021/k00/00m/030/008000c,2026-10-20T23:58:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVBN7XJBVBNUHBI009M.html?ref=rss,スペースXとテスラが統合協議、委員会設置　マスク氏「多くの利点」,http://www.asahi.com/articles/ASVBN7XJBVBNUHBI009M.html?ref=rss,2026-10-21T05:00:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVBN6QMTVBNUHBI03WM.html?ref=rss,日本とロシアの外務省局長が協議　北海道新聞記者の拘束も議論か,http://www.asahi.com/articles/ASVBN6QMTVBNUHBI03WM.html?ref=rss,2026-10-20T20:41:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20261021de62531,外務省局長がロシア訪問 北海道新聞記者との面会実現申し入れ,https://news.web.nhk/newsweb/na/nd-20261021de62531,2026-10-20T23:58:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASVBL2FZCVBLUTFL010M.html?ref=rss,火星衛星で世界初の試料採取へ　20日MMX打ち上げ、往復5年の旅,http://www.asahi.com/articles/ASVBL2FZCVBLUTFL010M.html?ref=rss,2026-10-19T15:43:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261019de61814,火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功,https://news.web.nhk/newsweb/na/nd-20261019de61814,2026-10-19T21:09:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/244000c,火星衛星探査機「MMX」打ち上げ成功　世界初の試料持ち帰りへ,https://mainichi.jp/articles/20261019/k00/00m/040/244000c,2026-10-19T21:09:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/040/302000c,「火星の月」の成り立ち、決着へ第一歩　探査機MMX打ち上げ成功,https://mainichi.jp/articles/20261020/k00/00m/040/302000c,2026-10-20T11:50:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261020de61968,新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁,https://news.web.nhk/newsweb/na/nd-20261020de61968,2026-10-20T06:07:00Z,7
+朝日新聞,http://www.asahi.com/articles/ASVBM2S8QVBMONFB00CM.html?ref=rss,新名神6人死亡の事故、元トラック運転手に拘禁刑7年の判決　津地裁,http://www.asahi.com/articles/ASVBM2S8QVBMONFB00CM.html?ref=rss,2026-10-20T06:07:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/260000c,新名神6人死亡事故　元トラック運転手に拘禁刑7年の判決　津地裁,https://mainichi.jp/articles/20261019/k00/00m/040/260000c,2026-10-20T06:07:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/040/281000c,「最も重い部類」　新名神6人死亡事故、被告に拘禁刑7年の判決,https://mainichi.jp/articles/20261020/k00/00m/040/281000c,2026-10-20T11:50:00Z,7
+NHK,https://news.web.nhk/newsweb/na/nd-20261020de62437,ふるさとチョイス 445万件の個人情報流出を発表,https://news.web.nhk/newsweb/na/nd-20261020de62437,2026-10-20T11:50:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVBN3HB5VBNULFA01XM.html?ref=rss,ふるさとチョイス、情報流出445万件　NECは委託先から漏洩,http://www.asahi.com/articles/ASVBN3HB5VBNULFA01XM.html?ref=rss,2026-10-20T11:50:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVBM3FSLVBMULFA028M.html?ref=rss,ふるさとチョイス、サービス一時停止　Joshinにも不正アクセス,http://www.asahi.com/articles/ASVBM3FSLVBMULFA028M.html?ref=rss,2026-10-19T15:43:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html?ref=rss,阪急阪神、ニフティ、ふるさとチョイス【19日判明の不正アクセス】,http://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html?ref=rss,2026-10-19T15:43:00Z,9
+毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/310/249000c,斎場に不正アクセス　ふるさとチョイスも被害疑いでCF停止　足利,https://mainichi.jp/articles/20261020/k00/00m/310/249000c,2026-10-20T11:50:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVBN3HJNVBNUTFK019M.html?ref=rss,マレーシアに無人機に対処するシステムを供与へ　OSAで初適用,http://www.asahi.com/articles/ASVBN3HJNVBNUTFK019M.html?ref=rss,2026-10-20T11:50:00Z,10
+毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/010/284000c,マレーシア海軍にドローン対処システム供与　OSAでは初,https://mainichi.jp/articles/20261020/k00/00m/010/284000c,2026-10-20T11:50:00Z,10
+朝日新聞,http://www.asahi.com/articles/ASVBN3STJVBNUTFK01FM.html?ref=rss,安保3文書改定、自民と維新が与党協議へ　11月中旬にも,http://www.asahi.com/articles/ASVBN3STJVBNUTFK01FM.html?ref=rss,2026-10-20T11:50:00Z,11
+毎日新聞,https://mainichi.jp/articles/20261020/k00/00m/010/254000c,安保3文書改定の与党協議、11月開催へ　防衛費の増額など論点に,https://mainichi.jp/articles/20261020/k00/00m/010/254000c,2026-10-20T11:50:00Z,11
+朝日新聞,http://www.asahi.com/articles/ASVBM3G9XVBMULFA01HM.html?ref=rss,消費減税の財源「特例公債に頼らず」　予算委の発言めぐり首相が投稿,http://www.asahi.com/articles/ASVBM3G9XVBMULFA01HM.html?ref=rss,2026-10-19T15:43:00Z,12
+毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/010/268000c,高市首相、消費減税の財源は「赤字国債に頼らず」　従来方針強調,https://mainichi.jp/articles/20261019/k00/00m/010/268000c,2026-10-19T21:09:00Z,12
+朝日新聞,http://www.asahi.com/articles/ASVBM0BKPVBMUQIP05QM.html?ref=rss,上皇后美智子さま、92歳に　上皇さまと散策、穏やかな日々過ごす,http://www.asahi.com/articles/ASVBM0BKPVBMUQIP05QM.html?ref=rss,2026-10-19T15:43:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/040/170000c,美智子さま92歳に　上皇さまと穏やかな暮らし、音楽家との交流も,https://mainichi.jp/articles/20261019/k00/00m/040/170000c,2026-10-19T15:43:00Z,13
+朝日新聞,http://www.asahi.com/articles/ASVBM34TVVBMONFB00KM.html?ref=rss,児童に花火あてやけど負わせた疑い、学童支援員の男逮捕　容疑を否認,http://www.asahi.com/articles/ASVBM34TVVBMONFB00KM.html?ref=rss,2026-10-19T15:43:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261019/k00/00m/310/220000c,小学生に花火でやけど負わせた疑い　学童職員を逮捕　三重・津,https://mainichi.jp/articles/20261019/k00/00m/310/220000c,2026-10-19T15:43:00Z,14
