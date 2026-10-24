@@ -1,9 +1,11 @@
 outlet,guid,title,link,first_seen,cluster_id
-朝日新聞,http://www.asahi.com/articles/ASVBM11QCVBMBSDS001M.html?ref=rss,改正皇室典範、男系男子の養子可能　「家優先で時代錯誤」識者は危惧,http://www.asahi.com/articles/ASVBM11QCVBMBSDS001M.html?ref=rss,2026-10-23T01:38:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVBR20GBVBRUTIL00VM.html?ref=rss,改正皇室典範が施行、男系男子の養子可能に　女性・女系天皇は棚上げ,http://www.asahi.com/articles/ASVBR20GBVBRUTIL00VM.html?ref=rss,2026-10-23T18:29:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261023/k00/00m/040/128000c,改正皇室典範が施行　女性皇族の身分保持、男系男子の養子縁組,https://mainichi.jp/articles/20261023/k00/00m/040/128000c,2026-10-23T22:23:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/030/002000c,ウクライナ南部都市で部分停戦へ　人道支援目的、メラニア氏仲介,https://mainichi.jp/articles/20261024/k00/00m/030/002000c,2026-10-23T18:29:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVBR73NLVBRSFVU311M.html?ref=rss,ウクライナの都市で停戦、メラニア氏仲介　ロシアは米に恩売る思惑か,http://www.asahi.com/articles/ASVBR73NLVBRSFVU311M.html?ref=rss,2026-10-23T22:23:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVBR4V25VBRUHBI026M.html?ref=rss,ウクライナ南部で限定的停戦　米、トランプ氏妻が仲介と発表,http://www.asahi.com/articles/ASVBR4V25VBRUHBI026M.html?ref=rss,2026-10-23T18:29:00Z,1
+毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/030/002000c,ウクライナ南部都市で部分停戦へ　人道支援目的、メラニア氏仲介,https://mainichi.jp/articles/20261024/k00/00m/030/002000c,2026-10-23T18:29:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBR73NLVBRSFVU311M.html?ref=rss,ウクライナの都市で停戦、メラニア氏仲介　ロシアは米に恩売る思惑か,http://www.asahi.com/articles/ASVBR73NLVBRSFVU311M.html?ref=rss,2026-10-23T22:23:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261024de64657,メラニア夫人がウクライナ南部の都市で停戦を仲介と発表,https://news.web.nhk/newsweb/na/nd-20261024de64657,2026-10-24T00:50:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBM11QCVBMBSDS001M.html?ref=rss,改正皇室典範、男系男子の養子可能　「家優先で時代錯誤」識者は危惧,http://www.asahi.com/articles/ASVBM11QCVBMBSDS001M.html?ref=rss,2026-10-23T01:38:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVBR20GBVBRUTIL00VM.html?ref=rss,改正皇室典範が施行、男系男子の養子可能に　女性・女系天皇は棚上げ,http://www.asahi.com/articles/ASVBR20GBVBRUTIL00VM.html?ref=rss,2026-10-23T18:29:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261023/k00/00m/040/128000c,改正皇室典範が施行　女性皇族の身分保持、男系男子の養子縁組,https://mainichi.jp/articles/20261023/k00/00m/040/128000c,2026-10-23T22:23:00Z,2
 NHK,https://news.web.nhk/newsweb/na/nd-20261022de63461,プロ野球 ドラフト会議2026【速報予定16:50】各球団の指名は,https://news.web.nhk/newsweb/na/nd-20261022de63461,2026-10-22T07:48:00Z,3
 朝日新聞,http://www.asahi.com/articles/ASVBR3H0TVBRUEFT001M.html?ref=rss,プロ野球ドラフト会議2026通信簿　取材班キャップが12球団採点,http://www.asahi.com/articles/ASVBR3H0TVBRUEFT001M.html?ref=rss,2026-10-23T18:29:00Z,3
 NHK,https://news.web.nhk/newsweb/na/nd-20261023de64015,巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」,https://news.web.nhk/newsweb/na/nd-20261023de64015,2026-10-23T07:41:00Z,4
@@ -36,13 +38,9 @@ NHK,https://news.web.nhk/newsweb/na/nd-20261022de63890,ドラフト 巨人“史
 朝日新聞,http://www.asahi.com/articles/ASVBQ4R4CVBQUTQP03BM.html?ref=rss,巨人、ドラフト史上最年少の14歳を育成指名　「将来性を高く評価」,http://www.asahi.com/articles/ASVBQ4R4CVBQUTQP03BM.html?ref=rss,2026-10-22T18:38:00Z,14
 朝日新聞,http://www.asahi.com/articles/ASVBQ3RKLVBQUHBI028M.html?ref=rss,米制裁対象のICCにサハロフ賞　赤根所長「正義なくして平和なし」,http://www.asahi.com/articles/ASVBQ3RKLVBQUHBI028M.html?ref=rss,2026-10-22T18:38:00Z,15
 毎日新聞,https://mainichi.jp/articles/20261022/k00/00m/030/266000c,米制裁対象のICCに欧州議会がサハロフ賞　「正義守る活動評価」,https://mainichi.jp/articles/20261022/k00/00m/030/266000c,2026-10-22T18:38:00Z,15
-NHK,https://news.web.nhk/newsweb/na/nd-20261022de63265,ネパールのヒマラヤで登山中だった日本人2人が行方不明,https://news.web.nhk/newsweb/na/nd-20261022de63265,2026-10-21T22:30:00Z,16
-毎日新聞,https://mainichi.jp/articles/20261022/k00/00m/030/114000c,ヒマラヤ山脈で登山中の日本人男性2人行方不明　現地当局が捜索,https://mainichi.jp/articles/20261022/k00/00m/030/114000c,2026-10-22T07:48:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVBP3J83VBPTIPE00DM.html?ref=rss,議員からの「威圧的言動等」を3割が経験　北九州市職員アンケート,http://www.asahi.com/articles/ASVBP3J83VBPTIPE00DM.html?ref=rss,2026-10-21T22:30:00Z,17
-毎日新聞,https://mainichi.jp/articles/20261022/k00/00m/310/022000c,市議の威圧的言動3割経験　商品購入勧誘も　北九州市職員アンケ,https://mainichi.jp/articles/20261022/k00/00m/310/022000c,2026-10-22T07:48:00Z,17
-朝日新聞,http://www.asahi.com/articles/ASVBQ1CQ6VBQUTIL00RM.html?ref=rss,横浜・強盗致死事件で男逮捕、5人目の指示役か　2年前の首都圏強盗,http://www.asahi.com/articles/ASVBQ1CQ6VBQUTIL00RM.html?ref=rss,2026-10-22T07:48:00Z,18
-毎日新聞,https://mainichi.jp/articles/20261022/k00/00m/310/100000c,横浜の強盗致死事件、指示役の28歳男性を再逮捕　首都圏連続強盗,https://mainichi.jp/articles/20261022/k00/00m/310/100000c,2026-10-22T07:48:00Z,18
-朝日新聞,http://www.asahi.com/articles/ASVBP3RL3VBPUTIL00YM.html?ref=rss,「青切符」の反則金、キャッシュレス納付導入へ　全国で来年7月予定,http://www.asahi.com/articles/ASVBP3RL3VBPUTIL00YM.html?ref=rss,2026-10-22T01:37:00Z,19
-毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/040/340000c,交通反則の青切符、キャッシュレス支払い可能に　27年7月から,https://mainichi.jp/articles/20261021/k00/00m/040/340000c,2026-10-22T01:37:00Z,19
-朝日新聞,http://www.asahi.com/articles/ASVBP4FD3VBPUTIL00YM.html?ref=rss,免許証の顔写真「対象者」資料に流用　30年前から神奈川県警各署で,http://www.asahi.com/articles/ASVBP4FD3VBPUTIL00YM.html?ref=rss,2026-10-22T01:37:00Z,20
-毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/040/394000c,失効免許証を警備捜査に流用　神奈川県警で30年前から常態化か,https://mainichi.jp/articles/20261021/k00/00m/040/394000c,2026-10-22T01:37:00Z,20
+朝日新聞,http://www.asahi.com/articles/ASVBQ1CQ6VBQUTIL00RM.html?ref=rss,横浜・強盗致死事件で男逮捕、5人目の指示役か　2年前の首都圏強盗,http://www.asahi.com/articles/ASVBQ1CQ6VBQUTIL00RM.html?ref=rss,2026-10-22T07:48:00Z,16
+毎日新聞,https://mainichi.jp/articles/20261022/k00/00m/310/100000c,横浜の強盗致死事件、指示役の28歳男性を再逮捕　首都圏連続強盗,https://mainichi.jp/articles/20261022/k00/00m/310/100000c,2026-10-22T07:48:00Z,16
+朝日新聞,http://www.asahi.com/articles/ASVBP3RL3VBPUTIL00YM.html?ref=rss,「青切符」の反則金、キャッシュレス納付導入へ　全国で来年7月予定,http://www.asahi.com/articles/ASVBP3RL3VBPUTIL00YM.html?ref=rss,2026-10-22T01:37:00Z,17
+毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/040/340000c,交通反則の青切符、キャッシュレス支払い可能に　27年7月から,https://mainichi.jp/articles/20261021/k00/00m/040/340000c,2026-10-22T01:37:00Z,17
+朝日新聞,http://www.asahi.com/articles/ASVBP4FD3VBPUTIL00YM.html?ref=rss,免許証の顔写真「対象者」資料に流用　30年前から神奈川県警各署で,http://www.asahi.com/articles/ASVBP4FD3VBPUTIL00YM.html?ref=rss,2026-10-22T01:37:00Z,18
+毎日新聞,https://mainichi.jp/articles/20261021/k00/00m/040/394000c,失効免許証を警備捜査に流用　神奈川県警で30年前から常態化か,https://mainichi.jp/articles/20261021/k00/00m/040/394000c,2026-10-22T01:37:00Z,18
