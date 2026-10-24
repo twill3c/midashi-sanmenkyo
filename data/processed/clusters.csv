@@ -1,11 +1,13 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261024de64681,フィギュアスケート GPシリーズ第1戦 青木祐奈が首位発進,https://news.web.nhk/newsweb/na/nd-20261024de64681,2026-10-24T00:50:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/050/139000c,青木祐奈が考える「フィギュアスケートの魅力」シーズン前の思い,https://mainichi.jp/articles/20261024/k00/00m/050/139000c,2026-10-24T11:15:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20261024de64764,GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請,https://news.web.nhk/newsweb/na/nd-20261024de64764,2026-10-24T06:00:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html?ref=rss,GMO、政府へ能動的サイバー防御「要請」　不正アクセスで情報流出,http://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html?ref=rss,2026-10-24T06:00:00Z,2
-毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/020/176000c,GMO、能動的サイバー防御適用を政府に要請　不正アクセスで,https://mainichi.jp/articles/20261024/k00/00m/020/176000c,2026-10-24T11:15:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVBR351GVBRUTQP012M.html?ref=rss,日本シリーズはソフトバンクが優位　DeNAは接戦に持ち込めるか,http://www.asahi.com/articles/ASVBR351GVBRUTQP012M.html?ref=rss,2026-10-24T06:00:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261024de64830,【速報中】日本シリーズ DeNA×ソフトバンク 投手戦に,https://news.web.nhk/newsweb/na/nd-20261024de64830,2026-10-24T11:15:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261024de64764,GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請,https://news.web.nhk/newsweb/na/nd-20261024de64764,2026-10-24T06:00:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html?ref=rss,GMO、政府へ能動的サイバー防御「要請」　不正アクセスで情報流出,http://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html?ref=rss,2026-10-24T06:00:00Z,1
+毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/020/176000c,GMO、能動的サイバー防御適用を政府に要請　不正アクセスで,https://mainichi.jp/articles/20261024/k00/00m/020/176000c,2026-10-24T11:15:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBS3S6TVBSUTFK00DM.html?ref=rss,GMO緊急要請の「能動的サイバー防御」、政府側は慎重な姿勢,http://www.asahi.com/articles/ASVBS3S6TVBSUTFK00DM.html?ref=rss,2026-10-24T14:39:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVBR351GVBRUTQP012M.html?ref=rss,日本シリーズはソフトバンクが優位　DeNAは接戦に持ち込めるか,http://www.asahi.com/articles/ASVBR351GVBRUTQP012M.html?ref=rss,2026-10-24T06:00:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261024de64830,【速報中】日本シリーズ DeNA×ソフトバンク 投手戦に,https://news.web.nhk/newsweb/na/nd-20261024de64830,2026-10-24T11:15:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/050/246000c,ソフトバンク「ラッキーボーイ」庄子が決める　日本シリーズ初戦,https://mainichi.jp/articles/20261024/k00/00m/050/246000c,2026-10-24T14:39:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261024de64681,フィギュアスケート GPシリーズ第1戦 青木祐奈が首位発進,https://news.web.nhk/newsweb/na/nd-20261024de64681,2026-10-24T00:50:00Z,3
+毎日新聞,https://mainichi.jp/articles/20261024/k00/00m/050/139000c,青木祐奈が考える「フィギュアスケートの魅力」シーズン前の思い,https://mainichi.jp/articles/20261024/k00/00m/050/139000c,2026-10-24T11:15:00Z,3
 毎日新聞,https://mainichi.jp/articles/20261023/k00/00m/310/403000c,車内に1歳児を放置して病院勤務か　39歳歯科医を逮捕　茨城,https://mainichi.jp/articles/20261023/k00/00m/310/403000c,2026-10-23T18:29:00Z,4
 朝日新聞,http://www.asahi.com/articles/ASVBS2HBBVBSUJHB00CM.html?ref=rss,車内に1歳長男を放置し勤務か　川崎の歯科医を逮捕　容疑を一部否認,http://www.asahi.com/articles/ASVBS2HBBVBSUJHB00CM.html?ref=rss,2026-10-24T11:15:00Z,4
 朝日新聞,http://www.asahi.com/articles/ASVBR4V25VBRUHBI026M.html?ref=rss,ウクライナ南部で限定的停戦　米、トランプ氏妻が仲介と発表,http://www.asahi.com/articles/ASVBR4V25VBRUHBI026M.html?ref=rss,2026-10-23T18:29:00Z,5
