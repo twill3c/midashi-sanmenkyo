@@ -1,12 +1,14 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261031de69034,クラブツーリズム 不正アクセスで約432万件の個人情報漏えいか,https://news.web.nhk/newsweb/na/nd-20261031de69034,2026-10-31T15:24:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss,クラブツーリズムで約432万件の個人情報が漏れたか　不正アクセス,http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss,2026-10-31T15:24:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVBZ3K16VBZTTHB00FM.html?ref=rss,秋空彩る佐賀バルーンフェスタが開幕　雨と風で初日の競技は中止,http://www.asahi.com/articles/ASVBZ3K16VBZTTHB00FM.html?ref=rss,2026-10-30T16:44:00Z,2
-毎日新聞,https://mainichi.jp/articles/20261031/k00/00m/040/220000c,2日目は熱気球123機、大空を彩る　佐賀バルーンフェスタ,https://mainichi.jp/articles/20261031/k00/00m/040/220000c,2026-10-31T08:32:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261031de68824,5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請,https://news.web.nhk/newsweb/na/nd-20261031de68824,2026-10-30T21:35:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVBZ6JF0VBZUHBI032M.html?ref=rss,茂木外相、北海道新聞記者の「即時解放」求める　ロシア外相と会談,http://www.asahi.com/articles/ASVBZ6JF0VBZUHBI032M.html?ref=rss,2026-10-30T21:35:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261031/k00/00m/030/021000c,日露外相が会談　拘束2週間超、北海道新聞記者の即時釈放を要求,https://mainichi.jp/articles/20261031/k00/00m/030/021000c,2026-10-31T01:40:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVBZ3SXVVBZUTIL028M.html?ref=rss,東大総長選考、藤垣氏は「15人中14人が承認」　新たな文書を発表,http://www.asahi.com/articles/ASVBZ3SXVVBZUTIL028M.html?ref=rss,2026-10-30T16:44:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261030/k00/00m/040/408000c,東大が学長選考経緯公表　最終投票で15人中14人が藤垣氏承認,https://mainichi.jp/articles/20261030/k00/00m/040/408000c,2026-10-30T16:44:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASVBZ2364VBZUNHB00GM.html?ref=rss,パチンコ景品を「自家買い」容疑で書類送検　経営会社と創業者の男,http://www.asahi.com/articles/ASVBZ2364VBZUNHB00GM.html?ref=rss,2026-10-30T10:13:00Z,5
-毎日新聞,https://mainichi.jp/articles/20261030/k00/00m/310/347000c,パチンコ店が景品「自家買い」か　容疑で元社長を書類送検　宮城,https://mainichi.jp/articles/20261030/k00/00m/310/347000c,2026-10-30T10:13:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20261101de69105,紅葉の名所「鳴子峡」近くで車が歩行者はねる 5人けが 宮城,https://news.web.nhk/newsweb/na/nd-20261101de69105,2026-11-01T06:24:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVC11QJYVC1UGTB001M.html?ref=rss,宮城の紅葉名所「鳴子峡」近くで5人はねられ重軽傷　70代運転の車,http://www.asahi.com/articles/ASVC11QJYVC1UGTB001M.html?ref=rss,2026-11-01T06:24:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261031de69034,クラブツーリズム 不正アクセスで約432万件の個人情報漏えいか,https://news.web.nhk/newsweb/na/nd-20261031de69034,2026-10-31T15:24:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss,クラブツーリズムで約432万件の個人情報が漏れたか　不正アクセス,http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss,2026-10-31T15:24:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVBZ3K16VBZTTHB00FM.html?ref=rss,秋空彩る佐賀バルーンフェスタが開幕　雨と風で初日の競技は中止,http://www.asahi.com/articles/ASVBZ3K16VBZTTHB00FM.html?ref=rss,2026-10-30T16:44:00Z,3
+毎日新聞,https://mainichi.jp/articles/20261031/k00/00m/040/220000c,2日目は熱気球123機、大空を彩る　佐賀バルーンフェスタ,https://mainichi.jp/articles/20261031/k00/00m/040/220000c,2026-10-31T08:32:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261031de68824,5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請,https://news.web.nhk/newsweb/na/nd-20261031de68824,2026-10-30T21:35:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVBZ6JF0VBZUHBI032M.html?ref=rss,茂木外相、北海道新聞記者の「即時解放」求める　ロシア外相と会談,http://www.asahi.com/articles/ASVBZ6JF0VBZUHBI032M.html?ref=rss,2026-10-30T21:35:00Z,4
+毎日新聞,https://mainichi.jp/articles/20261031/k00/00m/030/021000c,日露外相が会談　拘束2週間超、北海道新聞記者の即時釈放を要求,https://mainichi.jp/articles/20261031/k00/00m/030/021000c,2026-10-31T01:40:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVBZ3SXVVBZUTIL028M.html?ref=rss,東大総長選考、藤垣氏は「15人中14人が承認」　新たな文書を発表,http://www.asahi.com/articles/ASVBZ3SXVVBZUTIL028M.html?ref=rss,2026-10-30T16:44:00Z,5
+毎日新聞,https://mainichi.jp/articles/20261030/k00/00m/040/408000c,東大が学長選考経緯公表　最終投票で15人中14人が藤垣氏承認,https://mainichi.jp/articles/20261030/k00/00m/040/408000c,2026-10-30T16:44:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASVBZ2364VBZUNHB00GM.html?ref=rss,パチンコ景品を「自家買い」容疑で書類送検　経営会社と創業者の男,http://www.asahi.com/articles/ASVBZ2364VBZUNHB00GM.html?ref=rss,2026-10-30T10:13:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261030/k00/00m/310/347000c,パチンコ店が景品「自家買い」か　容疑で元社長を書類送検　宮城,https://mainichi.jp/articles/20261030/k00/00m/310/347000c,2026-10-30T10:13:00Z,6
