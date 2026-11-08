@@ -1,37 +1,39 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261107de72136,自民党執行部 石破氏らに文書で説明要請 消費税法案採決退席で,https://news.web.nhk/newsweb/na/nd-20261107de72136,2026-11-07T10:26:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVC73PHXVC7UTFK00FM.html?ref=rss,自民、石破前首相らに文書で説明要請　退席理由「具体的かつ詳細に」,http://www.asahi.com/articles/ASVC73PHXVC7UTFK00FM.html?ref=rss,2026-11-07T16:54:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20261108de72252,【地震速報】愛知県で震度5強 津波の心配なし,https://news.web.nhk/newsweb/na/nd-20261108de72252,2026-11-07T16:54:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261108de72259,【地震】愛知県で震度5強 気象庁が記者会見へ,https://news.web.nhk/newsweb/na/nd-20261108de72259,2026-11-07T16:54:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVC75F9SVC7UEFT009M.html?ref=rss,愛知県知多市で震度5強　震源は静岡県西部、津波の心配なし,http://www.asahi.com/articles/ASVC75F9SVC7UEFT009M.html?ref=rss,2026-11-07T16:54:00Z,2
-毎日新聞,https://mainichi.jp/articles/20261108/k00/00m/040/002000c,愛知県知多市で震度5強　震源は静岡県西部　M5・7,https://mainichi.jp/articles/20261108/k00/00m/040/002000c,2026-11-07T16:54:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261107de72117,プロボウラーの中山律子さんが死去 一大ブームをけん引 84歳,https://news.web.nhk/newsweb/na/nd-20261107de72117,2026-11-07T10:26:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVC72QY0VC7OXIE00NM.html?ref=rss,プロボウラーの中山律子さん死去、84歳　ボウリングブーム火付け役,http://www.asahi.com/articles/ASVC72QY0VC7OXIE00NM.html?ref=rss,2026-11-07T10:26:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVC713WKVC7UTIL001M.html?ref=rss,ロックバンドボーカル「JESSE」容疑者を逮捕　コカイン使用疑い,http://www.asahi.com/articles/ASVC713WKVC7UTIL001M.html?ref=rss,2026-11-07T10:26:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261107/k00/00m/040/120000c,コカイン使用疑いで「JESSE」容疑者を逮捕　Charさんの息子,https://mainichi.jp/articles/20261107/k00/00m/040/120000c,2026-11-07T10:26:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20261107de72003,トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ,https://news.web.nhk/newsweb/na/nd-20261107de72003,2026-11-06T23:18:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASVC66J8ZVC6UHBI001M.html?ref=rss,トランプ氏、首席補佐官に強硬右派ミラー氏起用　中間選挙大敗で刷新,http://www.asahi.com/articles/ASVC66J8ZVC6UHBI001M.html?ref=rss,2026-11-06T23:18:00Z,5
-毎日新聞,https://mainichi.jp/articles/20261107/k00/00m/030/010000c,トランプ氏、中間選挙大敗で首席補佐官交代　後任にミラー氏,https://mainichi.jp/articles/20261107/k00/00m/030/010000c,2026-11-07T02:54:00Z,5
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/040/154000c,世界の地質遺産100選に千葉県沖　「富士山二つ分沈む超深海」,https://mainichi.jp/articles/20261106/k00/00m/040/154000c,2026-11-06T17:34:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html?ref=rss,富士山が世界の「地質遺産100選」に　噴火の多様さや研究蓄積評価,http://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html?ref=rss,2026-11-07T02:54:00Z,6
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/010/237000c,消費税減税法案衆院通過　全野党反対、自民も4人が退席,https://mainichi.jp/articles/20261106/k00/00m/010/237000c,2026-11-06T09:31:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASVC63GHVVC6UTFK00LM.html?ref=rss,消費減税法案、衆院通過　石破氏ら自民4人退席「財源明らかでない」,http://www.asahi.com/articles/ASVC63GHVVC6UTFK00LM.html?ref=rss,2026-11-06T17:34:00Z,7
-NHK,https://news.web.nhk/newsweb/na/nd-20261107de71985,消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に,https://news.web.nhk/newsweb/na/nd-20261107de71985,2026-11-06T23:18:00Z,7
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/205000c,関経連の松本会長、6期目続投表明　「やらざるをえないと決心」,https://mainichi.jp/articles/20261106/k00/00m/020/205000c,2026-11-06T09:31:00Z,8
-朝日新聞,http://www.asahi.com/articles/ASVC62FLHVC6PLFA009M.html?ref=rss,関経連の松本会長、6期目へ続投を表明　就任10年、後任探しが急務,http://www.asahi.com/articles/ASVC62FLHVC6PLFA009M.html?ref=rss,2026-11-06T23:18:00Z,8
-NHK,https://news.web.nhk/newsweb/na/nd-20261106de71533,128信用金庫 窓口取り引きやATM利用できず システム障害が原因,https://news.web.nhk/newsweb/na/nd-20261106de71533,2026-11-06T09:31:00Z,9
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/224000c,システム障害で窓口やATM利用できず　東海～九州の信用金庫で,https://mainichi.jp/articles/20261106/k00/00m/020/224000c,2026-11-06T09:31:00Z,9
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/385000c,信用金庫のシステム復旧　一時窓口やATM利用できず,https://mainichi.jp/articles/20261106/k00/00m/020/385000c,2026-11-06T17:34:00Z,9
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/030/273000c,高市首相の「台湾有事」答弁1年　中国報道局長が改めて批判,https://mainichi.jp/articles/20261106/k00/00m/030/273000c,2026-11-06T09:31:00Z,10
-NHK,https://news.web.nhk/newsweb/na/nd-20261106de71861,高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”,https://news.web.nhk/newsweb/na/nd-20261106de71861,2026-11-06T17:34:00Z,10
-朝日新聞,http://www.asahi.com/articles/ASVC64HZ2VC6UHBI04JM.html?ref=rss,米国の就業者数、10月は16.5万人増　市場予想を大幅に上回る,http://www.asahi.com/articles/ASVC64HZ2VC6UHBI04JM.html?ref=rss,2026-11-06T17:34:00Z,11
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/030/215000c,米就業者数、前月比16.5万人増　市場予想上回る　10月雇用統計,https://mainichi.jp/articles/20261106/k00/00m/030/215000c,2026-11-06T17:34:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVC61V47VC6UTIL00MM.html?ref=rss,池袋暴走事故の遺族をSNSで中傷か　男を名誉毀損容疑で書類送検,http://www.asahi.com/articles/ASVC61V47VC6UTIL00MM.html?ref=rss,2026-11-06T09:31:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/310/208000c,「娘で金稼ぎ」　池袋暴走事故の遺族を中傷疑い　男性を書類送検,https://mainichi.jp/articles/20261106/k00/00m/310/208000c,2026-11-06T09:31:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20261106de71336,経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け,https://news.web.nhk/newsweb/na/nd-20261106de71336,2026-11-06T01:38:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVC53FNVVC5ULFA02DM.html?ref=rss,中部電に業務改善命令、経産省　浜岡原発データ不正や廃炉費用問題で,http://www.asahi.com/articles/ASVC53FNVVC5ULFA02DM.html?ref=rss,2026-11-06T01:38:00Z,13
-毎日新聞,https://mainichi.jp/articles/20261105/k00/00m/020/391000c,経産省、中部電に業務改善命令　耐震データ不正など不祥事相次ぎ,https://mainichi.jp/articles/20261105/k00/00m/020/391000c,2026-11-06T01:38:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20261106de71341,日経平均株価6万円割れ ことし5月以来 一時4000円超下落,https://news.web.nhk/newsweb/na/nd-20261106de71341,2026-11-06T01:38:00Z,14
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/035000c,日経平均急落、6カ月ぶりに6万円割れ　下げ幅一時4000円超,https://mainichi.jp/articles/20261106/k00/00m/020/035000c,2026-11-06T01:38:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASVC576KPVC5UHBI003M.html?ref=rss,ルビオ国務長官が辞任検討か　次期大統領選の準備?　本人は否定,http://www.asahi.com/articles/ASVC576KPVC5UHBI003M.html?ref=rss,2026-11-06T01:38:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/030/023000c,ルビオ米国務長官が辞任検討か　共和党の大敗受け　現地報道,https://mainichi.jp/articles/20261106/k00/00m/030/023000c,2026-11-06T01:38:00Z,15
+NHK,https://news.web.nhk/newsweb/na/nd-20261108de72373,ポーランド南部のクラクフで銃撃事件 6人死亡 容疑者は拘束,https://news.web.nhk/newsweb/na/nd-20261108de72373,2026-11-08T00:46:00Z,1
+毎日新聞,https://mainichi.jp/articles/20261108/k00/00m/030/018000c,ポーランド古都クラクフで乱射事件　6人死亡、極右思想影響か,https://mainichi.jp/articles/20261108/k00/00m/030/018000c,2026-11-08T00:46:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261107de72136,自民党執行部 石破氏らに文書で説明要請 消費税法案採決退席で,https://news.web.nhk/newsweb/na/nd-20261107de72136,2026-11-07T10:26:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVC73PHXVC7UTFK00FM.html?ref=rss,自民、石破前首相らに文書で説明要請　退席理由「具体的かつ詳細に」,http://www.asahi.com/articles/ASVC73PHXVC7UTFK00FM.html?ref=rss,2026-11-07T16:54:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261108de72252,【地震速報】愛知県で震度5強 津波の心配なし,https://news.web.nhk/newsweb/na/nd-20261108de72252,2026-11-07T16:54:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261108de72259,【地震】愛知県で震度5強 気象庁が記者会見へ,https://news.web.nhk/newsweb/na/nd-20261108de72259,2026-11-07T16:54:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASVC75F9SVC7UEFT009M.html?ref=rss,愛知県知多市で震度5強　震源は静岡県西部、津波の心配なし,http://www.asahi.com/articles/ASVC75F9SVC7UEFT009M.html?ref=rss,2026-11-07T16:54:00Z,3
+毎日新聞,https://mainichi.jp/articles/20261108/k00/00m/040/002000c,愛知県知多市で震度5強　震源は静岡県西部　M5・7,https://mainichi.jp/articles/20261108/k00/00m/040/002000c,2026-11-07T16:54:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261107de72117,プロボウラーの中山律子さんが死去 一大ブームをけん引 84歳,https://news.web.nhk/newsweb/na/nd-20261107de72117,2026-11-07T10:26:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVC72QY0VC7OXIE00NM.html?ref=rss,プロボウラーの中山律子さん死去、84歳　ボウリングブーム火付け役,http://www.asahi.com/articles/ASVC72QY0VC7OXIE00NM.html?ref=rss,2026-11-07T10:26:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVC713WKVC7UTIL001M.html?ref=rss,ロックバンドボーカル「JESSE」容疑者を逮捕　コカイン使用疑い,http://www.asahi.com/articles/ASVC713WKVC7UTIL001M.html?ref=rss,2026-11-07T10:26:00Z,5
+毎日新聞,https://mainichi.jp/articles/20261107/k00/00m/040/120000c,コカイン使用疑いで「JESSE」容疑者を逮捕　Charさんの息子,https://mainichi.jp/articles/20261107/k00/00m/040/120000c,2026-11-07T10:26:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20261107de72003,トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ,https://news.web.nhk/newsweb/na/nd-20261107de72003,2026-11-06T23:18:00Z,6
+朝日新聞,http://www.asahi.com/articles/ASVC66J8ZVC6UHBI001M.html?ref=rss,トランプ氏、首席補佐官に強硬右派ミラー氏起用　中間選挙大敗で刷新,http://www.asahi.com/articles/ASVC66J8ZVC6UHBI001M.html?ref=rss,2026-11-06T23:18:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261107/k00/00m/030/010000c,トランプ氏、中間選挙大敗で首席補佐官交代　後任にミラー氏,https://mainichi.jp/articles/20261107/k00/00m/030/010000c,2026-11-07T02:54:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/040/154000c,世界の地質遺産100選に千葉県沖　「富士山二つ分沈む超深海」,https://mainichi.jp/articles/20261106/k00/00m/040/154000c,2026-11-06T17:34:00Z,7
+朝日新聞,http://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html?ref=rss,富士山が世界の「地質遺産100選」に　噴火の多様さや研究蓄積評価,http://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html?ref=rss,2026-11-07T02:54:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/010/237000c,消費税減税法案衆院通過　全野党反対、自民も4人が退席,https://mainichi.jp/articles/20261106/k00/00m/010/237000c,2026-11-06T09:31:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVC63GHVVC6UTFK00LM.html?ref=rss,消費減税法案、衆院通過　石破氏ら自民4人退席「財源明らかでない」,http://www.asahi.com/articles/ASVC63GHVVC6UTFK00LM.html?ref=rss,2026-11-06T17:34:00Z,8
+NHK,https://news.web.nhk/newsweb/na/nd-20261107de71985,消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に,https://news.web.nhk/newsweb/na/nd-20261107de71985,2026-11-06T23:18:00Z,8
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/205000c,関経連の松本会長、6期目続投表明　「やらざるをえないと決心」,https://mainichi.jp/articles/20261106/k00/00m/020/205000c,2026-11-06T09:31:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVC62FLHVC6PLFA009M.html?ref=rss,関経連の松本会長、6期目へ続投を表明　就任10年、後任探しが急務,http://www.asahi.com/articles/ASVC62FLHVC6PLFA009M.html?ref=rss,2026-11-06T23:18:00Z,9
+NHK,https://news.web.nhk/newsweb/na/nd-20261106de71533,128信用金庫 窓口取り引きやATM利用できず システム障害が原因,https://news.web.nhk/newsweb/na/nd-20261106de71533,2026-11-06T09:31:00Z,10
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/224000c,システム障害で窓口やATM利用できず　東海～九州の信用金庫で,https://mainichi.jp/articles/20261106/k00/00m/020/224000c,2026-11-06T09:31:00Z,10
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/385000c,信用金庫のシステム復旧　一時窓口やATM利用できず,https://mainichi.jp/articles/20261106/k00/00m/020/385000c,2026-11-06T17:34:00Z,10
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/030/273000c,高市首相の「台湾有事」答弁1年　中国報道局長が改めて批判,https://mainichi.jp/articles/20261106/k00/00m/030/273000c,2026-11-06T09:31:00Z,11
+NHK,https://news.web.nhk/newsweb/na/nd-20261106de71861,高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”,https://news.web.nhk/newsweb/na/nd-20261106de71861,2026-11-06T17:34:00Z,11
+朝日新聞,http://www.asahi.com/articles/ASVC64HZ2VC6UHBI04JM.html?ref=rss,米国の就業者数、10月は16.5万人増　市場予想を大幅に上回る,http://www.asahi.com/articles/ASVC64HZ2VC6UHBI04JM.html?ref=rss,2026-11-06T17:34:00Z,12
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/030/215000c,米就業者数、前月比16.5万人増　市場予想上回る　10月雇用統計,https://mainichi.jp/articles/20261106/k00/00m/030/215000c,2026-11-06T17:34:00Z,12
+朝日新聞,http://www.asahi.com/articles/ASVC61V47VC6UTIL00MM.html?ref=rss,池袋暴走事故の遺族をSNSで中傷か　男を名誉毀損容疑で書類送検,http://www.asahi.com/articles/ASVC61V47VC6UTIL00MM.html?ref=rss,2026-11-06T09:31:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/310/208000c,「娘で金稼ぎ」　池袋暴走事故の遺族を中傷疑い　男性を書類送検,https://mainichi.jp/articles/20261106/k00/00m/310/208000c,2026-11-06T09:31:00Z,13
+NHK,https://news.web.nhk/newsweb/na/nd-20261106de71336,経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け,https://news.web.nhk/newsweb/na/nd-20261106de71336,2026-11-06T01:38:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASVC53FNVVC5ULFA02DM.html?ref=rss,中部電に業務改善命令、経産省　浜岡原発データ不正や廃炉費用問題で,http://www.asahi.com/articles/ASVC53FNVVC5ULFA02DM.html?ref=rss,2026-11-06T01:38:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261105/k00/00m/020/391000c,経産省、中部電に業務改善命令　耐震データ不正など不祥事相次ぎ,https://mainichi.jp/articles/20261105/k00/00m/020/391000c,2026-11-06T01:38:00Z,14
+NHK,https://news.web.nhk/newsweb/na/nd-20261106de71341,日経平均株価6万円割れ ことし5月以来 一時4000円超下落,https://news.web.nhk/newsweb/na/nd-20261106de71341,2026-11-06T01:38:00Z,15
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/020/035000c,日経平均急落、6カ月ぶりに6万円割れ　下げ幅一時4000円超,https://mainichi.jp/articles/20261106/k00/00m/020/035000c,2026-11-06T01:38:00Z,15
+朝日新聞,http://www.asahi.com/articles/ASVC576KPVC5UHBI003M.html?ref=rss,ルビオ国務長官が辞任検討か　次期大統領選の準備?　本人は否定,http://www.asahi.com/articles/ASVC576KPVC5UHBI003M.html?ref=rss,2026-11-06T01:38:00Z,16
+毎日新聞,https://mainichi.jp/articles/20261106/k00/00m/030/023000c,ルビオ米国務長官が辞任検討か　共和党の大敗受け　現地報道,https://mainichi.jp/articles/20261106/k00/00m/030/023000c,2026-11-06T01:38:00Z,16
