@@ -1,9 +1,10 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261109de72717,熊本 八代の90代女性 7月の熊本地震の災害関連死に初認定,https://news.web.nhk/newsweb/na/nd-20261109de72717,2026-11-09T06:50:00Z,1
-毎日新聞,https://mainichi.jp/articles/20261109/k00/00m/040/119000c,熊本地震、初の災害関連死認定　八代市の90代　死者39人に,https://mainichi.jp/articles/20261109/k00/00m/040/119000c,2026-11-09T06:50:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20261110de73781,7月の熊本地震 災害関連死5人認定 直接死など含め死者は43人に,https://news.web.nhk/newsweb/na/nd-20261110de73781,2026-11-10T17:58:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss,タマホーム、社員が火災保険金を不正請求　複数の損保、追加調査要求,http://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss,2026-11-10T17:58:00Z,2
-毎日新聞,https://mainichi.jp/articles/20261110/k00/00m/020/356000c,タマホーム社員、火災保険金を不正請求　被害額は数千万円規模か,https://mainichi.jp/articles/20261110/k00/00m/020/356000c,2026-11-10T17:58:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss,タマホーム、社員が火災保険金を不正請求　複数の損保、追加調査要求,http://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss,2026-11-10T17:58:00Z,1
+毎日新聞,https://mainichi.jp/articles/20261110/k00/00m/020/356000c,タマホーム社員、火災保険金を不正請求　被害額は数千万円規模か,https://mainichi.jp/articles/20261110/k00/00m/020/356000c,2026-11-10T17:58:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261111de73843,タマホーム社員 火災保険不正請求の疑い 損保各社調査求める,https://news.web.nhk/newsweb/na/nd-20261111de73843,2026-11-10T23:32:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261109de72717,熊本 八代の90代女性 7月の熊本地震の災害関連死に初認定,https://news.web.nhk/newsweb/na/nd-20261109de72717,2026-11-09T06:50:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261109/k00/00m/040/119000c,熊本地震、初の災害関連死認定　八代市の90代　死者39人に,https://mainichi.jp/articles/20261109/k00/00m/040/119000c,2026-11-09T06:50:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261110de73781,7月の熊本地震 災害関連死5人認定 直接死など含め死者は43人に,https://news.web.nhk/newsweb/na/nd-20261110de73781,2026-11-10T17:58:00Z,2
 NHK,https://news.web.nhk/newsweb/na/nd-20261110de73265,エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査,https://news.web.nhk/newsweb/na/nd-20261110de73265,2026-11-10T01:39:00Z,3
 朝日新聞,http://www.asahi.com/articles/ASVCB0GM3VCBUHBI00FM.html?ref=rss,エヌビディアCEOめぐる中国スパイ疑惑、FBIが捜査　トランプ氏,http://www.asahi.com/articles/ASVCB0GM3VCBUHBI00FM.html?ref=rss,2026-11-10T10:04:00Z,3
 NHK,https://news.web.nhk/newsweb/na/nd-20261110de73528,JR東「ウォークスルー改札」山手線全駅など再来年春に導入へ,https://news.web.nhk/newsweb/na/nd-20261110de73528,2026-11-10T10:04:00Z,4
@@ -29,5 +30,3 @@ NHK,https://news.web.nhk/newsweb/na/nd-20261109de73129,自民 石破前首相ら
 毎日新聞,https://mainichi.jp/articles/20261109/k00/00m/010/225000c,自民、石破前首相ら4氏を戒告処分　消費税減税法案の採決退席で,https://mainichi.jp/articles/20261109/k00/00m/010/225000c,2026-11-09T17:39:00Z,12
 朝日新聞,http://www.asahi.com/articles/ASVC90GD5VC9UCVL01LM.html?ref=rss,「VIVANT」2期最終回、世帯視聴率21.8%　番組最高を記録,http://www.asahi.com/articles/ASVC90GD5VC9UCVL01LM.html?ref=rss,2026-11-09T06:50:00Z,13
 毎日新聞,https://mainichi.jp/articles/20261109/k00/00m/200/038000c,VIVANT最終回の視聴率は21.8％　映画公開も発表,https://mainichi.jp/articles/20261109/k00/00m/200/038000c,2026-11-09T06:50:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVC851QQVC8UHBI00QM.html?ref=rss,サウジ首都、金融街の「アラムコタワー」が標的に　ミサイル攻撃か,http://www.asahi.com/articles/ASVC851QQVC8UHBI00QM.html?ref=rss,2026-11-08T19:48:00Z,14
-毎日新聞,https://mainichi.jp/articles/20261109/k00/00m/030/007000c,サウジ首都の超高層ビル「アラムコ・タワー」に攻撃　フーシ派か,https://mainichi.jp/articles/20261109/k00/00m/030/007000c,2026-11-08T23:48:00Z,14
