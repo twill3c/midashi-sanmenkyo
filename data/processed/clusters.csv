@@ -1,53 +1,60 @@
 outlet,guid,title,link,first_seen,cluster_id
-NHK,https://news.web.nhk/newsweb/na/nd-20261116de76344,7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少,https://news.web.nhk/newsweb/na/nd-20261116de76344,2026-11-16T02:51:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss,実質GDP、1年ぶりマイナス　個人消費が不振、スーパーなど影響,http://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss,2026-11-16T02:51:00Z,1
-朝日新聞,http://www.asahi.com/articles/ASVCJ048GVCJULFA01MM.html?ref=rss,7～9月期GDP、1年ぶりマイナス成長　個人消費に弱さ,http://www.asahi.com/articles/ASVCJ048GVCJULFA01MM.html?ref=rss,2026-11-16T22:19:00Z,1
-NHK,https://news.web.nhk/newsweb/na/nd-20261116de76383,元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決,https://news.web.nhk/newsweb/na/nd-20261116de76383,2026-11-16T02:51:00Z,2
-朝日新聞,http://www.asahi.com/articles/ASVCF35ZFVCFUTIL021M.html?ref=rss,元ジャンポケ斉藤被告に実刑判決　共演者に性的暴行、無罪主張認めず,http://www.asahi.com/articles/ASVCF35ZFVCFUTIL021M.html?ref=rss,2026-11-16T02:51:00Z,2
-毎日新聞,https://mainichi.jp/articles/20261113/k00/00m/040/365000c,元ジャンポケ斉藤慎二被告に実刑判決　ロケバス内で性的暴行の罪,https://mainichi.jp/articles/20261113/k00/00m/040/365000c,2026-11-16T02:51:00Z,2
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/214000c,被害者の証言「不自然な点ない」　元ジャンポケ斉藤被告に実刑判決,https://mainichi.jp/articles/20261116/k00/00m/040/214000c,2026-11-16T22:19:00Z,2
-NHK,https://news.web.nhk/newsweb/na/nd-20261116de76603,理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認,https://news.web.nhk/newsweb/na/nd-20261116de76603,2026-11-16T11:44:00Z,3
-朝日新聞,http://www.asahi.com/articles/ASVCJ246MVCJUTFL00LM.html?ref=rss,理研のスパコン「富岳」に不正アクセス　最先端の研究、企業も利用,http://www.asahi.com/articles/ASVCJ246MVCJUTFL00LM.html?ref=rss,2026-11-16T11:44:00Z,3
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/202000c,スパコン「富岳」に不正アクセス　研究者「相当深刻と懸念」,https://mainichi.jp/articles/20261116/k00/00m/040/202000c,2026-11-16T11:44:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261117de76883,理研のスパコン「富岳」不正アクセス 研究データなど漏えいか,https://news.web.nhk/newsweb/na/nd-20261117de76883,2026-11-16T22:19:00Z,3
-NHK,https://news.web.nhk/newsweb/na/nd-20261116de76817,東京 中野区の路上で女性が刺され意識不明 刺した人物は逃走,https://news.web.nhk/newsweb/na/nd-20261116de76817,2026-11-16T11:44:00Z,4
-NHK,https://news.web.nhk/newsweb/na/nd-20261117de76885,東京 中野 女性刺殺事件 39歳容疑者を強盗殺人未遂疑いで逮捕,https://news.web.nhk/newsweb/na/nd-20261117de76885,2026-11-16T22:19:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASVCJ3VT4VCJUTIL01GM.html?ref=rss,東京・中野で女性が刺され死亡　逃走した男を強盗殺人未遂容疑で逮捕,http://www.asahi.com/articles/ASVCJ3VT4VCJUTIL01GM.html?ref=rss,2026-11-16T22:19:00Z,4
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/233000c,東京・中野で襲われた女性が死亡　強盗殺人未遂容疑で男性を逮捕,https://mainichi.jp/articles/20261116/k00/00m/040/233000c,2026-11-16T22:19:00Z,4
-朝日新聞,http://www.asahi.com/articles/ASVCJ0GHXVCJUTIL005M.html?ref=rss,「世界平和」願う愛子さま、シンガポールへ　2回目の外国公式訪問,http://www.asahi.com/articles/ASVCJ0GHXVCJUTIL005M.html?ref=rss,2026-11-16T11:44:00Z,5
-NHK,https://news.web.nhk/newsweb/na/nd-20261117de76896,愛子さま きょうからシンガポールを公式訪問,https://news.web.nhk/newsweb/na/nd-20261117de76896,2026-11-16T22:19:00Z,5
-朝日新聞,http://www.asahi.com/articles/ASVCJ2HNZVCJPLZB005M.html?ref=rss,「無病息災を願って」　梅の名所・北野天満宮で大福梅の包装が始まる,http://www.asahi.com/articles/ASVCJ2HNZVCJPLZB005M.html?ref=rss,2026-11-16T11:44:00Z,6
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/310/074000c,「健康で幸多い1年に」　北野天満宮で大福梅の包装始まる　京都,https://mainichi.jp/articles/20261116/k00/00m/310/074000c,2026-11-16T22:19:00Z,6
-朝日新聞,http://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss,福岡市長選、なぜ再選挙に?　来年1月投開票か、再々選挙の可能性も,http://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss,2026-11-16T22:19:00Z,7
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/010/212000c,福岡市長選、なぜ再選挙に？　上位4候補、票食い合った要因,https://mainichi.jp/articles/20261116/k00/00m/010/212000c,2026-11-16T22:19:00Z,7
-朝日新聞,http://www.asahi.com/articles/ASVCJ5676VCJBQBQ3BCM.html?ref=rss,トランプ氏、金正恩氏と「会うかもしれない」　アジア歴訪の出発前に,http://www.asahi.com/articles/ASVCJ5676VCJBQBQ3BCM.html?ref=rss,2026-11-16T22:19:00Z,8
-毎日新聞,https://mainichi.jp/articles/20261117/k00/00m/030/001000c,トランプ氏、正恩氏と「会談するかもしれない」と発言　アジア訪問で,https://mainichi.jp/articles/20261117/k00/00m/030/001000c,2026-11-16T22:19:00Z,8
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/030/027000c,米、ウクライナにNATO加盟提案か　東部ドンバス割譲と引き換え,https://mainichi.jp/articles/20261115/k00/00m/030/027000c,2026-11-15T02:49:00Z,9
-朝日新聞,http://www.asahi.com/articles/ASVCJ0VH5VCJUHBI004M.html?ref=rss,「NATO加盟の代わりにドンバス割譲」　米国がウクライナに打診か,http://www.asahi.com/articles/ASVCJ0VH5VCJUHBI004M.html?ref=rss,2026-11-16T11:44:00Z,9
-朝日新聞,http://www.asahi.com/articles/ASVCJ36Q8VCJOXIE02KM.html?ref=rss,静岡・菊川の3人殺害事件、被告に死刑求刑　弁護側「心神耗弱」主張,http://www.asahi.com/articles/ASVCJ36Q8VCJOXIE02KM.html?ref=rss,2026-11-16T11:44:00Z,10
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/310/185000c,静岡・菊川の祖父母ら3人殺害　検察側が29歳孫に死刑求刑,https://mainichi.jp/articles/20261116/k00/00m/310/185000c,2026-11-16T11:44:00Z,10
-朝日新聞,http://www.asahi.com/articles/ASVCJ3CHXVCJUTFL01QM.html?ref=rss,はやぶさ2、目的地を変更　エンジン不具合、新たな小惑星へ,http://www.asahi.com/articles/ASVCJ3CHXVCJUTFL01QM.html?ref=rss,2026-11-16T11:44:00Z,11
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/100/187000c,探査機「はやぶさ2」、最終目的地を変更　主エンジンの劣化で,https://mainichi.jp/articles/20261116/k00/00m/100/187000c,2026-11-16T11:44:00Z,11
-朝日新聞,http://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss,定数削減法案、17日審議入りへ　維新幹部は「月末までに衆院通過」,http://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss,2026-11-16T11:44:00Z,12
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/010/174000c,衆院定数削減法案、17日に審議入り決定　与党、早期成立目指す,https://mainichi.jp/articles/20261116/k00/00m/010/174000c,2026-11-16T11:44:00Z,12
-NHK,https://news.web.nhk/newsweb/na/nd-20261115de76209,ASEAN首脳会議開幕 ミャンマー本格復帰の議論は先送り,https://news.web.nhk/newsweb/na/nd-20261115de76209,2026-11-15T17:51:00Z,13
-朝日新聞,http://www.asahi.com/articles/ASVCH3TBQVCHUHBI02CM.html?ref=rss,ASEAN首脳会議、ミャンマー「復帰」判断を見送り　弾圧やまず,http://www.asahi.com/articles/ASVCH3TBQVCHUHBI02CM.html?ref=rss,2026-11-15T17:51:00Z,13
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/030/176000c,ASEAN首脳会議開幕　ミャンマーの段階的な復帰を模索,https://mainichi.jp/articles/20261115/k00/00m/030/176000c,2026-11-15T17:51:00Z,13
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/030/188000c,ASEAN首脳会議　ミャンマーの復帰を見送り　接触は継続へ,https://mainichi.jp/articles/20261115/k00/00m/030/188000c,2026-11-15T17:51:00Z,13
-毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/030/040000c,ミャンマーのASEAN復帰　タイ外相、28年に「外相級から」,https://mainichi.jp/articles/20261116/k00/00m/030/040000c,2026-11-16T02:51:00Z,13
-NHK,https://news.web.nhk/newsweb/na/nd-20261115de76062,ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう,https://news.web.nhk/newsweb/na/nd-20261115de76062,2026-11-15T11:13:00Z,14
-朝日新聞,http://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss,ハンズ渋谷店、営業48年で閉店　客ら惜しむ「渋谷が変わる寂しさ」,http://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss,2026-11-15T17:51:00Z,14
-NHK,https://news.web.nhk/newsweb/na/nd-20261115de76094,愛媛県知事選挙 現職の中村時広氏が5回目の当選確実【速報】,https://news.web.nhk/newsweb/na/nd-20261115de76094,2026-11-15T11:13:00Z,15
-NHK,https://news.web.nhk/newsweb/na/nd-20261115de76100,熊本市長選挙 現職の大西一史氏が4回目の当選確実,https://news.web.nhk/newsweb/na/nd-20261115de76100,2026-11-15T11:13:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/010/020000c,愛媛県知事選、現職・中村時広氏が当選確実　無所属新人2氏破る,https://mainichi.jp/articles/20261115/k00/00m/010/020000c,2026-11-15T11:13:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/010/103000c,熊本市長選、現職の大西一史氏が4選確実　新人4人を破る,https://mainichi.jp/articles/20261115/k00/00m/010/103000c,2026-11-15T11:13:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/310/200000c,品川区長選、現職の森沢恭子氏が再選確実　新人制す,https://mainichi.jp/articles/20261115/k00/00m/310/200000c,2026-11-15T17:51:00Z,15
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/310/211000c,新宿区長選、現職の吉住健一氏が4選確実　新人3人を破る,https://mainichi.jp/articles/20261115/k00/00m/310/211000c,2026-11-15T17:51:00Z,15
-朝日新聞,http://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss,桑木志帆が初の年間女王、ライバルの猛追振り切り5勝目　女子ゴルフ,http://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss,2026-11-15T11:13:00Z,16
-NHK,https://news.web.nhk/newsweb/na/nd-20261115de76127,女子ゴルフ国内ツアー 桑木志帆が初の年間女王,https://news.web.nhk/newsweb/na/nd-20261115de76127,2026-11-15T17:51:00Z,16
-朝日新聞,http://www.asahi.com/articles/ASVCG2GMCVCGUQIP02NM.html?ref=rss,【写真まとめ】　両陛下、豊かな海づくり大会に出席　2日間の様子は,http://www.asahi.com/articles/ASVCG2GMCVCGUQIP02NM.html?ref=rss,2026-11-15T11:13:00Z,17
-朝日新聞,http://www.asahi.com/articles/ASVCH13N9VCHUTIL00RM.html?ref=rss,「豊かな海づくりの輪」未来へ広がり願う　両陛下、大阪で大会に出席,http://www.asahi.com/articles/ASVCH13N9VCHUTIL00RM.html?ref=rss,2026-11-15T11:13:00Z,17
-朝日新聞,http://www.asahi.com/articles/ASVCH35PWVCHUQIP00JM.html?ref=rss,両陛下、キジハタとヒラメ稚魚を放流　全国豊かな海づくり大会に出席,http://www.asahi.com/articles/ASVCH35PWVCHUQIP00JM.html?ref=rss,2026-11-15T11:13:00Z,17
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/040/174000c,天皇、皇后両陛下が「海づくり大会」出席　ヒラメなど稚魚を放流,https://mainichi.jp/articles/20261115/k00/00m/040/174000c,2026-11-15T17:51:00Z,17
-朝日新聞,http://www.asahi.com/articles/ASVCG366TVCGOIPE001M.html?ref=rss,「ラヴ上等」出演の「あっすん」を逮捕　無許可風俗営業容疑　名古屋,http://www.asahi.com/articles/ASVCG366TVCGOIPE001M.html?ref=rss,2026-11-14T23:05:00Z,18
-毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/040/021000c,「ラヴ上等」出演、あっすん容疑者を逮捕　無許可風俗営業の疑い,https://mainichi.jp/articles/20261115/k00/00m/040/021000c,2026-11-15T02:49:00Z,18
+毎日新聞,https://mainichi.jp/articles/20261113/k00/00m/040/088000c,「育った2本のソテツ、愛子さまにも」　シンガポール大使の期待,https://mainichi.jp/articles/20261113/k00/00m/040/088000c,2026-11-16T02:51:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVCJ0GHXVCJUTIL005M.html?ref=rss,「世界平和」願う愛子さま、シンガポールへ　2回目の外国公式訪問,http://www.asahi.com/articles/ASVCJ0GHXVCJUTIL005M.html?ref=rss,2026-11-16T11:44:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261117de76896,愛子さま きょうからシンガポールを公式訪問,https://news.web.nhk/newsweb/na/nd-20261117de76896,2026-11-16T22:19:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261117de77001,愛子さま シンガポールに向けて出発,https://news.web.nhk/newsweb/na/nd-20261117de77001,2026-11-17T04:36:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVCH32ZDVCHUQIP04NM.html?ref=rss,【写真まとめ】愛子さまシンガポールへ出発　写真に写る小さな気遣い,http://www.asahi.com/articles/ASVCH32ZDVCHUQIP04NM.html?ref=rss,2026-11-17T04:36:00Z,1
+朝日新聞,http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss,愛子さま、シンガポールに向けて羽田を出発　外交樹立60周年で招待,http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss,2026-11-17T04:36:00Z,1
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/227000c,愛子さまがシンガポールへ出発　国交樹立60周年で招待受け,https://mainichi.jp/articles/20261116/k00/00m/040/227000c,2026-11-17T04:36:00Z,1
+NHK,https://news.web.nhk/newsweb/na/nd-20261117de76912,ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺,https://news.web.nhk/newsweb/na/nd-20261117de76912,2026-11-17T04:36:00Z,2
+朝日新聞,http://www.asahi.com/articles/ASVCK0H18VCKUTIL007M.html?ref=rss,ロシア機とみられる航空機2機が福岡沖で領空侵犯　外交ルートで抗議,http://www.asahi.com/articles/ASVCK0H18VCKUTIL007M.html?ref=rss,2026-11-17T04:36:00Z,2
+毎日新聞,https://mainichi.jp/articles/20261117/k00/00m/010/049000c,ロシア軍機とみられる2機が領空侵犯　自衛隊機が無線で警告,https://mainichi.jp/articles/20261117/k00/00m/010/049000c,2026-11-17T04:36:00Z,2
+NHK,https://news.web.nhk/newsweb/na/nd-20261117de77026,江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍,https://news.web.nhk/newsweb/na/nd-20261117de77026,2026-11-17T04:36:00Z,3
+朝日新聞,http://www.asahi.com/articles/ASVCK126DVCKPTQP002M.html?ref=rss,江夏豊さんが78歳で死去　阪神、広島などで活躍した「優勝請負人」,http://www.asahi.com/articles/ASVCK126DVCKPTQP002M.html?ref=rss,2026-11-17T04:36:00Z,3
+毎日新聞,https://mainichi.jp/articles/20261117/k00/00m/050/078000c,元プロ野球選手の江夏豊さん死去　78歳　球宴で9者連続奪三振,https://mainichi.jp/articles/20261117/k00/00m/050/078000c,2026-11-17T04:36:00Z,3
+NHK,https://news.web.nhk/newsweb/na/nd-20261116de76344,7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少,https://news.web.nhk/newsweb/na/nd-20261116de76344,2026-11-16T02:51:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss,実質GDP、1年ぶりマイナス　個人消費が不振、スーパーなど影響,http://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss,2026-11-16T02:51:00Z,4
+朝日新聞,http://www.asahi.com/articles/ASVCJ048GVCJULFA01MM.html?ref=rss,7～9月期GDP、1年ぶりマイナス成長　個人消費に弱さ,http://www.asahi.com/articles/ASVCJ048GVCJULFA01MM.html?ref=rss,2026-11-16T22:19:00Z,4
+NHK,https://news.web.nhk/newsweb/na/nd-20261116de76383,元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決,https://news.web.nhk/newsweb/na/nd-20261116de76383,2026-11-16T02:51:00Z,5
+朝日新聞,http://www.asahi.com/articles/ASVCF35ZFVCFUTIL021M.html?ref=rss,元ジャンポケ斉藤被告に実刑判決　共演者に性的暴行、無罪主張認めず,http://www.asahi.com/articles/ASVCF35ZFVCFUTIL021M.html?ref=rss,2026-11-16T02:51:00Z,5
+毎日新聞,https://mainichi.jp/articles/20261113/k00/00m/040/365000c,元ジャンポケ斉藤慎二被告に実刑判決　ロケバス内で性的暴行の罪,https://mainichi.jp/articles/20261113/k00/00m/040/365000c,2026-11-16T02:51:00Z,5
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/214000c,被害者の証言「不自然な点ない」　元ジャンポケ斉藤被告に実刑判決,https://mainichi.jp/articles/20261116/k00/00m/040/214000c,2026-11-16T22:19:00Z,5
+NHK,https://news.web.nhk/newsweb/na/nd-20261116de76603,理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認,https://news.web.nhk/newsweb/na/nd-20261116de76603,2026-11-16T11:44:00Z,6
+朝日新聞,http://www.asahi.com/articles/ASVCJ246MVCJUTFL00LM.html?ref=rss,理研のスパコン「富岳」に不正アクセス　最先端の研究、企業も利用,http://www.asahi.com/articles/ASVCJ246MVCJUTFL00LM.html?ref=rss,2026-11-16T11:44:00Z,6
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/202000c,スパコン「富岳」に不正アクセス　研究者「相当深刻と懸念」,https://mainichi.jp/articles/20261116/k00/00m/040/202000c,2026-11-16T11:44:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261117de76883,理研のスパコン「富岳」不正アクセス 研究データなど漏えいか,https://news.web.nhk/newsweb/na/nd-20261117de76883,2026-11-16T22:19:00Z,6
+NHK,https://news.web.nhk/newsweb/na/nd-20261116de76817,東京 中野区の路上で女性が刺され意識不明 刺した人物は逃走,https://news.web.nhk/newsweb/na/nd-20261116de76817,2026-11-16T11:44:00Z,7
+NHK,https://news.web.nhk/newsweb/na/nd-20261117de76885,東京 中野 女性刺殺事件 39歳容疑者を強盗殺人未遂疑いで逮捕,https://news.web.nhk/newsweb/na/nd-20261117de76885,2026-11-16T22:19:00Z,7
+朝日新聞,http://www.asahi.com/articles/ASVCJ3VT4VCJUTIL01GM.html?ref=rss,東京・中野で女性が刺され死亡　逃走した男を強盗殺人未遂容疑で逮捕,http://www.asahi.com/articles/ASVCJ3VT4VCJUTIL01GM.html?ref=rss,2026-11-16T22:19:00Z,7
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/040/233000c,東京・中野で襲われた女性が死亡　強盗殺人未遂容疑で男性を逮捕,https://mainichi.jp/articles/20261116/k00/00m/040/233000c,2026-11-16T22:19:00Z,7
+朝日新聞,http://www.asahi.com/articles/ASVCJ2HNZVCJPLZB005M.html?ref=rss,「無病息災を願って」　梅の名所・北野天満宮で大福梅の包装が始まる,http://www.asahi.com/articles/ASVCJ2HNZVCJPLZB005M.html?ref=rss,2026-11-16T11:44:00Z,8
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/310/074000c,「健康で幸多い1年に」　北野天満宮で大福梅の包装始まる　京都,https://mainichi.jp/articles/20261116/k00/00m/310/074000c,2026-11-16T22:19:00Z,8
+朝日新聞,http://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss,福岡市長選、なぜ再選挙に?　来年1月投開票か、再々選挙の可能性も,http://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss,2026-11-16T22:19:00Z,9
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/010/212000c,福岡市長選、なぜ再選挙に？　上位4候補、票食い合った要因,https://mainichi.jp/articles/20261116/k00/00m/010/212000c,2026-11-16T22:19:00Z,9
+朝日新聞,http://www.asahi.com/articles/ASVCJ5676VCJBQBQ3BCM.html?ref=rss,トランプ氏、金正恩氏と「会うかもしれない」　アジア歴訪の出発前に,http://www.asahi.com/articles/ASVCJ5676VCJBQBQ3BCM.html?ref=rss,2026-11-16T22:19:00Z,10
+毎日新聞,https://mainichi.jp/articles/20261117/k00/00m/030/001000c,トランプ氏、正恩氏と「会談するかもしれない」と発言　アジア訪問で,https://mainichi.jp/articles/20261117/k00/00m/030/001000c,2026-11-16T22:19:00Z,10
+朝日新聞,http://www.asahi.com/articles/ASVCJ36Q8VCJOXIE02KM.html?ref=rss,静岡・菊川の3人殺害事件、被告に死刑求刑　弁護側「心神耗弱」主張,http://www.asahi.com/articles/ASVCJ36Q8VCJOXIE02KM.html?ref=rss,2026-11-16T11:44:00Z,11
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/310/185000c,静岡・菊川の祖父母ら3人殺害　検察側が29歳孫に死刑求刑,https://mainichi.jp/articles/20261116/k00/00m/310/185000c,2026-11-16T11:44:00Z,11
+朝日新聞,http://www.asahi.com/articles/ASVCJ3CHXVCJUTFL01QM.html?ref=rss,はやぶさ2、目的地を変更　エンジン不具合、新たな小惑星へ,http://www.asahi.com/articles/ASVCJ3CHXVCJUTFL01QM.html?ref=rss,2026-11-16T11:44:00Z,12
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/100/187000c,探査機「はやぶさ2」、最終目的地を変更　主エンジンの劣化で,https://mainichi.jp/articles/20261116/k00/00m/100/187000c,2026-11-16T11:44:00Z,12
+朝日新聞,http://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss,定数削減法案、17日審議入りへ　維新幹部は「月末までに衆院通過」,http://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss,2026-11-16T11:44:00Z,13
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/010/174000c,衆院定数削減法案、17日に審議入り決定　与党、早期成立目指す,https://mainichi.jp/articles/20261116/k00/00m/010/174000c,2026-11-16T11:44:00Z,13
+NHK,https://news.web.nhk/newsweb/na/nd-20261115de76209,ASEAN首脳会議開幕 ミャンマー本格復帰の議論は先送り,https://news.web.nhk/newsweb/na/nd-20261115de76209,2026-11-15T17:51:00Z,14
+朝日新聞,http://www.asahi.com/articles/ASVCH3TBQVCHUHBI02CM.html?ref=rss,ASEAN首脳会議、ミャンマー「復帰」判断を見送り　弾圧やまず,http://www.asahi.com/articles/ASVCH3TBQVCHUHBI02CM.html?ref=rss,2026-11-15T17:51:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/030/176000c,ASEAN首脳会議開幕　ミャンマーの段階的な復帰を模索,https://mainichi.jp/articles/20261115/k00/00m/030/176000c,2026-11-15T17:51:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/030/188000c,ASEAN首脳会議　ミャンマーの復帰を見送り　接触は継続へ,https://mainichi.jp/articles/20261115/k00/00m/030/188000c,2026-11-15T17:51:00Z,14
+毎日新聞,https://mainichi.jp/articles/20261116/k00/00m/030/040000c,ミャンマーのASEAN復帰　タイ外相、28年に「外相級から」,https://mainichi.jp/articles/20261116/k00/00m/030/040000c,2026-11-16T02:51:00Z,14
+NHK,https://news.web.nhk/newsweb/na/nd-20261115de76062,ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう,https://news.web.nhk/newsweb/na/nd-20261115de76062,2026-11-15T11:13:00Z,15
+朝日新聞,http://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss,ハンズ渋谷店、営業48年で閉店　客ら惜しむ「渋谷が変わる寂しさ」,http://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss,2026-11-15T17:51:00Z,15
+NHK,https://news.web.nhk/newsweb/na/nd-20261115de76094,愛媛県知事選挙 現職の中村時広氏が5回目の当選確実【速報】,https://news.web.nhk/newsweb/na/nd-20261115de76094,2026-11-15T11:13:00Z,16
+NHK,https://news.web.nhk/newsweb/na/nd-20261115de76100,熊本市長選挙 現職の大西一史氏が4回目の当選確実,https://news.web.nhk/newsweb/na/nd-20261115de76100,2026-11-15T11:13:00Z,16
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/010/020000c,愛媛県知事選、現職・中村時広氏が当選確実　無所属新人2氏破る,https://mainichi.jp/articles/20261115/k00/00m/010/020000c,2026-11-15T11:13:00Z,16
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/010/103000c,熊本市長選、現職の大西一史氏が4選確実　新人4人を破る,https://mainichi.jp/articles/20261115/k00/00m/010/103000c,2026-11-15T11:13:00Z,16
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/310/200000c,品川区長選、現職の森沢恭子氏が再選確実　新人制す,https://mainichi.jp/articles/20261115/k00/00m/310/200000c,2026-11-15T17:51:00Z,16
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/310/211000c,新宿区長選、現職の吉住健一氏が4選確実　新人3人を破る,https://mainichi.jp/articles/20261115/k00/00m/310/211000c,2026-11-15T17:51:00Z,16
+朝日新聞,http://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss,桑木志帆が初の年間女王、ライバルの猛追振り切り5勝目　女子ゴルフ,http://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss,2026-11-15T11:13:00Z,17
+NHK,https://news.web.nhk/newsweb/na/nd-20261115de76127,女子ゴルフ国内ツアー 桑木志帆が初の年間女王,https://news.web.nhk/newsweb/na/nd-20261115de76127,2026-11-15T17:51:00Z,17
+朝日新聞,http://www.asahi.com/articles/ASVCG2GMCVCGUQIP02NM.html?ref=rss,【写真まとめ】　両陛下、豊かな海づくり大会に出席　2日間の様子は,http://www.asahi.com/articles/ASVCG2GMCVCGUQIP02NM.html?ref=rss,2026-11-15T11:13:00Z,18
+朝日新聞,http://www.asahi.com/articles/ASVCH13N9VCHUTIL00RM.html?ref=rss,「豊かな海づくりの輪」未来へ広がり願う　両陛下、大阪で大会に出席,http://www.asahi.com/articles/ASVCH13N9VCHUTIL00RM.html?ref=rss,2026-11-15T11:13:00Z,18
+朝日新聞,http://www.asahi.com/articles/ASVCH35PWVCHUQIP00JM.html?ref=rss,両陛下、キジハタとヒラメ稚魚を放流　全国豊かな海づくり大会に出席,http://www.asahi.com/articles/ASVCH35PWVCHUQIP00JM.html?ref=rss,2026-11-15T11:13:00Z,18
+毎日新聞,https://mainichi.jp/articles/20261115/k00/00m/040/174000c,天皇、皇后両陛下が「海づくり大会」出席　ヒラメなど稚魚を放流,https://mainichi.jp/articles/20261115/k00/00m/040/174000c,2026-11-15T17:51:00Z,18
